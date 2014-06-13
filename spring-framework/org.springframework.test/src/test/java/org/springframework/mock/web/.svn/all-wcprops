@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/2296/trunk/org.springframework.test/src/test/java/org/springframework/mock/web
+END
+MockHttpServletResponseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/188/trunk/org.springframework.test/src/test/java/org/springframework/mock/web/MockHttpServletResponseTests.java
+END
+MockServletContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/2296/trunk/org.springframework.test/src/test/java/org/springframework/mock/web/MockServletContextTests.java
+END
+MockHttpServletRequestTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/188/trunk/org.springframework.test/src/test/java/org/springframework/mock/web/MockHttpServletRequestTests.java
+END
+MockPageContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/188/trunk/org.springframework.test/src/test/java/org/springframework/mock/web/MockPageContextTests.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/1717/trunk/org.springframework.jms/src/test/java/org/springframework/jms/connection
+END
+TestConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/connection/TestConnection.java
+END
+TestExceptionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/connection/TestExceptionListener.java
+END
+SingleConnectionFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1717/trunk/org.springframework.jms/src/test/java/org/springframework/jms/connection/SingleConnectionFactoryTests.java
+END
+JmsTransactionManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/connection/JmsTransactionManagerTests.java
+END

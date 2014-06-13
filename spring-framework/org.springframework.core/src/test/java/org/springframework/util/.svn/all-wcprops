@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-framework/!svn/ver/3347/trunk/org.springframework.core/src/test/java/org/springframework/util
+END
+LinkedMultiValueMapTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.core/src/test/java/org/springframework/util/LinkedMultiValueMapTests.java
+END
+CompositeIteratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1664/trunk/org.springframework.core/src/test/java/org/springframework/util/CompositeIteratorTests.java
+END
+CollectionUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1019/trunk/org.springframework.core/src/test/java/org/springframework/util/CollectionUtilsTests.java
+END
+StopWatchTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/StopWatchTests.java
+END
+MethodInvokerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/util/MethodInvokerTests.java
+END
+MockLog4jAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/MockLog4jAppender.java
+END
+ClassUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/3347/trunk/org.springframework.core/src/test/java/org/springframework/util/ClassUtilsTests.java
+END
+ObjectUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/1824/trunk/org.springframework.core/src/test/java/org/springframework/util/ObjectUtilsTests.java
+END
+PropertyPlaceholderHelperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1994/trunk/org.springframework.core/src/test/java/org/springframework/util/PropertyPlaceholderHelperTests.java
+END
+StringUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/StringUtilsTests.java
+END
+FileCopyUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/FileCopyUtilsTests.java
+END
+CachingMapDecoratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/798/trunk/org.springframework.core/src/test/java/org/springframework/util/CachingMapDecoratorTests.java
+END
+PropertiesPersisterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/PropertiesPersisterTests.java
+END
+DigestUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/2275/trunk/org.springframework.core/src/test/java/org/springframework/util/DigestUtilsTests.java
+END
+AssertTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/238/trunk/org.springframework.core/src/test/java/org/springframework/util/AssertTests.java
+END
+TypeUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/3220/trunk/org.springframework.core/src/test/java/org/springframework/util/TypeUtilsTests.java
+END
+Log4jConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/Log4jConfigurerTests.java
+END
+AntPathMatcherTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/2815/trunk/org.springframework.core/src/test/java/org/springframework/util/AntPathMatcherTests.java
+END
+FileSystemUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/FileSystemUtilsTests.java
+END
+AutoPopulatingListTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/util/AutoPopulatingListTests.java
+END
+ResourceUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/ResourceUtilsTests.java
+END
+NumberUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/NumberUtilsTests.java
+END
+SystemPropertyUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/3282/trunk/org.springframework.core/src/test/java/org/springframework/util/SystemPropertyUtilsTests.java
+END
+PatternMatchUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/util/PatternMatchUtilsTests.java
+END
+ReflectionUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/626/trunk/org.springframework.core/src/test/java/org/springframework/util/ReflectionUtilsTests.java
+END
+SerializationTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/util/SerializationTestUtils.java
+END

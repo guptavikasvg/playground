@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1725/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security
+END
+policy.all
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1705/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/policy.all
+END
+CallbacksSecurityTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/1725/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/CallbacksSecurityTests.java
+END
+callbacks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/1708/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/callbacks.xml
+END

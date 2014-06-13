@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/2465/trunk/org.springframework.context/src/test/java/org/springframework/instrument/classloading/oc4j
+END
+OC4JClassPreprocessorAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/2465/trunk/org.springframework.context/src/test/java/org/springframework/instrument/classloading/oc4j/OC4JClassPreprocessorAdapterTests.java
+END
+OC4JLoadTimeWeaverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/2465/trunk/org.springframework.context/src/test/java/org/springframework/instrument/classloading/oc4j/OC4JLoadTimeWeaverTests.java
+END

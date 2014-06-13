@@ -1,0 +1,43 @@
+10
+
+dir
+3602
+https://src.springframework.org/svn/spring-framework/trunk/org.springframework.jms/src/test/java/org/springframework
+https://src.springframework.org/svn/spring-framework
+
+
+
+2010-01-14T11:17:15.114486Z
+2811
+jhoeller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50f2f4bb-b051-0410-bef5-90022cba6387
+
+transaction
+dir
+
+beans
+dir
+
+core
+dir
+
+jms
+dir
+
+jca
+dir
+

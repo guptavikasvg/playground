@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/162/trunk/org.springframework.aspects/src/main/java/org/springframework/transaction/aspectj
+END
+AbstractTransactionAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/162/trunk/org.springframework.aspects/src/main/java/org/springframework/transaction/aspectj/AbstractTransactionAspect.aj
+END
+AnnotationTransactionAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/162/trunk/org.springframework.aspects/src/main/java/org/springframework/transaction/aspectj/AnnotationTransactionAspect.aj
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/2127/trunk/org.springframework.web.struts/src/test/java/org/springframework/web/servlet/view/tiles
+END
+TestComponentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2127/trunk/org.springframework.web.struts/src/test/java/org/springframework/web/servlet/view/tiles/TestComponentController.java
+END
+TilesViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2127/trunk/org.springframework.web.struts/src/test/java/org/springframework/web/servlet/view/tiles/TilesViewTests.java
+END

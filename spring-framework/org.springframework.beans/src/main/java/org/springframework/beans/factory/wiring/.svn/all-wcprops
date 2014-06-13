@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/1829/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/wiring
+END
+BeanWiringInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/wiring/BeanWiringInfo.java
+END
+BeanWiringInfoResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/wiring/BeanWiringInfoResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/wiring/package-info.java
+END
+BeanConfigurerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1829/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/wiring/BeanConfigurerSupport.java
+END
+ClassNameBeanWiringInfoResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/wiring/ClassNameBeanWiringInfoResolver.java
+END

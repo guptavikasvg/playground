@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby
+END
+Broken.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/Broken.rb
+END
+jrubyContextForPrimitives.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/jrubyContextForPrimitives.xml
+END
+Printer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/Printer.rb
+END
+AdvisedJRubyScriptFactoryTests-factoryBean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/AdvisedJRubyScriptFactoryTests-factoryBean.xml
+END
+PrimitiveAdder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/PrimitiveAdder.java
+END
+Messenger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/Messenger.rb
+END
+jrubyContextForWrappers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/jrubyContextForWrappers.xml
+END
+Calculator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/Calculator.rb
+END
+jrubyContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/jrubyContext.xml
+END
+jruby-with-xsd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/jruby-with-xsd.xml
+END
+jrubyBrokenContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/jrubyBrokenContext.xml
+END
+WrapperAdder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/WrapperAdder.java
+END
+Printable.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/Printable.java
+END
+jrubyRefreshableContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/jrubyRefreshableContext.xml
+END
+Printer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/Printer.java
+END
+jruby-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/jruby-aop.xml
+END
+AdvisedJRubyScriptFactoryTests-beanNameAutoProxyCreator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/AdvisedJRubyScriptFactoryTests-beanNameAutoProxyCreator.xml
+END
+JRubyScriptFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/JRubyScriptFactoryTests.java
+END
+AdvisedJRubyScriptFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/scripting/jruby/AdvisedJRubyScriptFactoryTests.java
+END

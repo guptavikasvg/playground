@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/test/jpa
+END
+AbstractJpaTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/test/jpa/AbstractJpaTests.java
+END
+OrmXmlOverridingShadowingClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/test/jpa/OrmXmlOverridingShadowingClassLoader.java
+END

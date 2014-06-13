@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/2006/trunk/org.springframework.core/src/main/java/org/springframework/core/enums
+END
+LabeledEnumResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1687/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/LabeledEnumResolver.java
+END
+AbstractCachingLabeledEnumResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2006/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/AbstractCachingLabeledEnumResolver.java
+END
+AbstractLabeledEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1687/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/AbstractLabeledEnum.java
+END
+StringCodedLabeledEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1687/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/StringCodedLabeledEnum.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/package-info.java
+END
+StaticLabeledEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1687/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/StaticLabeledEnum.java
+END
+StaticLabeledEnumResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/1687/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/StaticLabeledEnumResolver.java
+END
+LetterCodedLabeledEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1687/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/LetterCodedLabeledEnum.java
+END
+ShortCodedLabeledEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1687/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/ShortCodedLabeledEnum.java
+END
+LabeledEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1687/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/LabeledEnum.java
+END
+AbstractGenericLabeledEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1687/trunk/org.springframework.core/src/main/java/org/springframework/core/enums/AbstractGenericLabeledEnum.java
+END

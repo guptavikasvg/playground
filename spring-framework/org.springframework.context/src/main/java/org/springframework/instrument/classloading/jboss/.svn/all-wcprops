@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/2657/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/jboss
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2364/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/jboss/package-info.java
+END
+JBossLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2657/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/jboss/JBossLoadTimeWeaver.java
+END
+JBossTranslatorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/2377/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/jboss/JBossTranslatorAdapter.java
+END
+JBossClassLoaderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/2657/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/jboss/JBossClassLoaderAdapter.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/3415/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support
+END
+PathMatchingResourcePatternResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/3415/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/PathMatchingResourcePatternResolver.java
+END
+PropertiesLoaderSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/PropertiesLoaderSupport.java
+END
+ResourceArrayPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2831/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/ResourceArrayPropertyEditor.java
+END
+PropertiesLoaderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/PropertiesLoaderUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/package-info.java
+END
+ResourcePatternUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3213/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/ResourcePatternUtils.java
+END
+ResourcePatternResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/ResourcePatternResolver.java
+END
+EncodedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/148/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/EncodedResource.java
+END
+VfsPatternUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3415/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/VfsPatternUtils.java
+END
+LocalizedResourceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/io/support/LocalizedResourceHelper.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3229/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation
+END
+SingletonMetadataAwareAspectInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/1020/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/SingletonMetadataAwareAspectInstanceFactory.java
+END
+AspectJAdvisorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/AspectJAdvisorFactory.java
+END
+BeanFactoryAspectInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/693/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/BeanFactoryAspectInstanceFactory.java
+END
+MetadataAwareAspectInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/MetadataAwareAspectInstanceFactory.java
+END
+AnnotationAwareAspectJAutoProxyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/1101/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/AnnotationAwareAspectJAutoProxyCreator.java
+END
+AspectMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/1022/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/AspectMetadata.java
+END
+ReflectiveAspectJAdvisorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java
+END
+PrototypeAspectInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/PrototypeAspectInstanceFactory.java
+END
+LazySingletonAspectInstanceFactoryDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/1021/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/LazySingletonAspectInstanceFactoryDecorator.java
+END
+NotAnAtAspectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/NotAnAtAspectException.java
+END
+AspectJProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/649/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/AspectJProxyFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/package-info.java
+END
+InstantiationModelAwarePointcutAdvisorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/3137/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/InstantiationModelAwarePointcutAdvisorImpl.java
+END
+SimpleMetadataAwareAspectInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/1020/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/SimpleMetadataAwareAspectInstanceFactory.java
+END
+BeanFactoryAspectJAdvisorsBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder.java
+END
+AbstractAspectJAdvisorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/3229/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactory.java
+END

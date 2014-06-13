@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/2100/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata
+END
+JmxMetadataUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/JmxMetadataUtils.java
+END
+ManagedAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/ManagedAttribute.java
+END
+ManagedMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2100/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/ManagedMetric.java
+END
+JmxAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1216/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/JmxAttributeSource.java
+END
+ManagedNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/ManagedNotification.java
+END
+ManagedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/ManagedResource.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/package-info.java
+END
+AbstractJmxAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/AbstractJmxAttribute.java
+END
+InvalidMetadataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/InvalidMetadataException.java
+END
+ManagedOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/ManagedOperation.java
+END
+ManagedOperationParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jmx/export/metadata/ManagedOperationParameter.java
+END

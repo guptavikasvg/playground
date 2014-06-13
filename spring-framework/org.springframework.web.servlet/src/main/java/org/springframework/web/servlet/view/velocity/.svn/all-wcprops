@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/3476/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity
+END
+VelocityToolboxView.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/3476/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity/VelocityToolboxView.java
+END
+VelocityConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity/VelocityConfigurer.java
+END
+spring.vm
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1931/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity/spring.vm
+END
+VelocityConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity/VelocityConfig.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity/package-info.java
+END
+VelocityLayoutView.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1489/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity/VelocityLayoutView.java
+END
+VelocityLayoutViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity/VelocityLayoutViewResolver.java
+END
+VelocityView.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2214/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity/VelocityView.java
+END
+VelocityViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/1171/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/velocity/VelocityViewResolver.java
+END

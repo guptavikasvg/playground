@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/3232/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/json
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1415/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/json/package-info.java
+END
+MappingJacksonJsonView.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/3232/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/json/MappingJacksonJsonView.java
+END

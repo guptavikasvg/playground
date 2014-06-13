@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/3384/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form
+END
+PasswordInputTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/1946/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/PasswordInputTagTests.java
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/Country.java
+END
+TestTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/575/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/TestTypes.java
+END
+CheckboxTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3018/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/CheckboxTagTests.java
+END
+AbstractFormTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/AbstractFormTagTests.java
+END
+ItemPet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/ItemPet.java
+END
+RadioButtonTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/1946/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/RadioButtonTagTests.java
+END
+OptionsTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1946/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/OptionsTagTests.java
+END
+OptionTagEnumTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/OptionTagEnumTests.java
+END
+InputTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1946/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/InputTagTests.java
+END
+AbstractHtmlElementTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/AbstractHtmlElementTagTests.java
+END
+FormTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1946/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/FormTagTests.java
+END
+TagIdGeneratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/TagIdGeneratorTests.java
+END
+SimpleFloatEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/SimpleFloatEditor.java
+END
+OptionTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1946/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/OptionTagTests.java
+END
+TestBeanWithRealCountry.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/TestBeanWithRealCountry.java
+END
+HiddenInputTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/HiddenInputTagTests.java
+END
+ErrorsTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3384/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/ErrorsTagTests.java
+END
+TagWriterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/TagWriterTests.java
+END
+RadioButtonsTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/1946/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/RadioButtonsTagTests.java
+END
+TextareaTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/1946/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/TextareaTagTests.java
+END
+CheckboxesTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2973/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/CheckboxesTagTests.java
+END
+LabelTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1946/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/LabelTagTests.java
+END
+SelectTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2973/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/form/SelectTagTests.java
+END

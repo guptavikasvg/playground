@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/scope
+END
+ScopedProxyAutowireTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/scope/ScopedProxyAutowireTests.java
+END
+ScopedProxyAutowireTests-scopedAutowireFalse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/498/trunk/org.springframework.aop/src/test/java/org/springframework/aop/scope/ScopedProxyAutowireTests-scopedAutowireFalse.xml
+END
+DefaultScopedObjectTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/498/trunk/org.springframework.aop/src/test/java/org/springframework/aop/scope/DefaultScopedObjectTests.java
+END
+ScopedProxyAutowireTests-scopedAutowireTrue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/498/trunk/org.springframework.aop/src/test/java/org/springframework/aop/scope/ScopedProxyAutowireTests-scopedAutowireTrue.xml
+END

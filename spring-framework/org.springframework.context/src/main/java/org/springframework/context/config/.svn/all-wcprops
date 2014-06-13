@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.context/src/main/java/org/springframework/context/config
+END
+ContextNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.context/src/main/java/org/springframework/context/config/ContextNamespaceHandler.java
+END
+MBeanExportBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.context/src/main/java/org/springframework/context/config/MBeanExportBeanDefinitionParser.java
+END
+PropertyOverrideBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/2193/trunk/org.springframework.context/src/main/java/org/springframework/context/config/PropertyOverrideBeanDefinitionParser.java
+END
+AbstractPropertyLoadingBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/2193/trunk/org.springframework.context/src/main/java/org/springframework/context/config/AbstractPropertyLoadingBeanDefinitionParser.java
+END
+PropertyPlaceholderBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/2193/trunk/org.springframework.context/src/main/java/org/springframework/context/config/PropertyPlaceholderBeanDefinitionParser.java
+END
+LoadTimeWeaverBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/context/config/LoadTimeWeaverBeanDefinitionParser.java
+END
+SpringConfiguredBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/config/SpringConfiguredBeanDefinitionParser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/context/config/package-info.java
+END
+MBeanServerBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.context/src/main/java/org/springframework/context/config/MBeanServerBeanDefinitionParser.java
+END

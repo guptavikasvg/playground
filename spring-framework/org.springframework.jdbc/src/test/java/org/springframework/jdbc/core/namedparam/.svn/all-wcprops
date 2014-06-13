@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/1309/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/namedparam
+END
+BeanPropertySqlParameterSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/249/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/namedparam/BeanPropertySqlParameterSourceTests.java
+END
+MapSqlParameterSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/249/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/namedparam/MapSqlParameterSourceTests.java
+END
+NamedParameterJdbcTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/1309/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplateTests.java
+END
+NamedParameterUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/249/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/namedparam/NamedParameterUtilsTests.java
+END
+NamedParameterQueryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/219/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/namedparam/NamedParameterQueryTests.java
+END

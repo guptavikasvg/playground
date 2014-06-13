@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/WEB-INF/resources
+END
+themeSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/WEB-INF/resources/themeSource.xml
+END
+messageSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/WEB-INF/resources/messageSource.xml
+END

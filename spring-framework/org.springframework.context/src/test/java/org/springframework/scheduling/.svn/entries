@@ -1,0 +1,80 @@
+10
+
+dir
+3602
+https://src.springframework.org/svn/spring-framework/trunk/org.springframework.context/src/test/java/org/springframework/scheduling
+https://src.springframework.org/svn/spring-framework
+
+
+
+2010-07-28T17:39:03.203230Z
+3511
+jhoeller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50f2f4bb-b051-0410-bef5-90022cba6387
+
+timer
+dir
+
+concurrent
+dir
+
+config
+dir
+
+backportconcurrent
+dir
+
+TestMethodInvokingTask.java
+file
+
+
+
+
+2010-08-18T00:11:06.159519Z
+c02da3d12d957f75c67450ff57b51ab3
+2008-10-30T22:12:41.254879Z
+230
+apoutsma
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1162
+
+annotation
+dir
+
+support
+dir
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/2182/trunk/org.springframework.test/src/test/java/org/springframework/test/context/testng
+END
+ConcreteTransactionalTestNGSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/test/java/org/springframework/test/context/testng/ConcreteTransactionalTestNGSpringContextTests.java
+END
+TimedTransactionalTestNGSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/2182/trunk/org.springframework.test/src/test/java/org/springframework/test/context/testng/TimedTransactionalTestNGSpringContextTests.java
+END
+ConcreteTransactionalTestNGSpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/testng/ConcreteTransactionalTestNGSpringContextTests-context.xml
+END
+TimedTransactionalTestNGSpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/spring-framework/!svn/ver/2182/trunk/org.springframework.test/src/test/java/org/springframework/test/context/testng/TimedTransactionalTestNGSpringContextTests-context.xml
+END
+FailingBeforeAndAfterMethodsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/1474/trunk/org.springframework.test/src/test/java/org/springframework/test/context/testng/FailingBeforeAndAfterMethodsTests.java
+END
+FailingBeforeAndAfterMethodsTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/testng/FailingBeforeAndAfterMethodsTests-context.xml
+END
+DirtiesContextTransactionalTestNGSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/test/java/org/springframework/test/context/testng/DirtiesContextTransactionalTestNGSpringContextTests.java
+END
+DirtiesContextTransactionalTestNGSpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/testng/DirtiesContextTransactionalTestNGSpringContextTests-context.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/2501/trunk/org.springframework.context.support/src/test/resources/org/springframework/scheduling/quartz
+END
+multipleAnonymousMethodInvokingJobDetailFB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/spring-framework/!svn/ver/229/trunk/org.springframework.context.support/src/test/resources/org/springframework/scheduling/quartz/multipleAnonymousMethodInvokingJobDetailFB.xml
+END
+job-scheduling-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/229/trunk/org.springframework.context.support/src/test/resources/org/springframework/scheduling/quartz/job-scheduling-data.xml
+END
+schedulerAccessorBean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/229/trunk/org.springframework.context.support/src/test/resources/org/springframework/scheduling/quartz/schedulerAccessorBean.xml
+END
+quartzSchedulerLifecycleTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/2501/trunk/org.springframework.context.support/src/test/resources/org/springframework/scheduling/quartz/quartzSchedulerLifecycleTests.xml
+END
+databasePersistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2206/trunk/org.springframework.context.support/src/test/resources/org/springframework/scheduling/quartz/databasePersistence.xml
+END
+schedulerRepositoryExposure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/229/trunk/org.springframework.context.support/src/test/resources/org/springframework/scheduling/quartz/schedulerRepositoryExposure.xml
+END
+quartz-hsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2206/trunk/org.springframework.context.support/src/test/resources/org/springframework/scheduling/quartz/quartz-hsql.sql
+END
+multipleSchedulers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/229/trunk/org.springframework.context.support/src/test/resources/org/springframework/scheduling/quartz/multipleSchedulers.xml
+END

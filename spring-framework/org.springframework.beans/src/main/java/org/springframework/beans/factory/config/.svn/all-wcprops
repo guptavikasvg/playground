@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3602/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config
+END
+InstantiationAwareBeanPostProcessorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/608/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessorAdapter.java
+END
+BeanReferenceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/BeanReferenceFactoryBean.java
+END
+ServiceLocatorFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/ServiceLocatorFactoryBean.java
+END
+MethodInvokingFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/MethodInvokingFactoryBean.java
+END
+BeanFactoryPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/3602/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/BeanFactoryPostProcessor.java
+END
+CustomEditorConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3441/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/CustomEditorConfigurer.java
+END
+SmartInstantiationAwareBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/387/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/SmartInstantiationAwareBeanPostProcessor.java
+END
+ConstructorArgumentValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2546/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/ConstructorArgumentValues.java
+END
+TypedStringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3513/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/TypedStringValue.java
+END
+PropertyPlaceholderConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/3522/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java
+END
+BeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/3157/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/BeanPostProcessor.java
+END
+PropertyPathFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3059/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/PropertyPathFactoryBean.java
+END
+DestructionAwareBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/347/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/DestructionAwareBeanPostProcessor.java
+END
+PropertyResourceConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/3493/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/PropertyResourceConfigurer.java
+END
+BeanReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/BeanReference.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/package-info.java
+END
+AutowireCapableBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/1832/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/AutowireCapableBeanFactory.java
+END
+CustomScopeConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2100/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/CustomScopeConfigurer.java
+END
+ListFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/ListFactoryBean.java
+END
+RuntimeBeanNameReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/RuntimeBeanNameReference.java
+END
+MapFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/MapFactoryBean.java
+END
+BeanDefinitionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3307/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/BeanDefinitionVisitor.java
+END
+ConfigurableListableBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.java
+END
+InstantiationAwareBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/387/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessor.java
+END
+FieldRetrievingFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/FieldRetrievingFactoryBean.java
+END
+DeprecatedBeanWarner.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/3343/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/DeprecatedBeanWarner.java
+END
+BeanExpressionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/BeanExpressionResolver.java
+END
+PropertyOverrideConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/1987/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/PropertyOverrideConfigurer.java
+END
+Scope.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/416/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/Scope.java
+END
+SetFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/SetFactoryBean.java
+END
+PropertiesFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3523/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/PropertiesFactoryBean.java
+END
+BeanDefinitionHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/855/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/BeanDefinitionHolder.java
+END
+DependencyDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1850/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/DependencyDescriptor.java
+END
+BeanDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2457/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/BeanDefinition.java
+END
+ConfigurableBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/ConfigurableBeanFactory.java
+END
+AbstractFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3030/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/AbstractFactoryBean.java
+END
+SingletonBeanRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2347/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/SingletonBeanRegistry.java
+END
+ProviderCreatingFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/3191/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/ProviderCreatingFactoryBean.java
+END
+PreferencesPlaceholderConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/PreferencesPlaceholderConfigurer.java
+END
+RuntimeBeanReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/RuntimeBeanReference.java
+END
+ObjectFactoryCreatingFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/3191/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/ObjectFactoryCreatingFactoryBean.java
+END
+BeanExpressionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2931/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/BeanExpressionContext.java
+END
+CommonsLogFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/config/CommonsLogFactoryBean.java
+END

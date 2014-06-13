@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/3389/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config
+END
+AspectJAutoProxyBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AspectJAutoProxyBeanDefinitionParser.java
+END
+PointcutComponentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/PointcutComponentDefinition.java
+END
+AspectEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AspectEntry.java
+END
+AdvisorComponentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AdvisorComponentDefinition.java
+END
+SimpleBeanFactoryAwareAspectInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/SimpleBeanFactoryAwareAspectInstanceFactory.java
+END
+AspectComponentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AspectComponentDefinition.java
+END
+AopNamespaceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/3389/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AopNamespaceUtils.java
+END
+AdviceEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AdviceEntry.java
+END
+MethodLocatingFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/MethodLocatingFactoryBean.java
+END
+ScopedProxyBeanDefinitionDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1035/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/ScopedProxyBeanDefinitionDecorator.java
+END
+ConfigBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3334/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/ConfigBeanDefinitionParser.java
+END
+SpringConfiguredBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/SpringConfiguredBeanDefinitionParser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/package-info.java
+END
+AopConfigUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3389/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AopConfigUtils.java
+END
+PointcutEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/PointcutEntry.java
+END
+AdvisorEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AdvisorEntry.java
+END
+AopNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AopNamespaceHandler.java
+END
+AbstractInterceptorDrivenBeanDefinitionDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/3207/trunk/org.springframework.aop/src/main/java/org/springframework/aop/config/AbstractInterceptorDrivenBeanDefinitionDecorator.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jdo/support
+END
+JdoDaoSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/218/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jdo/support/JdoDaoSupportTests.java
+END
+OpenPersistenceManagerInViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jdo/support/OpenPersistenceManagerInViewTests.java
+END

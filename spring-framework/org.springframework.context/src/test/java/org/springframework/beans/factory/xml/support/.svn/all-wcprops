@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/3285/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/xml/support
+END
+CustomNamespaceHandlerTests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/485/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/xml/support/CustomNamespaceHandlerTests.properties
+END
+CustomNamespaceHandlerTests.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/485/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/xml/support/CustomNamespaceHandlerTests.xsd
+END
+CustomNamespaceHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/3285/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/xml/support/CustomNamespaceHandlerTests.java
+END
+CustomNamespaceHandlerTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/3206/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/xml/support/CustomNamespaceHandlerTests-context.xml
+END

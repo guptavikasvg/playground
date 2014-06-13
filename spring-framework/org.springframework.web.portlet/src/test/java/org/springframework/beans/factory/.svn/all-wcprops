@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/2165/trunk/org.springframework.web.portlet/src/test/java/org/springframework/beans/factory
+END
+DummyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/beans/factory/DummyFactory.java
+END
+AbstractBeanFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2165/trunk/org.springframework.web.portlet/src/test/java/org/springframework/beans/factory/AbstractBeanFactoryTests.java
+END
+AbstractListableBeanFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/beans/factory/AbstractListableBeanFactoryTests.java
+END
+LifecycleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/beans/factory/LifecycleBean.java
+END
+MustBeInitialized.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/beans/factory/MustBeInitialized.java
+END

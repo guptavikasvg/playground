@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler
+END
+UserRoleAuthorizationInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler/UserRoleAuthorizationInterceptorTests.java
+END
+SimpleMappingExceptionResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler/SimpleMappingExceptionResolverTests.java
+END
+portletModeMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler/portletModeMapping.xml
+END
+portletModeParameterMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler/portletModeParameterMapping.xml
+END
+PortletModeHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler/PortletModeHandlerMappingTests.java
+END
+parameterMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler/parameterMapping.xml
+END
+PortletModeParameterHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler/PortletModeParameterHandlerMappingTests.java
+END
+ParameterHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler/ParameterHandlerMappingTests.java
+END
+ParameterMappingInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/handler/ParameterMappingInterceptorTests.java
+END

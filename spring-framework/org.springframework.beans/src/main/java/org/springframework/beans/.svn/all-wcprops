@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/3602/trunk/org.springframework.beans/src/main/java/org/springframework/beans
+END
+TypeConverterDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/3453/trunk/org.springframework.beans/src/main/java/org/springframework/beans/TypeConverterDelegate.java
+END
+BeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/2505/trunk/org.springframework.beans/src/main/java/org/springframework/beans/BeanWrapper.java
+END
+PropertyBatchUpdateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/2100/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyBatchUpdateException.java
+END
+InvalidPropertyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/InvalidPropertyException.java
+END
+PropertyValuesEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyValuesEditor.java
+END
+BeanMetadataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/BeanMetadataElement.java
+END
+PropertyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/1987/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyValue.java
+END
+PropertyEditorRegistrySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3369/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyEditorRegistrySupport.java
+END
+SimpleTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/3504/trunk/org.springframework.beans/src/main/java/org/springframework/beans/SimpleTypeConverter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.beans/src/main/java/org/springframework/beans/package-info.java
+END
+BeanUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3156/trunk/org.springframework.beans/src/main/java/org/springframework/beans/BeanUtils.java
+END
+PropertyAccessorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/2843/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyAccessorUtils.java
+END
+ConfigurablePropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1721/trunk/org.springframework.beans/src/main/java/org/springframework/beans/ConfigurablePropertyAccessor.java
+END
+BeanInstantiationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/BeanInstantiationException.java
+END
+BeanMetadataAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/BeanMetadataAttribute.java
+END
+FatalBeanException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/FatalBeanException.java
+END
+NullValueInNestedPathException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/NullValueInNestedPathException.java
+END
+PropertyAccessorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyAccessorFactory.java
+END
+DirectFieldAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/3345/trunk/org.springframework.beans/src/main/java/org/springframework/beans/DirectFieldAccessor.java
+END
+GenericTypeAwarePropertyDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2595/trunk/org.springframework.beans/src/main/java/org/springframework/beans/GenericTypeAwarePropertyDescriptor.java
+END
+NotReadablePropertyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/NotReadablePropertyException.java
+END
+PropertyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyValues.java
+END
+PropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/2523/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyAccessor.java
+END
+BeansException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/BeansException.java
+END
+TypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/1150/trunk/org.springframework.beans/src/main/java/org/springframework/beans/TypeConverter.java
+END
+CachedIntrospectionResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3374/trunk/org.springframework.beans/src/main/java/org/springframework/beans/CachedIntrospectionResults.java
+END
+BeanMetadataAttributeAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/BeanMetadataAttributeAccessor.java
+END
+PropertyEditorRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyEditorRegistrar.java
+END
+NotWritablePropertyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/NotWritablePropertyException.java
+END
+MutablePropertyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/3370/trunk/org.springframework.beans/src/main/java/org/springframework/beans/MutablePropertyValues.java
+END
+Mergeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/Mergeable.java
+END
+PropertyEditorRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyEditorRegistry.java
+END
+PropertyAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1892/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyAccessException.java
+END
+TypeMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1892/trunk/org.springframework.beans/src/main/java/org/springframework/beans/TypeMismatchException.java
+END
+BeanWrapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/3482/trunk/org.springframework.beans/src/main/java/org/springframework/beans/BeanWrapperImpl.java
+END
+PropertyMatches.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.beans/src/main/java/org/springframework/beans/PropertyMatches.java
+END
+MethodInvocationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/MethodInvocationException.java
+END
+AbstractPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2523/trunk/org.springframework.beans/src/main/java/org/springframework/beans/AbstractPropertyAccessor.java
+END
+ConversionNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2672/trunk/org.springframework.beans/src/main/java/org/springframework/beans/ConversionNotSupportedException.java
+END

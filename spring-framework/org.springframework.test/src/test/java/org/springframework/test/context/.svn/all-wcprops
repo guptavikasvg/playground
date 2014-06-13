@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/3118/trunk/org.springframework.test/src/test/java/org/springframework/test/context
+END
+TestExecutionListenersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/1872/trunk/org.springframework.test/src/test/java/org/springframework/test/context/TestExecutionListenersTests.java
+END
+TestContextManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/1470/trunk/org.springframework.test/src/test/java/org/springframework/test/context/TestContextManagerTests.java
+END
+SpringRunnerContextCacheTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/test/java/org/springframework/test/context/SpringRunnerContextCacheTests.java
+END
+ClassLevelDirtiesContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/3033/trunk/org.springframework.test/src/test/java/org/springframework/test/context/ClassLevelDirtiesContextTests.java
+END

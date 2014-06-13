@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-framework/!svn/ver/2811/trunk/org.springframework.jms/src/test/java/org/springframework/jms
+END
+StubQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/StubQueue.java
+END
+StubConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/StubConnectionFactory.java
+END
+StubTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/StubTopic.java
+END

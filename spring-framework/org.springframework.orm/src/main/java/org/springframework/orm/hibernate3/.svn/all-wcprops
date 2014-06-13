@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3592/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3
+END
+LocalJtaDataSourceConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/LocalJtaDataSourceConnectionProvider.java
+END
+LocalDataSourceConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2519/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/LocalDataSourceConnectionProvider.java
+END
+SpringTransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/SpringTransactionFactory.java
+END
+HibernateTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1856/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateTransactionManager.java
+END
+HibernateJdbcException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateJdbcException.java
+END
+HibernateOptimisticLockingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateOptimisticLockingFailureException.java
+END
+HibernateOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateOperations.java
+END
+HibernateQueryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateQueryException.java
+END
+SpringSessionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/SpringSessionContext.java
+END
+TransactionAwareDataSourceConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/TransactionAwareDataSourceConnectionProvider.java
+END
+FilterDefinitionFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3509/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/FilterDefinitionFactoryBean.java
+END
+LocalSessionFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/3152/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/LocalSessionFactoryBean.java
+END
+HibernateCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateCallback.java
+END
+HibernateInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateInterceptor.java
+END
+TypeDefinitionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/TypeDefinitionBean.java
+END
+SessionHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/SessionHolder.java
+END
+HibernateAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateAccessor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/package-info.java
+END
+HibernateSystemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateSystemException.java
+END
+AbstractSessionFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3592/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/AbstractSessionFactoryBean.java
+END
+LocalTransactionManagerLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/LocalTransactionManagerLookup.java
+END
+LocalRegionFactoryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2930/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/LocalRegionFactoryProxy.java
+END
+SpringSessionSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/SpringSessionSynchronization.java
+END
+LocalCacheProviderProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2454/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/LocalCacheProviderProxy.java
+END
+SessionFactoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2519/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/SessionFactoryUtils.java
+END
+HibernateTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateTemplate.java
+END
+HibernateObjectRetrievalFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/HibernateObjectRetrievalFailureException.java
+END

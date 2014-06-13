@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/3560/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource
+END
+WebSphereDataSourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/155/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/WebSphereDataSourceAdapter.java
+END
+SmartDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/SmartDataSource.java
+END
+DriverManagerDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/DriverManagerDataSource.java
+END
+ConnectionProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/ConnectionProxy.java
+END
+IsolationLevelDataSourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/IsolationLevelDataSourceAdapter.java
+END
+UserCredentialsDataSourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/596/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/UserCredentialsDataSourceAdapter.java
+END
+DataSourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3364/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/DataSourceUtils.java
+END
+ConnectionHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/ConnectionHandle.java
+END
+SingleConnectionDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/2337/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/SingleConnectionDataSource.java
+END
+LazyConnectionDataSourceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2337/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/LazyConnectionDataSourceProxy.java
+END
+DelegatingDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/350/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/DelegatingDataSource.java
+END
+AbstractDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/350/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/AbstractDataSource.java
+END
+SimpleDriverDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1720/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/SimpleDriverDataSource.java
+END
+TransactionAwareDataSourceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2795/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/package-info.java
+END
+SimpleConnectionHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/155/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/SimpleConnectionHandle.java
+END
+AbstractDriverBasedDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/AbstractDriverBasedDataSource.java
+END
+DataSourceTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3364/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/DataSourceTransactionManager.java
+END
+JdbcTransactionObjectSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/JdbcTransactionObjectSupport.java
+END
+ConnectionHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/3503/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/ConnectionHolder.java
+END

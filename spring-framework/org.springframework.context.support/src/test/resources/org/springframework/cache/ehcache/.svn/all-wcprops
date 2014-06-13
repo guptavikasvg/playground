@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/208/trunk/org.springframework.context.support/src/test/resources/org/springframework/cache/ehcache
+END
+testEhcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/208/trunk/org.springframework.context.support/src/test/resources/org/springframework/cache/ehcache/testEhcache.xml
+END

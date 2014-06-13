@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/3588/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc
+END
+CancellableFormControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/CancellableFormControllerTests.java
+END
+CommandControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/CommandControllerTests.java
+END
+UrlFilenameViewControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/UrlFilenameViewControllerTests.java
+END
+ControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2511/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/ControllerTests.java
+END
+FormControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/FormControllerTests.java
+END
+WebContentInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/WebContentInterceptorTests.java
+END
+WizardFormControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/WizardFormControllerTests.java
+END

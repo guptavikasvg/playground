@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/stereotype
+END
+Repository.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/stereotype/Repository.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/stereotype/Service.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/stereotype/Component.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/stereotype/Controller.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/stereotype/package-info.java
+END

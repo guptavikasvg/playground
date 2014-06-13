@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/3442/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/handler
+END
+BeanNameUrlHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/274/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/handler/BeanNameUrlHandlerMappingTests.java
+END
+PathMatchingUrlHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/2298/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/handler/PathMatchingUrlHandlerMappingTests.java
+END
+SimpleMappingExceptionResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/1653/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/handler/SimpleMappingExceptionResolverTests.java
+END
+SimpleUrlHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/3094/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/handler/SimpleUrlHandlerMappingTests.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/1750/trunk/org.springframework.context/src/main/java/org/springframework/ui/context/support
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/ui/context/support/package-info.java
+END
+ResourceBundleThemeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.context/src/main/java/org/springframework/ui/context/support/ResourceBundleThemeSource.java
+END
+DelegatingThemeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/ui/context/support/DelegatingThemeSource.java
+END
+UiApplicationContextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/1750/trunk/org.springframework.context/src/main/java/org/springframework/ui/context/support/UiApplicationContextUtils.java
+END
+SimpleTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/ui/context/support/SimpleTheme.java
+END

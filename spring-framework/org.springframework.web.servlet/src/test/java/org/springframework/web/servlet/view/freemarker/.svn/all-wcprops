@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/3046/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/freemarker
+END
+FreeMarkerViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/3046/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/freemarker/FreeMarkerViewTests.java
+END
+test.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1689/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/freemarker/test.ftl
+END
+FreeMarkerMacroTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/1931/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/freemarker/FreeMarkerMacroTests.java
+END
+FreeMarkerConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/freemarker/FreeMarkerConfigurerTests.java
+END

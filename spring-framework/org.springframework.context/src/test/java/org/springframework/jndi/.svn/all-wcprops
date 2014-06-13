@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/test/java/org/springframework/jndi
+END
+JndiTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/test/java/org/springframework/jndi/JndiTemplateTests.java
+END
+JndiTemplateEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/test/java/org/springframework/jndi/JndiTemplateEditorTests.java
+END
+SimpleNamingContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/test/java/org/springframework/jndi/SimpleNamingContextTests.java
+END
+JndiObjectFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/test/java/org/springframework/jndi/JndiObjectFactoryBeanTests.java
+END

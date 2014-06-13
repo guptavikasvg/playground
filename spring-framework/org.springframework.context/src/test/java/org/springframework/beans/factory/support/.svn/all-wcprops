@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/1894/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/support
+END
+InjectAnnotationAutowireContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/1894/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/support/InjectAnnotationAutowireContextTests.java
+END
+QualifierAnnotationAutowireContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/1574/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/support/QualifierAnnotationAutowireContextTests.java
+END

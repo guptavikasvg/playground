@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/2475/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob
+END
+DefaultLobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/620/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/DefaultLobHandler.java
+END
+OracleLobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2475/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/OracleLobHandler.java
+END
+SpringLobCreatorSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/155/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/SpringLobCreatorSynchronization.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/package-info.java
+END
+PassThroughBlob.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/PassThroughBlob.java
+END
+PassThroughClob.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/PassThroughClob.java
+END
+LobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/620/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/LobHandler.java
+END
+LobCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/LobCreator.java
+END
+JtaLobCreatorSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/JtaLobCreatorSynchronization.java
+END
+LobCreatorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/LobCreatorUtils.java
+END
+AbstractLobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/lob/AbstractLobHandler.java
+END

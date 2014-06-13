@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3420/trunk/org.springframework.context/src/test/java/org/springframework/context/support
+END
+TestProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.context/src/test/java/org/springframework/context/support/TestProxyFactoryBean.java
+END
+childWithProxy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/childWithProxy.xml
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/Service.java
+END
+invalidValueType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/invalidValueType.xml
+END
+messages_de_DE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/messages_de_DE.xml
+END
+ConversionServiceFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/3369/trunk/org.springframework.context/src/test/java/org/springframework/context/support/ConversionServiceFactoryBeanTests.java
+END
+FactoryBeanAndApplicationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/FactoryBeanAndApplicationListener.java
+END
+Spr7283Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3420/trunk/org.springframework.context/src/test/java/org/springframework/context/support/Spr7283Tests.java
+END
+SimpleThreadScopeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/574/trunk/org.springframework.context/src/test/java/org/springframework/context/support/SimpleThreadScopeTest.java
+END
+Assembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/Assembler.java
+END
+ClassPathXmlApplicationContextTests-resourceImport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-framework/!svn/ver/1305/trunk/org.springframework.context/src/test/java/org/springframework/context/support/ClassPathXmlApplicationContextTests-resourceImport.xml
+END
+StaticApplicationContextMulticasterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/StaticApplicationContextMulticasterTests.java
+END
+more-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/more-messages.properties
+END
+LifecycleTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/LifecycleTestBean.java
+END
+BeanFactoryPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.context/src/test/java/org/springframework/context/support/BeanFactoryPostProcessorTests.java
+END
+ResourceBundleMessageSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.context/src/test/java/org/springframework/context/support/ResourceBundleMessageSourceTests.java
+END
+messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/messages_de.properties
+END
+TestIF.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/TestIF.java
+END
+StaticMessageSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/StaticMessageSourceTests.java
+END
+lifecycleTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/lifecycleTests.xml
+END
+StaticApplicationContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/StaticApplicationContextTests.java
+END
+testBeans.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/testBeans.properties
+END
+PropertyResourceConfigurerIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.context/src/test/java/org/springframework/context/support/PropertyResourceConfigurerIntegrationTests.java
+END
+spr7283.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/3420/trunk/org.springframework.context/src/test/java/org/springframework/context/support/spr7283.xml
+END
+ApplicationContextLifecycleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/ApplicationContextLifecycleTests.java
+END
+messages_de_AT_oo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/messages_de_AT_oo.properties
+END
+simpleContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/simpleContext.xml
+END
+messages_de_AT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/messages_de_AT.properties
+END
+ClassPathXmlApplicationContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/1305/trunk/org.springframework.context/src/test/java/org/springframework/context/support/ClassPathXmlApplicationContextTests.java
+END
+ResourceConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3369/trunk/org.springframework.context/src/test/java/org/springframework/context/support/ResourceConverter.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/messages.properties
+END
+conversionServiceWithResourceOverriding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/3369/trunk/org.springframework.context/src/test/java/org/springframework/context/support/conversionServiceWithResourceOverriding.xml
+END
+classWithPlaceholder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/classWithPlaceholder.xml
+END
+ClassPathXmlApplicationContextTests-resource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/1305/trunk/org.springframework.context/src/test/java/org/springframework/context/support/ClassPathXmlApplicationContextTests-resource.xml
+END
+AutowiredService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/AutowiredService.java
+END
+conversionService.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3369/trunk/org.springframework.context/src/test/java/org/springframework/context/support/conversionService.xml
+END
+aliasThatOverridesParent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/aliasThatOverridesParent.xml
+END
+DefaultLifecycleProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2637/trunk/org.springframework.context/src/test/java/org/springframework/context/support/DefaultLifecycleProcessorTests.java
+END
+NoOpAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/NoOpAdvice.java
+END
+aliasForParent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/aliasForParent.xml
+END
+override.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/override.properties
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/test.properties
+END
+invalidClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/invalidClass.xml
+END
+Logic.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/Logic.java
+END
+placeholder.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/410/trunk/org.springframework.context/src/test/java/org/springframework/context/support/placeholder.properties
+END

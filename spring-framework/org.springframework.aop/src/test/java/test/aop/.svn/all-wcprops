@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-framework/!svn/ver/1100/trunk/org.springframework.aop/src/test/java/test/aop
+END
+MethodCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/test/aop/MethodCounter.java
+END
+DefaultLockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/test/aop/DefaultLockable.java
+END
+SerializableNopInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/test/aop/SerializableNopInterceptor.java
+END
+CountingBeforeAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/1100/trunk/org.springframework.aop/src/test/java/test/aop/CountingBeforeAdvice.java
+END
+TwoAdviceAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/test/aop/TwoAdviceAspect.java
+END
+NopInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/test/aop/NopInterceptor.java
+END
+Lockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/test/aop/Lockable.java
+END
+PerTargetAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/test/aop/PerTargetAspect.java
+END
+PerThisAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/test/aop/PerThisAspect.java
+END

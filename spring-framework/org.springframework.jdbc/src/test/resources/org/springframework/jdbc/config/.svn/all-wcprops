@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/2443/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config
+END
+jdbc-config-pattern.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/2443/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/jdbc-config-pattern.xml
+END
+db-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/db-schema.sql
+END
+jdbc-initialize-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/jdbc-initialize-config.xml
+END
+jdbc-initialize-placeholder-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/2231/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/jdbc-initialize-placeholder-config.xml
+END
+db-schema-derby.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/db-schema-derby.sql
+END
+jdbc-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/jdbc-config.xml
+END
+jdbc-initialize-cache-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/jdbc-initialize-cache-config.xml
+END
+db-test-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/db-test-data.sql
+END
+db-drops.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/db-drops.sql
+END
+db-update-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/db-update-data.sql
+END
+jdbc-initialize-fail-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/jdbc-initialize-fail-config.xml
+END
+jdbc-initialize-pattern-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2231/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/config/jdbc-initialize-pattern-config.xml
+END

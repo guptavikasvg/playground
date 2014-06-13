@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/1781/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/simple
+END
+TableMetaDataContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/simple/TableMetaDataContextTests.java
+END
+CallMetaDataContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/simple/CallMetaDataContextTests.java
+END
+SimpleJdbcInsertTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/simple/SimpleJdbcInsertTests.java
+END
+ParameterizedBeanPropertyRowMapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/simple/ParameterizedBeanPropertyRowMapperTests.java
+END
+SimpleJdbcCallTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/1287/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/simple/SimpleJdbcCallTests.java
+END
+SimpleJdbcTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/1781/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/simple/SimpleJdbcTemplateTests.java
+END

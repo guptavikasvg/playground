@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/2310/trunk/org.springframework.jms/src/test/java/org/springframework/jms/listener
+END
+AbstractMessageListenerContainerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/listener/AbstractMessageListenerContainerTests.java
+END
+SimpleMessageListenerContainerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2310/trunk/org.springframework.jms/src/test/java/org/springframework/jms/listener/SimpleMessageListenerContainerTests.java
+END

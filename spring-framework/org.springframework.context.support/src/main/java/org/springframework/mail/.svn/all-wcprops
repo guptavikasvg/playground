@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/3594/trunk/org.springframework.context.support/src/main/java/org/springframework/mail
+END
+MailAuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/MailAuthenticationException.java
+END
+MailException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/MailException.java
+END
+SimpleMailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/SimpleMailMessage.java
+END
+MailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/MailSender.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/package-info.java
+END
+MailPreparationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/MailPreparationException.java
+END
+MailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/MailMessage.java
+END
+MailSendException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3408/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/MailSendException.java
+END
+MailParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/MailParseException.java
+END

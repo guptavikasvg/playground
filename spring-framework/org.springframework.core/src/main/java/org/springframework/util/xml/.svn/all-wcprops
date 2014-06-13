@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/3334/trunk/org.springframework.core/src/main/java/org/springframework/util/xml
+END
+StaxStreamXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/524/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/StaxStreamXMLReader.java
+END
+StaxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/StaxUtils.java
+END
+StaxSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/528/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/StaxSource.java
+END
+DomUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/3334/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/DomUtils.java
+END
+XMLEventStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/528/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/XMLEventStreamReader.java
+END
+SimpleTransformErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/SimpleTransformErrorListener.java
+END
+AbstractXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/517/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/AbstractXMLReader.java
+END
+AbstractStaxXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/AbstractStaxXMLReader.java
+END
+DomContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/527/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/DomContentHandler.java
+END
+StaxEventContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/522/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/StaxEventContentHandler.java
+END
+XmlValidationModeDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/XmlValidationModeDetector.java
+END
+SimpleNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/518/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/SimpleNamespaceContext.java
+END
+SimpleSaxErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/SimpleSaxErrorHandler.java
+END
+StaxResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/528/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/StaxResult.java
+END
+AbstractXMLStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/528/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/AbstractXMLStreamReader.java
+END
+TransformerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/528/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/TransformerUtils.java
+END
+StaxStreamContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/520/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/StaxStreamContentHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/package-info.java
+END
+StaxEventXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/524/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/StaxEventXMLReader.java
+END
+AbstractStaxContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/520/trunk/org.springframework.core/src/main/java/org/springframework/util/xml/AbstractStaxContentHandler.java
+END

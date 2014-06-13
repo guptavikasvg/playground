@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/2439/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/embedded
+END
+db-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2230/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/embedded/db-schema.sql
+END
+db-schema-comments.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2436/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/embedded/db-schema-comments.sql
+END
+db-schema-derby.sql
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2439/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/embedded/db-schema-derby.sql
+END
+db-test-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2230/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/embedded/db-test-data.sql
+END
+db-schema-failed-drop-comments.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/2436/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/embedded/db-schema-failed-drop-comments.sql
+END

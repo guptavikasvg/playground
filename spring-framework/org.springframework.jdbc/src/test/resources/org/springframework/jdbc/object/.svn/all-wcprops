@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/764/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/object
+END
+GenericSqlQueryTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/764/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/object/GenericSqlQueryTests-context.xml
+END
+GenericStoredProcedureTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/763/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/object/GenericStoredProcedureTests-context.xml
+END

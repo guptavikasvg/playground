@@ -1,0 +1,3 @@
+apple,S,60
+apple way,H,32.5
+apple 3,H,0

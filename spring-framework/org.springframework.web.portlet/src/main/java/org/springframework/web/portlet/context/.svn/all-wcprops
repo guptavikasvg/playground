@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/3590/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context
+END
+PortletConfigAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/139/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletConfigAware.java
+END
+PortletWebRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3189/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletWebRequest.java
+END
+PortletApplicationObjectSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/160/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletApplicationObjectSupport.java
+END
+XmlPortletApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/2172/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/XmlPortletApplicationContext.java
+END
+PortletApplicationContextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/2845/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletApplicationContextUtils.java
+END
+ConfigurablePortletApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/1715/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/ConfigurablePortletApplicationContext.java
+END
+PortletContextResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/3590/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletContextResource.java
+END
+PortletRequestAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/631/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletRequestAttributes.java
+END
+AbstractRefreshablePortletApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/AbstractRefreshablePortletApplicationContext.java
+END
+PortletContextAwareProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/139/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletContextAwareProcessor.java
+END
+PortletContextAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/139/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletContextAware.java
+END
+PortletRequestHandledEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletRequestHandledEvent.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/package-info.java
+END
+PortletContextResourcePatternResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletContextResourcePatternResolver.java
+END
+PortletContextScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletContextScope.java
+END
+StaticPortletApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/StaticPortletApplicationContext.java
+END
+PortletContextResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/160/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/context/PortletContextResourceLoader.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/3486/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener
+END
+SubscriptionNameProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/SubscriptionNameProvider.java
+END
+AbstractMessageListenerContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3486/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/AbstractMessageListenerContainer.java
+END
+DefaultMessageListenerContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3328/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/DefaultMessageListenerContainer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/package-info.java
+END
+DefaultMessageListenerContainer102.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/674/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/DefaultMessageListenerContainer102.java
+END
+AbstractPollingMessageListenerContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/3486/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/AbstractPollingMessageListenerContainer.java
+END
+LocallyExposedJmsResourceHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/LocallyExposedJmsResourceHolder.java
+END
+SimpleMessageListenerContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/2811/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/SimpleMessageListenerContainer.java
+END
+SimpleMessageListenerContainer102.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/674/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/SimpleMessageListenerContainer102.java
+END
+AbstractJmsListeningContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3289/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/AbstractJmsListeningContainer.java
+END
+SessionAwareMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/792/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/SessionAwareMessageListener.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1757/trunk/org.springframework.transaction/src/main/resources/org/springframework/transaction/config
+END
+spring-tx.gif
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1252/trunk/org.springframework.transaction/src/main/resources/org/springframework/transaction/config/spring-tx.gif
+END
+spring-tx-2.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1560/trunk/org.springframework.transaction/src/main/resources/org/springframework/transaction/config/spring-tx-2.0.xsd
+END
+spring-tx-3.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1560/trunk/org.springframework.transaction/src/main/resources/org/springframework/transaction/config/spring-tx-3.0.xsd
+END
+spring-tx-2.5.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1560/trunk/org.springframework.transaction/src/main/resources/org/springframework/transaction/config/spring-tx-2.5.xsd
+END

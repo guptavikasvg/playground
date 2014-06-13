@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/3497/trunk/org.springframework.aspects/src/test/java/org/springframework/aop/aspectj/autoproxy
+END
+CodeStyleAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3497/trunk/org.springframework.aspects/src/test/java/org/springframework/aop/aspectj/autoproxy/CodeStyleAspect.aj
+END
+AutoProxyWithCodeStyleAspectsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/1520/trunk/org.springframework.aspects/src/test/java/org/springframework/aop/aspectj/autoproxy/AutoProxyWithCodeStyleAspectsTests.java
+END
+ajcAutoproxyTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1520/trunk/org.springframework.aspects/src/test/java/org/springframework/aop/aspectj/autoproxy/ajcAutoproxyTests.xml
+END

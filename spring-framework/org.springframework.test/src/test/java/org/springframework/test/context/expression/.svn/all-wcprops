@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/1485/trunk/org.springframework.test/src/test/java/org/springframework/test/context/expression
+END
+ExpressionUsageTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1485/trunk/org.springframework.test/src/test/java/org/springframework/test/context/expression/ExpressionUsageTests.java
+END
+ExpressionUsageTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1485/trunk/org.springframework.test/src/test/java/org/springframework/test/context/expression/ExpressionUsageTests-context.xml
+END

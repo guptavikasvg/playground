@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3458/trunk/org.springframework.web/src/test/java/org/springframework/http/client
+END
+CommonsHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/test/java/org/springframework/http/client/CommonsHttpRequestFactoryTests.java
+END
+AbstractHttpRequestFactoryTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3348/trunk/org.springframework.web/src/test/java/org/springframework/http/client/AbstractHttpRequestFactoryTestCase.java
+END
+SimpleHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/test/java/org/springframework/http/client/SimpleHttpRequestFactoryTests.java
+END

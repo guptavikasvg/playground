@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/2953/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/support
+END
+OpenEntityManagerInViewFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/support/OpenEntityManagerInViewFilter.java
+END
+SharedEntityManagerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/support/SharedEntityManagerBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/support/package-info.java
+END
+OpenEntityManagerInViewInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/support/OpenEntityManagerInViewInterceptor.java
+END
+JpaDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/support/JpaDaoSupport.java
+END
+PersistenceAnnotationBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/2953/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/support/PersistenceAnnotationBeanPostProcessor.java
+END

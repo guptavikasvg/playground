@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/1507/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit38
+END
+ConcreteTransactionalJUnit38SpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit38/ConcreteTransactionalJUnit38SpringContextTests.java
+END
+ConcreteTransactionalJUnit38SpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit38/ConcreteTransactionalJUnit38SpringContextTests-context.xml
+END
+FailingBeforeAndAfterMethodsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit38/FailingBeforeAndAfterMethodsTests.java
+END
+FailingBeforeAndAfterMethodsTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit38/FailingBeforeAndAfterMethodsTests-context.xml
+END
+RepeatedJUnit38SpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit38/RepeatedJUnit38SpringContextTests.java
+END
+ProfileValueJUnit38SpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/1507/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit38/ProfileValueJUnit38SpringContextTests.java
+END

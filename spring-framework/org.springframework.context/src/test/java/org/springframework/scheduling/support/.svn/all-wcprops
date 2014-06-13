@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3489/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/support
+END
+PeriodicTriggerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1684/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/support/PeriodicTriggerTests.java
+END
+CronTriggerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3489/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/support/CronTriggerTests.java
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/3372/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core
+END
+CallableStatementCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/CallableStatementCallback.java
+END
+SqlReturnType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlReturnType.java
+END
+PreparedStatementCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/PreparedStatementCallback.java
+END
+CallableStatementCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/CallableStatementCreator.java
+END
+DisposableSqlTypeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/DisposableSqlTypeValue.java
+END
+StatementCreatorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2219/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/StatementCreatorUtils.java
+END
+JdbcOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/2998/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/JdbcOperations.java
+END
+ArgPreparedStatementSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2416/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/ArgPreparedStatementSetter.java
+END
+SqlReturnResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/155/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlReturnResultSet.java
+END
+SqlRowSetResultSetExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlRowSetResultSetExtractor.java
+END
+BatchPreparedStatementSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/BatchPreparedStatementSetter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/package-info.java
+END
+ParameterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/ParameterMapper.java
+END
+ResultSetExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/ResultSetExtractor.java
+END
+ColumnMapRowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1166/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/ColumnMapRowMapper.java
+END
+InterruptibleBatchPreparedStatementSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/InterruptibleBatchPreparedStatementSetter.java
+END
+ParameterDisposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/ParameterDisposer.java
+END
+RowCountCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/RowCountCallbackHandler.java
+END
+SingleColumnRowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/615/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SingleColumnRowMapper.java
+END
+CallableStatementCreatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/CallableStatementCreatorFactory.java
+END
+SqlParameterValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlParameterValue.java
+END
+SqlTypeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlTypeValue.java
+END
+PreparedStatementCreatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/PreparedStatementCreatorFactory.java
+END
+SqlParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlParameter.java
+END
+BatchUpdateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1272/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/BatchUpdateUtils.java
+END
+ResultSetSupportingSqlParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/ResultSetSupportingSqlParameter.java
+END
+PreparedStatementCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/PreparedStatementCreator.java
+END
+BeanPropertyRowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2504/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/BeanPropertyRowMapper.java
+END
+SqlProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlProvider.java
+END
+ArgTypePreparedStatementSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/2415/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/ArgTypePreparedStatementSetter.java
+END
+SqlReturnUpdateCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/155/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlReturnUpdateCount.java
+END
+RowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/RowMapper.java
+END
+ConnectionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/ConnectionCallback.java
+END
+PreparedStatementSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/PreparedStatementSetter.java
+END
+SqlInOutParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/155/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlInOutParameter.java
+END
+StatementCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/StatementCallback.java
+END
+RowCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/RowCallbackHandler.java
+END
+RowMapperResultSetExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/RowMapperResultSetExtractor.java
+END
+SqlOutParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/SqlOutParameter.java
+END
+JdbcTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/3036/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/JdbcTemplate.java
+END

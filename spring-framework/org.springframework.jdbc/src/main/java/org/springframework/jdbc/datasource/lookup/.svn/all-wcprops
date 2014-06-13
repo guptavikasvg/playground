@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/2938/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup
+END
+BeanFactoryDataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/BeanFactoryDataSourceLookup.java
+END
+MapDataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/MapDataSourceLookup.java
+END
+DataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/DataSourceLookup.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/package-info.java
+END
+IsolationLevelDataSourceRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/2938/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/IsolationLevelDataSourceRouter.java
+END
+AbstractRoutingDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/2938/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.java
+END
+SingleDataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/SingleDataSourceLookup.java
+END
+JndiDataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/585/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/JndiDataSourceLookup.java
+END
+DataSourceLookupFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/DataSourceLookupFailureException.java
+END

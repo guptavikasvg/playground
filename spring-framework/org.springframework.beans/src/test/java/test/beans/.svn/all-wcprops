@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/spring-framework/!svn/ver/2635/trunk/org.springframework.beans/src/test/java/test/beans
+END
+CustomEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/503/trunk/org.springframework.beans/src/test/java/test/beans/CustomEnum.java
+END
+GenericBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/2635/trunk/org.springframework.beans/src/test/java/test/beans/GenericBean.java
+END
+Colour.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/test/beans/Colour.java
+END
+BooleanTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/503/trunk/org.springframework.beans/src/test/java/test/beans/BooleanTestBean.java
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-framework/!svn/ver/1760/trunk/org.springframework.beans/src/test/java/test/beans/TestBean.java
+END
+IndexedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/test/beans/IndexedTestBean.java
+END
+NestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/test/beans/NestedTestBean.java
+END
+DerivedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/1760/trunk/org.springframework.beans/src/test/java/test/beans/DerivedTestBean.java
+END
+NumberTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/test/beans/NumberTestBean.java
+END
+ITestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/test/beans/ITestBean.java
+END
+GenericIntegerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/test/beans/GenericIntegerBean.java
+END
+INestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/test/beans/INestedTestBean.java
+END
+GenericSetOfIntegerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/test/beans/GenericSetOfIntegerBean.java
+END
+DummyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/505/trunk/org.springframework.beans/src/test/java/test/beans/DummyFactory.java
+END
+LifecycleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/505/trunk/org.springframework.beans/src/test/java/test/beans/LifecycleBean.java
+END
+PackageLevelVisibleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/505/trunk/org.springframework.beans/src/test/java/test/beans/PackageLevelVisibleBean.java
+END
+IOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/test/beans/IOther.java
+END

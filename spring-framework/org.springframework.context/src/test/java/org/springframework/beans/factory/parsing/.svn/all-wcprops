@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/433/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/parsing
+END
+CollectingReaderEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/433/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/parsing/CollectingReaderEventListener.java
+END

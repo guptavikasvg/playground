@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/505/trunk/org.springframework.beans/src/test/java/org/springframework/beans/annotation
+END
+AnnotationBeanWiringInfoResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/505/trunk/org.springframework.beans/src/test/java/org/springframework/beans/annotation/AnnotationBeanWiringInfoResolverTests.java
+END
+RequiredAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/annotation/RequiredAnnotationBeanPostProcessorTests.java
+END

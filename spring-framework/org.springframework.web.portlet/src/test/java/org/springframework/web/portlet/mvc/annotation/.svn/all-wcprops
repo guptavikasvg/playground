@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/3475/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/mvc/annotation
+END
+PortletAnnotationControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/mvc/annotation/PortletAnnotationControllerTests.java
+END
+AnnotationMethodHandlerExceptionResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/spring-framework/!svn/ver/3475/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/mvc/annotation/AnnotationMethodHandlerExceptionResolverTests.java
+END
+Portlet20AnnotationControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-framework/!svn/ver/3407/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/mvc/annotation/Portlet20AnnotationControllerTests.java
+END

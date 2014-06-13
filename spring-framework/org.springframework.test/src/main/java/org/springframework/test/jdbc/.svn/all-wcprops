@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/jdbc
+END
+JdbcTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1072/trunk/org.springframework.test/src/main/java/org/springframework/test/jdbc/JdbcTestUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/jdbc/package-info.java
+END
+SimpleJdbcTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.test/src/main/java/org/springframework/test/jdbc/SimpleJdbcTestUtils.java
+END

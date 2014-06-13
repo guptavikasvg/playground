@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/rowset
+END
+SqlRowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/rowset/SqlRowSet.java
+END
+SqlRowSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/rowset/SqlRowSetMetaData.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/rowset/package-info.java
+END
+ResultSetWrappingSqlRowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/rowset/ResultSetWrappingSqlRowSet.java
+END
+ResultSetWrappingSqlRowSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/rowset/ResultSetWrappingSqlRowSetMetaData.java
+END

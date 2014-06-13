@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/3357/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/tiles2
+END
+TilesConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/3357/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/tiles2/TilesConfigurerTests.java
+END
+tiles-definitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2936/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/tiles2/tiles-definitions.xml
+END

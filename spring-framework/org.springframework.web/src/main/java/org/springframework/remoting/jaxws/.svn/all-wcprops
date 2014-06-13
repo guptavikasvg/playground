@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3517/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws
+END
+JaxWsPortClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3517/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws/JaxWsPortClientInterceptor.java
+END
+LocalJaxWsServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3517/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws/LocalJaxWsServiceFactory.java
+END
+SimpleJaxWsServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/1713/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws/SimpleJaxWsServiceExporter.java
+END
+JaxWsPortProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/3321/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws/JaxWsPortProxyFactoryBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws/package-info.java
+END
+LocalJaxWsServiceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws/LocalJaxWsServiceFactoryBean.java
+END
+SimpleHttpServerJaxWsServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/1713/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws/SimpleHttpServerJaxWsServiceExporter.java
+END
+AbstractJaxWsServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/3452/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws/AbstractJaxWsServiceExporter.java
+END
+JaxWsSoapFaultException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxws/JaxWsSoapFaultException.java
+END

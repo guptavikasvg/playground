@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3588/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation
+END
+RequestHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/2977/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/RequestHeader.java
+END
+ResponseStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/ResponseStatus.java
+END
+PathVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/PathVariable.java
+END
+RequestMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3484/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/RequestMapping.java
+END
+RequestBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/RequestBody.java
+END
+CookieValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/2977/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/CookieValue.java
+END
+ValueConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2977/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/ValueConstants.java
+END
+RequestParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2977/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/RequestParam.java
+END
+ResponseBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3208/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/ResponseBody.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/package-info.java
+END
+ModelAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/ModelAttribute.java
+END
+InitBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/InitBinder.java
+END
+RequestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/RequestMethod.java
+END
+SessionAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2923/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/SessionAttributes.java
+END
+Mapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/Mapping.java
+END
+ExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3198/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/annotation/ExceptionHandler.java
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/3515/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework
+END
+ProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/ProxyFactoryBean.java
+END
+AopProxyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/3515/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AopProxyUtils.java
+END
+AdvisorChainFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AdvisorChainFactory.java
+END
+Cglib2AopProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/3389/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/Cglib2AopProxy.java
+END
+AopInfrastructureBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AopInfrastructureBean.java
+END
+AbstractSingletonProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AbstractSingletonProxyFactoryBean.java
+END
+DefaultAdvisorChainFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/DefaultAdvisorChainFactory.java
+END
+ProxyConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3389/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/ProxyConfig.java
+END
+AopProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AopProxyFactory.java
+END
+ProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1573/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/ProxyFactory.java
+END
+AdvisedSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/3292/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AdvisedSupport.java
+END
+DefaultAopProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/DefaultAopProxyFactory.java
+END
+JdkDynamicAopProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3137/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/JdkDynamicAopProxy.java
+END
+Advised.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/Advised.java
+END
+AopProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AopProxy.java
+END
+AdvisedSupportListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AdvisedSupportListener.java
+END
+ReflectiveMethodInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2519/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/ReflectiveMethodInvocation.java
+END
+AopContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/596/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AopContext.java
+END
+AopConfigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/AopConfigException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/package-info.java
+END
+InterceptorAndDynamicMethodMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/InterceptorAndDynamicMethodMatcher.java
+END
+ProxyCreatorSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/ProxyCreatorSupport.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/2917/trunk/org.springframework.context/src/test/java/org/springframework/scripting/support
+END
+ResourceScriptSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2917/trunk/org.springframework.context/src/test/java/org/springframework/scripting/support/ResourceScriptSourceTests.java
+END
+StaticScriptSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/support/StaticScriptSourceTests.java
+END
+RefreshableScriptTargetSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/support/RefreshableScriptTargetSourceTests.java
+END
+ScriptFactoryPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/support/ScriptFactoryPostProcessorTests.java
+END
+StubMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/support/StubMessenger.java
+END
+groovyReferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/support/groovyReferences.xml
+END

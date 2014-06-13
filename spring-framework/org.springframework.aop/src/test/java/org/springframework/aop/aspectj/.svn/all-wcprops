@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3158/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj
+END
+AspectJAdviceParameterNameDiscovererTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/495/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscovererTests.java
+END
+AspectJExpressionPointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/AspectJExpressionPointcutTests.java
+END
+AspectJAdviceParameterNameDiscoverAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/495/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscoverAnnotationTests.java
+END
+MethodInvocationProceedingJoinPointTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/651/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPointTests.java
+END
+BeanNamePointcutMatchingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/BeanNamePointcutMatchingTests.java
+END
+TigerAspectJAdviceParameterNameDiscovererTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/495/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/TigerAspectJAdviceParameterNameDiscovererTests.java
+END
+TigerAspectJExpressionPointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/TigerAspectJExpressionPointcutTests.java
+END
+TypePatternClassFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/TypePatternClassFilterTests.java
+END

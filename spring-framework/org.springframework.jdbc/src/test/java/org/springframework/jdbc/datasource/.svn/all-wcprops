@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/3560/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource
+END
+DataSourceJtaTransactionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/221/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/DataSourceJtaTransactionTests.java
+END
+DriverManagerDataSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/221/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/DriverManagerDataSourceTests.java
+END
+TestDataSourceWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/761/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/TestDataSourceWrapper.java
+END
+UserCredentialsDataSourceAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/221/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/UserCredentialsDataSourceAdapterTests.java
+END
+DataSourceTransactionManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/3365/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/DataSourceTransactionManagerTests.java
+END

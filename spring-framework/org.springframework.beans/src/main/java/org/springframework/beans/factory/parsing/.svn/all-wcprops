@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing
+END
+AbstractComponentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/AbstractComponentDefinition.java
+END
+Problem.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/Problem.java
+END
+BeanComponentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/BeanComponentDefinition.java
+END
+AliasDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/AliasDefinition.java
+END
+QualifierEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/QualifierEntry.java
+END
+PropertyEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/PropertyEntry.java
+END
+ReaderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/ReaderContext.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/Location.java
+END
+ConstructorArgumentEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/ConstructorArgumentEntry.java
+END
+ReaderEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/ReaderEventListener.java
+END
+ParseState.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/ParseState.java
+END
+ComponentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/ComponentDefinition.java
+END
+DefaultsDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/DefaultsDefinition.java
+END
+BeanDefinitionParsingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/BeanDefinitionParsingException.java
+END
+ImportDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/ImportDefinition.java
+END
+ProblemReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/ProblemReporter.java
+END
+PassThroughSourceExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/PassThroughSourceExtractor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/package-info.java
+END
+NullSourceExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/NullSourceExtractor.java
+END
+BeanEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/149/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/BeanEntry.java
+END
+EmptyReaderEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/800/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/EmptyReaderEventListener.java
+END
+SourceExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/SourceExtractor.java
+END
+FailFastProblemReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/FailFastProblemReporter.java
+END
+CompositeComponentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/parsing/CompositeComponentDefinition.java
+END

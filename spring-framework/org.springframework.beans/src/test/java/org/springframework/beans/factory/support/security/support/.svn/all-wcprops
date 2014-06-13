@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1705/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/support
+END
+DestroyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1705/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/support/DestroyBean.java
+END
+CustomFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/1705/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/support/CustomFactoryBean.java
+END
+InitBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/1705/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/support/InitBean.java
+END
+PropertyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/1705/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/support/PropertyBean.java
+END
+ConstructorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/1705/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/support/ConstructorBean.java
+END
+CustomCallbackBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/1705/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/support/CustomCallbackBean.java
+END
+FactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1705/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/security/support/FactoryBean.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/domain
+END
+DriversLicense.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/domain/DriversLicense.java
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/domain/persistence.xml
+END
+persistence-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/domain/persistence-context.xml
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/domain/Person.java
+END
+persistence-multi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/domain/persistence-multi.xml
+END
+ContextualPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/domain/ContextualPerson.java
+END

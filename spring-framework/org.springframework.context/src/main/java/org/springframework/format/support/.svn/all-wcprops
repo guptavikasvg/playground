@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/3451/trunk/org.springframework.context/src/main/java/org/springframework/format/support
+END
+FormattingConversionServiceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/3404/trunk/org.springframework.context/src/main/java/org/springframework/format/support/FormattingConversionServiceFactoryBean.java
+END
+FormattingConversionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3451/trunk/org.springframework.context/src/main/java/org/springframework/format/support/FormattingConversionService.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/2266/trunk/org.springframework.context/src/main/java/org/springframework/format/support/package-info.java
+END

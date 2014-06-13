@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/1781/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core
+END
+RowMapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/219/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/RowMapperTests.java
+END
+JdbcTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1166/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/JdbcTemplateTests.java
+END
+AbstractRowMapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1302/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/AbstractRowMapperTests.java
+END
+BatchUpdateTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1309/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/BatchUpdateTestHelper.java
+END
+SimpleRowCountCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/SimpleRowCountCallbackHandler.java
+END
+JdbcTemplateQueryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/219/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/JdbcTemplateQueryTests.java
+END
+StatementCreatorUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/219/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/StatementCreatorUtilsTests.java
+END
+BeanPropertyRowMapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/1302/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/BeanPropertyRowMapperTests.java
+END

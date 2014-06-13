@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/3190/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/support
+END
+StringMultipartFileEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/support/StringMultipartFileEditor.java
+END
+AbstractMultipartHttpServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/1783/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/support/AbstractMultipartHttpServletRequest.java
+END
+DefaultMultipartHttpServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/1783/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/support/DefaultMultipartHttpServletRequest.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/support/package-info.java
+END
+MultipartFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3190/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/support/MultipartFilter.java
+END
+ByteArrayMultipartFileEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/support/ByteArrayMultipartFileEditor.java
+END

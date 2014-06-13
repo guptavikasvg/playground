@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/3577/trunk/org.springframework.core/src/main/java/org/springframework/core/convert
+END
+TypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/3507/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/TypeDescriptor.java
+END
+ConverterNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/3577/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/ConverterNotFoundException.java
+END
+ConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/2519/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/ConversionException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/package-info.java
+END
+ConversionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/2252/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/ConversionService.java
+END
+ConversionFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3577/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/ConversionFailedException.java
+END

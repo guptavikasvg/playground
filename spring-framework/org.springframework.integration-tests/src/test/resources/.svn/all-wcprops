@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/resources
+END
+testlog4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/resources/testlog4j.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/resources/log4j.xml
+END

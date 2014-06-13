@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/2607/trunk/org.springframework.test/src/main/java/org/springframework/test/context/support
+END
+AbstractContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/2607/trunk/org.springframework.test/src/main/java/org/springframework/test/context/support/AbstractContextLoader.java
+END
+DirtiesContextTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/1479/trunk/org.springframework.test/src/main/java/org/springframework/test/context/support/DirtiesContextTestExecutionListener.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/context/support/package-info.java
+END
+GenericPropertiesContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/134/trunk/org.springframework.test/src/main/java/org/springframework/test/context/support/GenericPropertiesContextLoader.java
+END
+GenericXmlContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2607/trunk/org.springframework.test/src/main/java/org/springframework/test/context/support/GenericXmlContextLoader.java
+END
+DependencyInjectionTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/134/trunk/org.springframework.test/src/main/java/org/springframework/test/context/support/DependencyInjectionTestExecutionListener.java
+END
+AbstractGenericContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/134/trunk/org.springframework.test/src/main/java/org/springframework/test/context/support/AbstractGenericContextLoader.java
+END
+AbstractTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/main/java/org/springframework/test/context/support/AbstractTestExecutionListener.java
+END

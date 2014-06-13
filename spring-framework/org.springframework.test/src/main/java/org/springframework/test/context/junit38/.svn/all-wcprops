@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/1472/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit38
+END
+AbstractJUnit38SpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/1472/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit38/AbstractJUnit38SpringContextTests.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit38/package-info.java
+END
+AbstractTransactionalJUnit38SpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/134/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit38/AbstractTransactionalJUnit38SpringContextTests.java
+END

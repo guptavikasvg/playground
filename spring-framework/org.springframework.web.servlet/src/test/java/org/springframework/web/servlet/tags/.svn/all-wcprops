@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/3568/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags
+END
+ParamTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/288/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/ParamTagTests.java
+END
+ThemeTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/ThemeTagTests.java
+END
+UrlTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/2423/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/UrlTagTests.java
+END
+AbstractTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/2962/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/AbstractTagTests.java
+END
+MessageTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/MessageTagTests.java
+END
+ParamTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/288/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/ParamTests.java
+END
+BindTagOutsideDispatcherServletTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/BindTagOutsideDispatcherServletTests.java
+END
+HtmlEscapeTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/HtmlEscapeTagTests.java
+END
+EvalTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3568/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/EvalTagTests.java
+END
+BindTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/BindTagTests.java
+END
+MessageTagOutsideDispatcherServletTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/MessageTagOutsideDispatcherServletTests.java
+END
+HtmlEscapeTagOutsideDispatcherServletTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/275/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/tags/HtmlEscapeTagOutsideDispatcherServletTests.java
+END

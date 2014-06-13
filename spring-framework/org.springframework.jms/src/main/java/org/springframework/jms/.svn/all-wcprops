@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-framework/!svn/ver/3486/trunk/org.springframework.jms/src/main/java/org/springframework/jms
+END
+JmsSecurityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/JmsSecurityException.java
+END
+MessageNotReadableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/MessageNotReadableException.java
+END
+InvalidSelectorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/InvalidSelectorException.java
+END
+InvalidDestinationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/InvalidDestinationException.java
+END
+JmsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/614/trunk/org.springframework.jms/src/main/java/org/springframework/jms/JmsException.java
+END
+ResourceAllocationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/ResourceAllocationException.java
+END
+MessageFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/MessageFormatException.java
+END
+TransactionInProgressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/TransactionInProgressException.java
+END
+InvalidClientIDException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/InvalidClientIDException.java
+END
+MessageNotWriteableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/MessageNotWriteableException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jms/src/main/java/org/springframework/jms/package-info.java
+END
+TransactionRolledBackException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/TransactionRolledBackException.java
+END
+IllegalStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/IllegalStateException.java
+END
+UncategorizedJmsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/UncategorizedJmsException.java
+END
+MessageEOFException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/MessageEOFException.java
+END

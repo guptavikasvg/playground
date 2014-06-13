@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3590/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet
+END
+DispatcherPortlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3197/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/DispatcherPortlet.java
+END
+ModelAndViewDefiningException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/139/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/ModelAndViewDefiningException.java
+END
+HandlerExecutionChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/HandlerExecutionChain.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/package-info.java
+END
+FrameworkPortlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/2160/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/FrameworkPortlet.java
+END
+HandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/139/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/HandlerMapping.java
+END
+DispatcherPortlet.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1658/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/DispatcherPortlet.properties
+END
+GenericPortletBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/GenericPortletBean.java
+END
+HandlerInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/HandlerInterceptor.java
+END
+HandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/HandlerAdapter.java
+END
+HandlerExceptionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/HandlerExceptionResolver.java
+END
+ModelAndView.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/658/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/ModelAndView.java
+END

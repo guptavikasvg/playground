@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/feed
+END
+AtomFeedViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/feed/AtomFeedViewTest.java
+END
+RssFeedViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/feed/RssFeedViewTest.java
+END

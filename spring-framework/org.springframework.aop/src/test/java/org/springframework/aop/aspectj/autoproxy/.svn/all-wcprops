@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/496/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/autoproxy
+END
+AspectJPrecedenceComparatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/495/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJPrecedenceComparatorTests.java
+END
+AspectJNamespaceHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/496/trunk/org.springframework.aop/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJNamespaceHandlerTests.java
+END

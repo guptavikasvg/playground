@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/3390/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj
+END
+AroundAdviceBindingTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AroundAdviceBindingTests.xml
+END
+OverloadedAdviceTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/OverloadedAdviceTests.xml
+END
+SubtypeSensitiveMatchingTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/SubtypeSensitiveMatchingTests.xml
+END
+ImplicitJPArgumentMatchingAtAspectJTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ImplicitJPArgumentMatchingAtAspectJTests.java
+END
+ThisAndTargetSelectionOnlyPointcutsAtAspectJTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ThisAndTargetSelectionOnlyPointcutsAtAspectJTests.java
+END
+ImplicitJPArgumentMatchingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ImplicitJPArgumentMatchingTests.java
+END
+ThisAndTargetSelectionOnlyPointcutsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ThisAndTargetSelectionOnlyPointcutsTests.java
+END
+DeclarationOrderIndependenceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/DeclarationOrderIndependenceTests.java
+END
+DeclareParentsDelegateRefTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/DeclareParentsDelegateRefTests.java
+END
+PropertyDependentAspectTests-after.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/PropertyDependentAspectTests-after.xml
+END
+AfterThrowingAdviceBindingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AfterThrowingAdviceBindingTests.java
+END
+PropertyDependentAspectTests-before.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/PropertyDependentAspectTests-before.xml
+END
+DeclareParentsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/DeclareParentsTests.java
+END
+AspectAndAdvicePrecedenceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AspectAndAdvicePrecedenceTests.java
+END
+AroundAdviceBindingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AroundAdviceBindingTests.java
+END
+BeanNamePointcutAtAspectTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/BeanNamePointcutAtAspectTests.xml
+END
+ProceedTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ProceedTests.xml
+END
+ImplicitJPArgumentMatchingTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ImplicitJPArgumentMatchingTests.xml
+END
+ThisAndTargetSelectionOnlyPointcutsTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ThisAndTargetSelectionOnlyPointcutsTests.xml
+END
+DeclareParentsDelegateRefTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/DeclareParentsDelegateRefTests.xml
+END
+PropertyDependentAspectTests-atAspectJ-after.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/PropertyDependentAspectTests-atAspectJ-after.xml
+END
+AfterReturningAdviceBindingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AfterReturningAdviceBindingTests.java
+END
+AspectJExpressionPointcutAdvisorTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AspectJExpressionPointcutAdvisorTests.xml
+END
+PropertyDependentAspectTests-atAspectJ-before.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/PropertyDependentAspectTests-atAspectJ-before.xml
+END
+OverloadedAdviceTests-ambiguous.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/OverloadedAdviceTests-ambiguous.xml
+END
+AfterAdviceBindingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AfterAdviceBindingTests.java
+END
+AroundAdviceCircularTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AroundAdviceCircularTests.xml
+END
+AfterThrowingAdviceBindingTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AfterThrowingAdviceBindingTests.xml
+END
+SharedPointcutWithArgsMismatchTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/SharedPointcutWithArgsMismatchTests.xml
+END
+DeclareParentsTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/DeclareParentsTests.xml
+END
+AspectAndAdvicePrecedenceTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AspectAndAdvicePrecedenceTests.xml
+END
+PropertyDependentAspectTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/PropertyDependentAspectTests.java
+END
+_TestTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/480/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/_TestTypes.java
+END
+BeanNamePointcutAtAspectTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/BeanNamePointcutAtAspectTests.java
+END
+ProceedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ProceedTests.java
+END
+TargetPointcutSelectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/TargetPointcutSelectionTests.java
+END
+AfterReturningAdviceBindingTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AfterReturningAdviceBindingTests.xml
+END
+AfterAdviceBindingTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AfterAdviceBindingTests.xml
+END
+AspectJExpressionPointcutAdvisorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AspectJExpressionPointcutAdvisorTests.java
+END
+BeforeAdviceBindingTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/BeforeAdviceBindingTests.xml
+END
+AroundAdviceCircularTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/AroundAdviceCircularTests.java
+END
+SharedPointcutWithArgsMismatchTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/SharedPointcutWithArgsMismatchTests.java
+END
+BeanNamePointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/BeanNamePointcutTests.java
+END
+OverloadedAdviceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/OverloadedAdviceTests.java
+END
+ImplicitJPArgumentMatchingAtAspectJTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ImplicitJPArgumentMatchingAtAspectJTests.xml
+END
+SubtypeSensitiveMatchingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/SubtypeSensitiveMatchingTests.java
+END
+ThisAndTargetSelectionOnlyPointcutsAtAspectJTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/ThisAndTargetSelectionOnlyPointcutsAtAspectJTests.xml
+END
+TargetPointcutSelectionTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/TargetPointcutSelectionTests.xml
+END
+DeclarationOrderIndependenceTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/DeclarationOrderIndependenceTests.xml
+END
+BeforeAdviceBindingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/BeforeAdviceBindingTests.java
+END
+BeanNamePointcutTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/479/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/BeanNamePointcutTests.xml
+END

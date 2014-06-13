@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/3564/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view
+END
+testviews_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/testviews_fr.properties
+END
+RedirectViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3564/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/RedirectViewTests.java
+END
+ViewResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/828/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/ViewResolverTests.java
+END
+ResourceBundleViewResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/ResourceBundleViewResolverTests.java
+END
+InternalResourceViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/InternalResourceViewTests.java
+END
+ResourceBundleViewResolverNoCacheTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/ResourceBundleViewResolverNoCacheTests.java
+END
+ContentNegotiatingViewResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/3304/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/ContentNegotiatingViewResolverTests.java
+END
+testviews.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/testviews.properties
+END
+BaseViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/BaseViewTests.java
+END
+DefaultRequestToViewNameTranslatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/3005/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/DefaultRequestToViewNameTranslatorTests.java
+END
+testviews_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/testviews_en.properties
+END
+DummyMacroRequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/653/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/DummyMacroRequestContext.java
+END
+views.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/426/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/views.xml
+END

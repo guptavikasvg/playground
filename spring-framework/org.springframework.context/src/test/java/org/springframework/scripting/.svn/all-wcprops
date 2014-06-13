@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/2917/trunk/org.springframework.context/src/test/java/org/springframework/scripting
+END
+ContextScriptBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/ContextScriptBean.java
+END
+MessengerScrambler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/MessengerScrambler.java
+END
+Messenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/Messenger.java
+END
+Calculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/Calculator.java
+END
+ConfigurableMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/ConfigurableMessenger.java
+END
+ScriptBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/ScriptBean.java
+END
+CallCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/CallCounter.java
+END
+TestBeanAwareMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/TestBeanAwareMessenger.java
+END

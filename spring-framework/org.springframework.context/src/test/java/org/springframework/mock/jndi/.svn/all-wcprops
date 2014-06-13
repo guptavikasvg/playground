@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/2280/trunk/org.springframework.context/src/test/java/org/springframework/mock/jndi
+END
+SimpleNamingContextBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1245/trunk/org.springframework.context/src/test/java/org/springframework/mock/jndi/SimpleNamingContextBuilder.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/2279/trunk/org.springframework.context/src/test/java/org/springframework/mock/jndi/package-info.java
+END
+ExpectedLookupTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/472/trunk/org.springframework.context/src/test/java/org/springframework/mock/jndi/ExpectedLookupTemplate.java
+END
+SimpleNamingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/472/trunk/org.springframework.context/src/test/java/org/springframework/mock/jndi/SimpleNamingContext.java
+END

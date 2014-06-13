@@ -1,0 +1,43 @@
+10
+
+dir
+3602
+https://src.springframework.org/svn/spring-framework/trunk/org.springframework.aop/src/test/java/test
+https://src.springframework.org/svn/spring-framework
+
+
+
+2009-05-07T22:29:55.453756Z
+1127
+jhoeller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50f2f4bb-b051-0410-bef5-90022cba6387
+
+aop
+dir
+
+parsing
+dir
+
+beans
+dir
+
+annotation
+dir
+
+util
+dir
+

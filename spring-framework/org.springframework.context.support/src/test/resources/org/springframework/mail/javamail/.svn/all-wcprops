@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/190/trunk/org.springframework.context.support/src/test/resources/org/springframework/mail/javamail
+END
+test.mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/190/trunk/org.springframework.context.support/src/test/resources/org/springframework/mail/javamail/test.mime.types
+END

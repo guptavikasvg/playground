@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3321/trunk/org.springframework.web/src/test/java/org/springframework/remoting/jaxws
+END
+OrderNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/447/trunk/org.springframework.web/src/test/java/org/springframework/remoting/jaxws/OrderNotFoundException.java
+END
+JaxWsSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3321/trunk/org.springframework.web/src/test/java/org/springframework/remoting/jaxws/JaxWsSupportTests.java
+END
+OrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/447/trunk/org.springframework.web/src/test/java/org/springframework/remoting/jaxws/OrderService.java
+END
+OrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/447/trunk/org.springframework.web/src/test/java/org/springframework/remoting/jaxws/OrderServiceImpl.java
+END

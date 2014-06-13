@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/3579/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc
+END
+ServletWrappingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/ServletWrappingController.java
+END
+UrlFilenameViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/UrlFilenameViewController.java
+END
+LastModified.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/LastModified.java
+END
+ParameterizableViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2510/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/ParameterizableViewController.java
+END
+AbstractCommandController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/AbstractCommandController.java
+END
+AbstractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2514/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/AbstractController.java
+END
+ServletForwardingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/ServletForwardingController.java
+END
+AbstractWizardFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/AbstractWizardFormController.java
+END
+CancellableFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/CancellableFormController.java
+END
+BaseCommandController.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/BaseCommandController.java
+END
+SimpleFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/SimpleFormController.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/538/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/Controller.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/package-info.java
+END
+AbstractUrlViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/AbstractUrlViewController.java
+END
+WebContentInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3098/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/WebContentInterceptor.java
+END
+HttpRequestHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/HttpRequestHandlerAdapter.java
+END
+AbstractFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/AbstractFormController.java
+END
+SimpleControllerHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/SimpleControllerHandlerAdapter.java
+END

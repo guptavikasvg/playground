@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/eclipselink
+END
+EclipseLinkEntityManagerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/eclipselink/EclipseLinkEntityManagerFactoryIntegrationTests.java
+END
+eclipselink-manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/eclipselink/eclipselink-manager.xml
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/3579/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc
+END
+SimpleFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/SimpleFormController.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/Controller.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/package-info.java
+END
+EventAwareController.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/EventAwareController.java
+END
+PortletWrappingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/3525/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/PortletWrappingController.java
+END
+AbstractCommandController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/AbstractCommandController.java
+END
+ParameterizableViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/160/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/ParameterizableViewController.java
+END
+AbstractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3524/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/AbstractController.java
+END
+AbstractFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/625/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/AbstractFormController.java
+END
+ResourceAwareController.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/ResourceAwareController.java
+END
+AbstractWizardFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/AbstractWizardFormController.java
+END
+SimpleControllerHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/SimpleControllerHandlerAdapter.java
+END
+BaseCommandController.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/BaseCommandController.java
+END
+PortletModeNameViewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/139/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/mvc/PortletModeNameViewController.java
+END

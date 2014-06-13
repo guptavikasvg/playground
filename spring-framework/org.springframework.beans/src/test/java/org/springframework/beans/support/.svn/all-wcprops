@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/support
+END
+PropertyComparatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.beans/src/test/java/org/springframework/beans/support/PropertyComparatorTests.java
+END
+DerivedFromProtectedBaseBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/182/trunk/org.springframework.beans/src/test/java/org/springframework/beans/support/DerivedFromProtectedBaseBean.java
+END
+ProtectedBaseBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/182/trunk/org.springframework.beans/src/test/java/org/springframework/beans/support/ProtectedBaseBean.java
+END
+PagedListHolderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/support/PagedListHolderTests.java
+END

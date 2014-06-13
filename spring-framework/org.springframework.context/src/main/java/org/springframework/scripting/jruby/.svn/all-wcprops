@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/2638/trunk/org.springframework.context/src/main/java/org/springframework/scripting/jruby
+END
+JRubyScriptUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/2638/trunk/org.springframework.context/src/main/java/org/springframework/scripting/jruby/JRubyScriptUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/scripting/jruby/package-info.java
+END
+JRubyScriptFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/scripting/jruby/JRubyScriptFactory.java
+END

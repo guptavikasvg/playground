@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support
+END
+BeanFactoryGenericsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/BeanFactoryGenericsTests.java
+END
+BeanDefinitionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/BeanDefinitionTests.java
+END
+PropertiesBeanDefinitionReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/PropertiesBeanDefinitionReaderTests.java
+END
+genericBeanTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/genericBeanTests.xml
+END
+DefinitionMetadataEqualsHashCodeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/DefinitionMetadataEqualsHashCodeTests.java
+END
+BeanDefinitionBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/BeanDefinitionBuilderTests.java
+END
+ManagedListTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/193/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/ManagedListTests.java
+END
+ManagedSetTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/193/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/ManagedSetTests.java
+END
+ManagedPropertiesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/193/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/ManagedPropertiesTests.java
+END
+ManagedMapTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/193/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/ManagedMapTests.java
+END
+QualifierAnnotationAutowireBeanFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/417/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/support/QualifierAnnotationAutowireBeanFactoryTests.java
+END

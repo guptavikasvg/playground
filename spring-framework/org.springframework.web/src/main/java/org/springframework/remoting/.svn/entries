@@ -1,0 +1,40 @@
+10
+
+dir
+3602
+https://src.springframework.org/svn/spring-framework/trunk/org.springframework.web/src/main/java/org/springframework/remoting
+https://src.springframework.org/svn/spring-framework
+
+
+
+2010-08-02T21:44:14.984162Z
+3517
+jhoeller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50f2f4bb-b051-0410-bef5-90022cba6387
+
+caucho
+dir
+
+jaxrpc
+dir
+
+jaxws
+dir
+
+httpinvoker
+dir
+

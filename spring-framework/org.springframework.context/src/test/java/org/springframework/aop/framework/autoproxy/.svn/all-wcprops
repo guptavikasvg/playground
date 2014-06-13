@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/2880/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy
+END
+AdvisorAutoProxyCreatorTests-custom-targetsource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/AdvisorAutoProxyCreatorTests-custom-targetsource.xml
+END
+AdvisorAutoProxyCreatorTests-quick-targetsource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/AdvisorAutoProxyCreatorTests-quick-targetsource.xml
+END
+BeanNameAutoProxyCreatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/BeanNameAutoProxyCreatorTests.java
+END
+AdvisorAutoProxyCreatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/AdvisorAutoProxyCreatorTests.java
+END
+BeanNameAutoProxyCreatorTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/2880/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/BeanNameAutoProxyCreatorTests-context.xml
+END
+AdvisorAutoProxyCreatorTests-optimized.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/AdvisorAutoProxyCreatorTests-optimized.xml
+END
+BeanNameAutoProxyCreatorInitTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/BeanNameAutoProxyCreatorInitTests.java
+END
+AdvisorAutoProxyCreatorTests-common-interceptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/AdvisorAutoProxyCreatorTests-common-interceptors.xml
+END
+BeanNameAutoProxyCreatorInitTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/BeanNameAutoProxyCreatorInitTests-context.xml
+END
+AutoProxyCreatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/2603/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/autoproxy/AutoProxyCreatorTests.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring-framework/!svn/ver/3428/trunk/org.springframework.instrument.tomcat
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/spring-framework/!svn/ver/2016/trunk/org.springframework.instrument.tomcat/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-framework/!svn/ver/2026/trunk/org.springframework.instrument.tomcat/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/2016/trunk/org.springframework.instrument.tomcat/ivy.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/3428/trunk/org.springframework.instrument.tomcat/pom.xml
+END
+template.mf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/2016/trunk/org.springframework.instrument.tomcat/template.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-framework/!svn/ver/2016/trunk/org.springframework.instrument.tomcat/build.xml
+END

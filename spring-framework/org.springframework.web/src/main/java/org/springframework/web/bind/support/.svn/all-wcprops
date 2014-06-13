@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/3588/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support
+END
+SimpleSessionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support/SimpleSessionStatus.java
+END
+WebArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support/WebArgumentResolver.java
+END
+SessionAttributeStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support/SessionAttributeStore.java
+END
+WebRequestDataBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3588/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support/WebRequestDataBinder.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support/package-info.java
+END
+SessionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support/SessionStatus.java
+END
+DefaultSessionAttributeStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support/DefaultSessionAttributeStore.java
+END
+WebBindingInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support/WebBindingInitializer.java
+END
+ConfigurableWebBindingInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2254/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/support/ConfigurableWebBindingInitializer.java
+END

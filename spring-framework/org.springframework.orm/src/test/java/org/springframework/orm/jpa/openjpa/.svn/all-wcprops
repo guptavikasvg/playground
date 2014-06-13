@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/openjpa
+END
+OpenJpaEntityManagerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/openjpa/OpenJpaEntityManagerFactoryIntegrationTests.java
+END
+openjpa-manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/openjpa/openjpa-manager.xml
+END
+openjpa-manager-aspectj-weaving.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/openjpa/openjpa-manager-aspectj-weaving.xml
+END
+OpenJpaEntityManagerFactoryWithAspectJWeavingIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/openjpa/OpenJpaEntityManagerFactoryWithAspectJWeavingIntegrationTests.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1519/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm/domain
+END
+DriversLicense.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/1519/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm/domain/DriversLicense.java
+END
+DriversLicense.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/1519/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm/domain/DriversLicense.hbm.xml
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1519/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm/domain/Person.java
+END
+Person.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/1519/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm/domain/Person.hbm.xml
+END

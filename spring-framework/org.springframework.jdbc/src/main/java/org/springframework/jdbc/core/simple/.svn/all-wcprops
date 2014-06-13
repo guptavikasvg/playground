@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/3332/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple
+END
+SimpleJdbcOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1781/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/SimpleJdbcOperations.java
+END
+SimpleJdbcInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1360/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/SimpleJdbcInsert.java
+END
+AbstractJdbcCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3322/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/AbstractJdbcCall.java
+END
+ParameterizedBeanPropertyRowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/2504/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/ParameterizedBeanPropertyRowMapper.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/package-info.java
+END
+SimpleJdbcInsertOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1360/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/SimpleJdbcInsertOperations.java
+END
+SimpleJdbcCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3073/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/SimpleJdbcCall.java
+END
+SimpleJdbcTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1781/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java
+END
+ParameterizedRowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/ParameterizedRowMapper.java
+END
+ParameterizedSingleColumnRowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/ParameterizedSingleColumnRowMapper.java
+END
+AbstractJdbcInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3332/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/AbstractJdbcInsert.java
+END
+SimpleJdbcCallOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3073/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/SimpleJdbcCallOperations.java
+END
+SimpleJdbcDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/155/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/simple/SimpleJdbcDaoSupport.java
+END

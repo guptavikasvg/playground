@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/web/jsf
+END
+SpringBeanVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/jsf/SpringBeanVariableResolver.java
+END
+DelegatingNavigationHandlerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/jsf/DelegatingNavigationHandlerProxy.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/web/jsf/package-info.java
+END
+DelegatingPhaseListenerMulticaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/324/trunk/org.springframework.web/src/main/java/org/springframework/web/jsf/DelegatingPhaseListenerMulticaster.java
+END
+FacesContextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/web/jsf/FacesContextUtils.java
+END
+DelegatingVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/jsf/DelegatingVariableResolver.java
+END
+DecoratingNavigationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/jsf/DecoratingNavigationHandler.java
+END
+WebApplicationContextVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/jsf/WebApplicationContextVariableResolver.java
+END

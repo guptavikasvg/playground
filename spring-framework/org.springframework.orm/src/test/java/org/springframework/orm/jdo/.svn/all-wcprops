@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jdo
+END
+JdoTransactionManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jdo/JdoTransactionManagerTests.java
+END
+LocalPersistenceManagerFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/217/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jdo/LocalPersistenceManagerFactoryTests.java
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jdo/test.properties
+END
+JdoTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jdo/JdoTemplateTests.java
+END
+JdoInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/217/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jdo/JdoInterceptorTests.java
+END

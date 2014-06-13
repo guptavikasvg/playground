@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3573/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request
+END
+RequestAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/631/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/RequestAttributes.java
+END
+FacesRequestAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/968/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/FacesRequestAttributes.java
+END
+RequestContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2398/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/RequestContextListener.java
+END
+ServletRequestAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/631/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/ServletRequestAttributes.java
+END
+WebRequestInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/2561/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/WebRequestInterceptor.java
+END
+Log4jNestedDiagnosticContextInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/Log4jNestedDiagnosticContextInterceptor.java
+END
+SessionScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/SessionScope.java
+END
+AbstractRequestAttributesScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/313/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/AbstractRequestAttributesScope.java
+END
+DestructionCallbackBindingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/631/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/DestructionCallbackBindingListener.java
+END
+RequestScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/RequestScope.java
+END
+AbstractRequestAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/AbstractRequestAttributes.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/package-info.java
+END
+WebRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/3573/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/WebRequest.java
+END
+FacesWebRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3189/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/FacesWebRequest.java
+END
+ServletWebRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3573/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/ServletWebRequest.java
+END
+RequestContextHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/596/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/RequestContextHolder.java
+END
+NativeWebRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3189/trunk/org.springframework.web/src/main/java/org/springframework/web/context/request/NativeWebRequest.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/3186/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports
+END
+ConfigurableJasperReportsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/3186/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/ConfigurableJasperReportsView.java
+END
+JasperReportsViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/3186/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/JasperReportsViewResolver.java
+END
+AbstractJasperReportsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/3185/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/AbstractJasperReportsView.java
+END
+JasperReportsMultiFormatView.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/3186/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/JasperReportsMultiFormatView.java
+END
+JasperReportsHtmlView.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/JasperReportsHtmlView.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/package-info.java
+END
+JasperReportsXlsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/JasperReportsXlsView.java
+END
+JasperReportsPdfView.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/JasperReportsPdfView.java
+END
+JasperReportsCsvView.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/JasperReportsCsvView.java
+END
+AbstractJasperReportsSingleFormatView.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/jasperreports/AbstractJasperReportsSingleFormatView.java
+END

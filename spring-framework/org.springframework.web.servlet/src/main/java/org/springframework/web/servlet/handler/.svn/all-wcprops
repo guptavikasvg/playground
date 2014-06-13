@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/3571/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler
+END
+UserRoleAuthorizationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/537/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/UserRoleAuthorizationInterceptor.java
+END
+AbstractUrlHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/3571/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/AbstractUrlHandlerMapping.java
+END
+DispatcherServletWebRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/3188/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/DispatcherServletWebRequest.java
+END
+ConversionServiceExposingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/2992/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/ConversionServiceExposingInterceptor.java
+END
+AbstractHandlerExceptionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/3480/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/AbstractHandlerExceptionResolver.java
+END
+BeanNameUrlHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2983/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/BeanNameUrlHandlerMapping.java
+END
+WebRequestHandlerInterceptorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/3188/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/WebRequestHandlerInterceptorAdapter.java
+END
+SimpleServletPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/537/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/SimpleServletPostProcessor.java
+END
+SimpleMappingExceptionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/1837/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/SimpleMappingExceptionResolver.java
+END
+MappedInterceptors.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2542/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/MappedInterceptors.java
+END
+AbstractHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2557/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/AbstractHandlerMapping.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/package-info.java
+END
+MappedInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2588/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/MappedInterceptor.java
+END
+SimpleUrlHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/3203/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/SimpleUrlHandlerMapping.java
+END
+AbstractDetectingUrlHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/2006/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/AbstractDetectingUrlHandlerMapping.java
+END
+SimpleServletHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/SimpleServletHandlerAdapter.java
+END
+HandlerInterceptorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java
+END

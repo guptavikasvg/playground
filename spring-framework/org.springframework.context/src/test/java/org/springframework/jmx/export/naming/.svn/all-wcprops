@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/naming
+END
+AbstractNamingStrategyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/naming/AbstractNamingStrategyTests.java
+END
+KeyNamingStrategyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/naming/KeyNamingStrategyTests.java
+END
+IdentityNamingStrategyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/naming/IdentityNamingStrategyTests.java
+END
+jmx-names.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/naming/jmx-names.properties
+END
+PropertiesFileNamingStrategyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/naming/PropertiesFileNamingStrategyTests.java
+END
+PropertiesNamingStrategyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/naming/PropertiesNamingStrategyTests.java
+END

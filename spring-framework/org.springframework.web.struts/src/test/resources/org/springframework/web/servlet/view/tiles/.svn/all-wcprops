@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/2127/trunk/org.springframework.web.struts/src/test/resources/org/springframework/web/servlet/view/tiles
+END
+context-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/2127/trunk/org.springframework.web.struts/src/test/resources/org/springframework/web/servlet/view/tiles/context-messages.properties
+END
+tiles-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2127/trunk/org.springframework.web.struts/src/test/resources/org/springframework/web/servlet/view/tiles/tiles-test.xml
+END
+context-messages_en_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/2127/trunk/org.springframework.web.struts/src/test/resources/org/springframework/web/servlet/view/tiles/context-messages_en_US.properties
+END
+context-messages_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/2127/trunk/org.springframework.web.struts/src/test/resources/org/springframework/web/servlet/view/tiles/context-messages_en_GB.properties
+END

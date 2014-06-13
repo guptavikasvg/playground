@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/i18n
+END
+FixedLocaleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/i18n/FixedLocaleResolver.java
+END
+LocaleChangeInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/i18n/LocaleChangeInterceptor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/i18n/package-info.java
+END
+AbstractLocaleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/i18n/AbstractLocaleResolver.java
+END
+SessionLocaleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/i18n/SessionLocaleResolver.java
+END
+AcceptHeaderLocaleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/i18n/AcceptHeaderLocaleResolver.java
+END
+CookieLocaleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/i18n/CookieLocaleResolver.java
+END

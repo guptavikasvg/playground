@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/3589/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart
+END
+MultipartHttpServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/MultipartHttpServletRequest.java
+END
+MultipartException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/MultipartException.java
+END
+MultipartFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/MultipartFile.java
+END
+MultipartResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/MultipartResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/package-info.java
+END
+MultipartRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/3588/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/MultipartRequest.java
+END
+MaxUploadSizeExceededException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/MaxUploadSizeExceededException.java
+END

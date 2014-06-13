@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/3195/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler
+END
+UserRoleAuthorizationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/UserRoleAuthorizationInterceptor.java
+END
+SimplePortletHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/SimplePortletHandlerAdapter.java
+END
+PortletModeParameterLookupKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/PortletModeParameterLookupKey.java
+END
+AbstractHandlerExceptionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/3195/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/AbstractHandlerExceptionResolver.java
+END
+WebRequestHandlerInterceptorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/658/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/WebRequestHandlerInterceptorAdapter.java
+END
+SimpleMappingExceptionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/1658/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/SimpleMappingExceptionResolver.java
+END
+PortletModeHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/PortletModeHandlerMapping.java
+END
+SimplePortletPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/SimplePortletPostProcessor.java
+END
+PortletRequestMethodNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/PortletRequestMethodNotSupportedException.java
+END
+PortletModeParameterHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/PortletModeParameterHandlerMapping.java
+END
+AbstractMapBasedHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/AbstractMapBasedHandlerMapping.java
+END
+ParameterMappingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/160/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/ParameterMappingInterceptor.java
+END
+PortletSessionRequiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/139/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/PortletSessionRequiredException.java
+END
+AbstractHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/AbstractHandlerMapping.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/package-info.java
+END
+ParameterHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/ParameterHandlerMapping.java
+END
+PortletContentGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/PortletContentGenerator.java
+END
+HandlerInterceptorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/main/java/org/springframework/web/portlet/handler/HandlerInterceptorAdapter.java
+END

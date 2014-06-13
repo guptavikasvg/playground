@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/lookup
+END
+BeanFactoryDataSourceLookupTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/lookup/BeanFactoryDataSourceLookupTests.java
+END
+MapDataSourceLookupTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/lookup/MapDataSourceLookupTests.java
+END
+StubDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/lookup/StubDataSource.java
+END
+JndiDataSourceLookupTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/datasource/lookup/JndiDataSourceLookupTests.java
+END

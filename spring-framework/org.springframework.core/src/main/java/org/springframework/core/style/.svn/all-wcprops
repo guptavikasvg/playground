@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/style
+END
+ValueStyler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/style/ValueStyler.java
+END
+DefaultToStringStyler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.core/src/main/java/org/springframework/core/style/DefaultToStringStyler.java
+END
+StylerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/style/StylerUtils.java
+END
+DefaultValueStyler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.core/src/main/java/org/springframework/core/style/DefaultValueStyler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/style/package-info.java
+END
+ToStringCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.core/src/main/java/org/springframework/core/style/ToStringCreator.java
+END
+ToStringStyler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.core/src/main/java/org/springframework/core/style/ToStringStyler.java
+END

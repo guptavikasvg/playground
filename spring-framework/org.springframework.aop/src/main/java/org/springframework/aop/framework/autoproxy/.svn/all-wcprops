@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/3057/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy
+END
+BeanNameAutoProxyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2880/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/BeanNameAutoProxyCreator.java
+END
+BeanFactoryAdvisorRetrievalHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/BeanFactoryAdvisorRetrievalHelper.java
+END
+InfrastructureAdvisorAutoProxyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/InfrastructureAdvisorAutoProxyCreator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/package-info.java
+END
+AbstractAdvisorAutoProxyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/649/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java
+END
+DefaultAdvisorAutoProxyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/DefaultAdvisorAutoProxyCreator.java
+END
+TargetSourceCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/482/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/TargetSourceCreator.java
+END
+AutoProxyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/3057/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/AutoProxyUtils.java
+END
+ProxyCreationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/596/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/ProxyCreationContext.java
+END
+AbstractAutoProxyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/596/trunk/org.springframework.aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java
+END

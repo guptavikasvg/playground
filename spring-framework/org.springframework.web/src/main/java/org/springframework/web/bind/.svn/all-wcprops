@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/3588/trunk/org.springframework.web/src/main/java/org/springframework/web/bind
+END
+EscapedErrors.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/EscapedErrors.java
+END
+ServletRequestParameterPropertyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3583/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/ServletRequestParameterPropertyValues.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/package-info.java
+END
+MissingServletRequestParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/MissingServletRequestParameterException.java
+END
+ServletRequestBindingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/ServletRequestBindingException.java
+END
+ServletRequestDataBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/3588/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/ServletRequestDataBinder.java
+END
+WebDataBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/3588/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/WebDataBinder.java
+END
+UnsatisfiedServletRequestParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/UnsatisfiedServletRequestParameterException.java
+END
+ServletRequestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/bind/ServletRequestUtils.java
+END

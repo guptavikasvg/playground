@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/1286/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/object
+END
+GenericSqlQueryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/765/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/object/GenericSqlQueryTests.java
+END
+SqlUpdateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/221/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/object/SqlUpdateTests.java
+END
+CustomerMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/764/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/object/CustomerMapper.java
+END
+BatchSqlUpdateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/221/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/object/BatchSqlUpdateTests.java
+END
+SqlQueryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/221/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/object/SqlQueryTests.java
+END
+GenericStoredProcedureTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/765/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/object/GenericStoredProcedureTests.java
+END
+RdbmsOperationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/221/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/object/RdbmsOperationTests.java
+END
+StoredProcedureTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1286/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/object/StoredProcedureTests.java
+END

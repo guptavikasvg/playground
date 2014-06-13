@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/2723/trunk/org.springframework.context/src/test/java/org/springframework/context/event
+END
+LifecycleEventTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/226/trunk/org.springframework.context/src/test/java/org/springframework/context/event/LifecycleEventTests.java
+END
+ApplicationContextEventTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2723/trunk/org.springframework.context/src/test/java/org/springframework/context/event/ApplicationContextEventTests.java
+END
+EventPublicationInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.context/src/test/java/org/springframework/context/event/EventPublicationInterceptorTests.java
+END

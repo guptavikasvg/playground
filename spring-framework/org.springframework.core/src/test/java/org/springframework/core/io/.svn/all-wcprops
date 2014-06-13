@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/3133/trunk/org.springframework.core/src/test/java/org/springframework/core/io
+END
+ResourceEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/2807/trunk/org.springframework.core/src/test/java/org/springframework/core/io/ResourceEditorTests.java
+END
+ResourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/414/trunk/org.springframework.core/src/test/java/org/springframework/core/io/ResourceTests.java
+END
+ClassPathResourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/3133/trunk/org.springframework.core/src/test/java/org/springframework/core/io/ClassPathResourceTests.java
+END

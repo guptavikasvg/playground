@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/2778/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/glassfish
+END
+GlassFishWorkManagerTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/2778/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/glassfish/GlassFishWorkManagerTaskExecutor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/glassfish/package-info.java
+END

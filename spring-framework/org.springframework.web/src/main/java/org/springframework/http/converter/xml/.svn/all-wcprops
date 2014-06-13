@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/3405/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/xml
+END
+AbstractXmlHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2991/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/xml/AbstractXmlHttpMessageConverter.java
+END
+Jaxb2RootElementHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/2991/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/xml/Jaxb2RootElementHttpMessageConverter.java
+END
+XmlAwareFormHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/3396/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/xml/XmlAwareFormHttpMessageConverter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/3081/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/xml/package-info.java
+END
+AbstractJaxb2HttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/2531/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/xml/AbstractJaxb2HttpMessageConverter.java
+END
+SourceHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2991/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/xml/SourceHttpMessageConverter.java
+END
+MarshallingHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/3405/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/xml/MarshallingHttpMessageConverter.java
+END

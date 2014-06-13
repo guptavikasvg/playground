@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/resource/testalternatepath/js
+END
+bar.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/resource/testalternatepath/js/bar.js
+END
+baz.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/resource/testalternatepath/js/baz.js
+END
+foo.js
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/resource/testalternatepath/js/foo.js
+END

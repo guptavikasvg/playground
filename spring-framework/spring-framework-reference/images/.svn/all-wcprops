@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/spring-framework/!svn/ver/2413/trunk/spring-framework-reference/images
+END
+logo.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/logo.jpg
+END
+idea-setup-1.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/idea-setup-1.png
+END
+idea-setup-2.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/idea-setup-2.png
+END
+idea-setup-3.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/idea-setup-3.png
+END
+idea-setup-4.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/idea-setup-4.png
+END
+idea-setup-5.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/idea-setup-5.png
+END
+idea-setup-6.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/idea-setup-6.png
+END
+overview-ejb.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/930/trunk/spring-framework-reference/images/overview-ejb.png
+END
+remoting.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/remoting.gif
+END
+spring-overview.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-framework/!svn/ver/2413/trunk/spring-framework-reference/images/spring-overview.png
+END
+overview-full.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/spring-framework/!svn/ver/930/trunk/spring-framework-reference/images/overview-full.png
+END
+logo-pdf.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/logo-pdf.png
+END
+overview-thirdparty-web.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-framework/!svn/ver/930/trunk/spring-framework-reference/images/overview-thirdparty-web.png
+END
+aop-proxy-plain-pojo-call.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/aop-proxy-plain-pojo-call.png
+END
+oxm-exceptions.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/1867/trunk/spring-framework-reference/images/oxm-exceptions.png
+END
+overview-ejb.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-framework/!svn/ver/930/trunk/spring-framework-reference/images/overview-ejb.graffle
+END
+spring-overview.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/spring-overview.gif
+END
+spring-overview.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/spring-framework/!svn/ver/2413/trunk/spring-framework-reference/images/spring-overview.graffle
+END
+overview-full.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/spring-framework/!svn/ver/930/trunk/spring-framework-reference/images/overview-full.graffle
+END
+overview-thirdparty-web.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-framework/!svn/ver/930/trunk/spring-framework-reference/images/overview-thirdparty-web.graffle
+END
+aop-uml.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/aop-uml.gif
+END
+DataAccessException.gif
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/DataAccessException.gif
+END
+ejb.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/ejb.png
+END
+container-magic.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/container-magic.png
+END
+full.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/full.png
+END
+oxm-exceptions.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/spring-framework/!svn/ver/1867/trunk/spring-framework-reference/images/oxm-exceptions.graffle
+END
+thirdparty-web.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/thirdparty-web.png
+END
+prototype.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/prototype.png
+END
+note.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/941/trunk/spring-framework-reference/images/note.png
+END
+mvc-contexts.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/mvc-contexts.gif
+END
+spring.sxd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/spring.sxd
+END
+spring-overview.vsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/spring-overview.vsd
+END
+eclipse-setup-1.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/eclipse-setup-1.png
+END
+ejb.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/ejb.gif
+END
+eclipse-setup-2.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/eclipse-setup-2.png
+END
+eclipse-setup-3.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/eclipse-setup-3.png
+END
+tx_prop_requires_new.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/tx_prop_requires_new.png
+END
+full.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/full.gif
+END
+banner4.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/banner4.jpg
+END
+mvc.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/mvc.png
+END
+thirdparty-web.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/thirdparty-web.gif
+END
+note.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/941/trunk/spring-framework-reference/images/note.gif
+END
+bean-lifecycle-overview.gif
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/bean-lifecycle-overview.gif
+END
+tx_prop_required.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/tx_prop_required.png
+END
+remoting.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/remoting.svg
+END
+singleton.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/singleton.png
+END
+spring-overview.svg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/spring-overview.svg
+END
+logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/logo.gif
+END
+xdev-spring_logo.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/xdev-spring_logo.jpg
+END
+overview-remoting.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/spring-framework/!svn/ver/930/trunk/spring-framework-reference/images/overview-remoting.png
+END
+bind1.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/bind1.jpg
+END
+bind2.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/bind2.jpg
+END
+tx.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/tx.png
+END
+logo.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/logo.xcf
+END
+html-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/html-logo.png
+END
+logo.psd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/logo.psd
+END
+pdf-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/pdf-logo.png
+END
+aop-proxy-call.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/aop-proxy-call.png
+END
+overview-remoting.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/spring-framework/!svn/ver/930/trunk/spring-framework-reference/images/overview-remoting.graffle
+END
+ejb.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/ejb.svg
+END
+full.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/full.svg
+END
+thirdparty-web.svg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/thirdparty-web.svg
+END
+springsource-banner-rhs.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/springsource-banner-rhs.png
+END
+remoting.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/images/remoting.png
+END

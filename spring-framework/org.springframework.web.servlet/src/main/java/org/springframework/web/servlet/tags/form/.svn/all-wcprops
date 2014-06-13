@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/3600/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form
+END
+FormTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3248/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/FormTag.java
+END
+TagIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/TagIdGenerator.java
+END
+ValueFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2670/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/ValueFormatter.java
+END
+OptionTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3600/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/OptionTag.java
+END
+OptionWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3279/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/OptionWriter.java
+END
+HiddenInputTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3386/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/HiddenInputTag.java
+END
+ErrorsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3384/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/ErrorsTag.java
+END
+TagWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/TagWriter.java
+END
+RadioButtonsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/RadioButtonsTag.java
+END
+TextareaTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/TextareaTag.java
+END
+CheckboxesTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/CheckboxesTag.java
+END
+LabelTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/LabelTag.java
+END
+SelectTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2972/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/SelectTag.java
+END
+AbstractHtmlElementBodyTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/AbstractHtmlElementBodyTag.java
+END
+SelectedValueComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/3580/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/SelectedValueComparator.java
+END
+AbstractHtmlInputElementTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/2908/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/AbstractHtmlInputElementTag.java
+END
+PasswordInputTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/PasswordInputTag.java
+END
+AbstractDataBoundFormElementTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/3331/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/AbstractDataBoundFormElementTag.java
+END
+AbstractCheckedElementTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/3331/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/AbstractCheckedElementTag.java
+END
+CheckboxTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/CheckboxTag.java
+END
+AbstractSingleCheckedElementTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/3599/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/AbstractSingleCheckedElementTag.java
+END
+AbstractFormTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2908/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/AbstractFormTag.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2425/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/package-info.java
+END
+RadioButtonTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/RadioButtonTag.java
+END
+OptionsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2908/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/OptionsTag.java
+END
+InputTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/InputTag.java
+END
+AbstractMultiCheckedElementTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/3331/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/AbstractMultiCheckedElementTag.java
+END
+AbstractHtmlElementTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/3386/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/tags/form/AbstractHtmlElementTag.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/xmlbeans
+END
+XmlBeansMarshallerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/xmlbeans/XmlBeansMarshallerTests.java
+END
+XmlBeansUnmarshallerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/xmlbeans/XmlBeansUnmarshallerTests.java
+END
+XmlOptionsFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/xmlbeans/XmlOptionsFactoryBeanTests.java
+END

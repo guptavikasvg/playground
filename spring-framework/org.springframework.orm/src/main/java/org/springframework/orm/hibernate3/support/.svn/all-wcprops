@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support
+END
+AbstractLobType.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/AbstractLobType.java
+END
+HibernateDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1087/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/HibernateDaoSupport.java
+END
+ScopedBeanInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/ScopedBeanInterceptor.java
+END
+BlobByteArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/BlobByteArrayType.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/package-info.java
+END
+OpenSessionInViewInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/OpenSessionInViewInterceptor.java
+END
+BlobSerializableType.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/BlobSerializableType.java
+END
+BlobStringType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/BlobStringType.java
+END
+ClobStringType.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/ClobStringType.java
+END
+IdTransferringMergeEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/IdTransferringMergeEventListener.java
+END
+OpenSessionInViewFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.orm/src/main/java/org/springframework/orm/hibernate3/support/OpenSessionInViewFilter.java
+END

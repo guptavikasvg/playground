@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-framework/!svn/ver/3560/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/Customer.java
+END
+AbstractJdbcTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/AbstractJdbcTests.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/2207/trunk/org.springframework.aspects/src/main/java/org/springframework/orm/jpa/aspectj
+END
+JpaExceptionTranslatorAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2207/trunk/org.springframework.aspects/src/main/java/org/springframework/orm/jpa/aspectj/JpaExceptionTranslatorAspect.aj
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/3402/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/support
+END
+SharedEntityManagerFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/3401/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/support/SharedEntityManagerFactoryTests.java
+END
+PersistenceInjectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3402/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/support/PersistenceInjectionTests.java
+END
+JpaDaoSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/support/JpaDaoSupportTests.java
+END
+OpenEntityManagerInViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/support/OpenEntityManagerInViewTests.java
+END
+PersistenceInjectionIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/support/PersistenceInjectionIntegrationTests.java
+END

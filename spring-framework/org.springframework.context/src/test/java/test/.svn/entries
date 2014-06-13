@@ -1,0 +1,46 @@
+10
+
+dir
+3602
+https://src.springframework.org/svn/spring-framework/trunk/org.springframework.context/src/test/java/test
+https://src.springframework.org/svn/spring-framework
+
+
+
+2009-03-23T04:48:04.700280Z
+786
+cbeams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50f2f4bb-b051-0410-bef5-90022cba6387
+
+aspect
+dir
+
+mixin
+dir
+
+beans
+dir
+
+advice
+dir
+
+util
+dir
+
+interceptor
+dir
+

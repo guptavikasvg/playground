@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/762/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/support
+END
+test-error-codes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/support/test-error-codes.xml
+END
+wildcard-error-codes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/support/wildcard-error-codes.xml
+END
+custom-error-codes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/support/custom-error-codes.xml
+END

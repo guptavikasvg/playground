@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/1127/trunk/org.springframework.integration-tests/src/test/java/org/springframework/aop/config
+END
+AopNamespaceHandlerScopeIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/1127/trunk/org.springframework.integration-tests/src/test/java/org/springframework/aop/config/AopNamespaceHandlerScopeIntegrationTests.java
+END
+AopNamespaceHandlerScopeIntegrationTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/1127/trunk/org.springframework.integration-tests/src/test/java/org/springframework/aop/config/AopNamespaceHandlerScopeIntegrationTests-context.xml
+END

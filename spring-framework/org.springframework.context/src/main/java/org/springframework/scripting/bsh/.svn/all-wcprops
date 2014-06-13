@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/scripting/bsh
+END
+BshScriptUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.context/src/main/java/org/springframework/scripting/bsh/BshScriptUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/scripting/bsh/package-info.java
+END
+BshScriptFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/scripting/bsh/BshScriptFactory.java
+END

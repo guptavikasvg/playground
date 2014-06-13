@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/2804/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/support
+END
+DaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/support/DaoSupport.java
+END
+PersistenceExceptionTranslationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/2804/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/support/PersistenceExceptionTranslationInterceptor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/support/package-info.java
+END
+ChainedPersistenceExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/324/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/support/ChainedPersistenceExceptionTranslator.java
+END
+DataAccessUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/615/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/support/DataAccessUtils.java
+END
+PersistenceExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/support/PersistenceExceptionTranslator.java
+END

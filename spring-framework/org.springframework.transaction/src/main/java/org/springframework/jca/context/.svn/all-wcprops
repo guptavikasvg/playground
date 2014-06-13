@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/context
+END
+SpringContextResourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/context/SpringContextResourceAdapter.java
+END
+ResourceAdapterApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/596/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/context/ResourceAdapterApplicationContext.java
+END
+ra.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/context/ra.xml
+END
+BootstrapContextAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/context/BootstrapContextAware.java
+END
+BootstrapContextAwareProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/context/BootstrapContextAwareProcessor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/context/package-info.java
+END

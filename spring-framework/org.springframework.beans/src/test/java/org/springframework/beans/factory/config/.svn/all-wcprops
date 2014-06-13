@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3343/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config
+END
+PropertyPathFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/PropertyPathFactoryBeanTests.java
+END
+PropertyPathFactoryBeanTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/PropertyPathFactoryBeanTests-context.xml
+END
+PropertyResourceConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/3307/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/PropertyResourceConfigurerTests.java
+END
+TestTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/TestTypes.java
+END
+SimpleScopeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/SimpleScopeTests.java
+END
+SimpleScopeTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/SimpleScopeTests-context.xml
+END
+CustomScopeConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/CustomScopeConfigurerTests.java
+END
+ObjectFactoryCreatingFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/3191/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/ObjectFactoryCreatingFactoryBeanTests.java
+END
+ObjectFactoryCreatingFactoryBeanTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/3191/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/ObjectFactoryCreatingFactoryBeanTests-context.xml
+END
+CommonsLogFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/CommonsLogFactoryBeanTests.java
+END
+FieldRetrievingFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/FieldRetrievingFactoryBeanTests.java
+END
+PropertiesFactoryBeanTests-test.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/PropertiesFactoryBeanTests-test.properties.xml
+END
+FieldRetrievingFactoryBeanTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/FieldRetrievingFactoryBeanTests-context.xml
+END
+PropertiesFactoryBeanTests-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/PropertiesFactoryBeanTests-test.properties
+END
+ServiceLocatorFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/ServiceLocatorFactoryBeanTests.java
+END
+MethodInvokingFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/MethodInvokingFactoryBeanTests.java
+END
+DeprecatedBeanWarnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/3343/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/DeprecatedBeanWarnerTests.java
+END
+CustomEditorConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/CustomEditorConfigurerTests.java
+END
+PropertyResourceConfigurerTests-test.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/PropertyResourceConfigurerTests-test.properties.xml
+END
+PropertyResourceConfigurerTests-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/PropertyResourceConfigurerTests-test.properties
+END
+MyDeprecatedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3343/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/MyDeprecatedBean.java
+END
+PropertiesFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/507/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/config/PropertiesFactoryBeanTests.java
+END

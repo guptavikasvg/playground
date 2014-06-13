@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/toplink
+END
+toplink-manager-multi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/toplink/toplink-manager-multi.xml
+END
+TopLinkMultiEntityManagerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/toplink/TopLinkMultiEntityManagerFactoryIntegrationTests.java
+END
+TopLinkEntityManagerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/toplink/TopLinkEntityManagerFactoryIntegrationTests.java
+END
+toplink-manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/jpa/toplink/toplink-manager.xml
+END

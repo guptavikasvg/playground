@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/2788/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh
+END
+bsh-with-xsd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/2788/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/bsh-with-xsd.xml
+END
+bshContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/bshContext.xml
+END
+bshBrokenContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/bshBrokenContext.xml
+END
+Messenger.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/Messenger.bsh
+END
+bshRefreshableContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/bshRefreshableContext.xml
+END
+Calculator.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/Calculator.bsh
+END
+MessengerImpl.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/MessengerImpl.bsh
+END
+MessengerInstance.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/MessengerInstance.bsh
+END
+Broken.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/Broken.bsh
+END
+BshScriptFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2788/trunk/org.springframework.context/src/test/java/org/springframework/scripting/bsh/BshScriptFactoryTests.java
+END

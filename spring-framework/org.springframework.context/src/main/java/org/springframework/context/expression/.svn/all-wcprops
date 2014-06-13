@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3479/trunk/org.springframework.context/src/main/java/org/springframework/context/expression
+END
+BeanFactoryResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3479/trunk/org.springframework.context/src/main/java/org/springframework/context/expression/BeanFactoryResolver.java
+END
+BeanFactoryAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1211/trunk/org.springframework.context/src/main/java/org/springframework/context/expression/BeanFactoryAccessor.java
+END
+MapAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.context/src/main/java/org/springframework/context/expression/MapAccessor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/context/expression/package-info.java
+END
+StandardBeanExpressionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/3479/trunk/org.springframework.context/src/main/java/org/springframework/context/expression/StandardBeanExpressionResolver.java
+END
+BeanExpressionContextAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/2792/trunk/org.springframework.context/src/main/java/org/springframework/context/expression/BeanExpressionContextAccessor.java
+END

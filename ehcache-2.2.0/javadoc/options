@@ -1,0 +1,21 @@
+-classpath '/export1/cruise/hudson/workspace/ehcache-core_2.2.0-rc_publisher/ehcache-core-2.2.0-rc/target/classes:/export1/cruise/.m2/repository/org/slf4j/slf4j-jdk14/1.5.11/slf4j-jdk14-1.5.11.jar:/export1/cruise/.m2/repository/org/codehaus/btm/btm/1.3.3/btm-1.3.3.jar:/export1/cruise/.m2/repository/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.0.1/geronimo-jms_1.1_spec-1.0.1.jar:/export1/cruise/.m2/repository/commons-collections/commons-collections/3.1/commons-collections-3.1.jar:/export1/cruise/.m2/repository/antlr/antlr/2.7.6/antlr-2.7.6.jar:/export1/cruise/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar:/export1/cruise/.m2/repository/org/apache/geronimo/specs/geronimo-jta_1.0.1B_spec/1.0.1/geronimo-jta_1.0.1B_spec-1.0.1.jar:/export1/cruise/.m2/repository/org/slf4j/slf4j-api/1.5.11/slf4j-api-1.5.11.jar:/export1/cruise/.m2/repository/javax/transaction/jta/1.1/jta-1.1.jar:/export1/cruise/.m2/repository/org/hibernate/hibernate-core/3.5.1-Final/hibernate-core-3.5.1-Final.jar'
+ -overview
+'/export1/cruise/hudson/workspace/ehcache-core_2.2.0-rc_publisher/ehcache-core-2.2.0-rc/src/main/java/net/sf/ehcache/overview.html'
+-protected
+-sourcepath
+'/export1/cruise/hudson/workspace/ehcache-core_2.2.0-rc_publisher/ehcache-core-2.2.0-rc/src/main/java'
+-author
+-bottom
+'true'
+-charset
+'ISO-8859-1'
+-d
+'/export1/cruise/hudson/workspace/ehcache-core_2.2.0-rc_publisher/ehcache-core-2.2.0-rc/target/apidocs'
+-doctitle
+'Ehcache Core 2.2.0 API'
+-header
+'<a href="/" target="_top">ehcache</a>'
+-use
+-version
+-windowtitle
+'Ehcache Core 2.2.0 API'

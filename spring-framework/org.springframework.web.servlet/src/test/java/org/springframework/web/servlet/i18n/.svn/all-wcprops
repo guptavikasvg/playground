@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/1414/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/i18n
+END
+LocaleResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/i18n/LocaleResolverTests.java
+END
+SessionLocaleResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/i18n/SessionLocaleResolverTests.java
+END
+CookieLocaleResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/1414/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/i18n/CookieLocaleResolverTests.java
+END

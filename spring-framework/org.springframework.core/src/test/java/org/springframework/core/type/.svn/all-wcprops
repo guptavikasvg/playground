@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/2874/trunk/org.springframework.core/src/test/java/org/springframework/core/type
+END
+AssignableTypeFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/256/trunk/org.springframework.core/src/test/java/org/springframework/core/type/AssignableTypeFilterTests.java
+END
+AspectJTypeFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/794/trunk/org.springframework.core/src/test/java/org/springframework/core/type/AspectJTypeFilterTests.java
+END
+AnnotationTypeFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/256/trunk/org.springframework.core/src/test/java/org/springframework/core/type/AnnotationTypeFilterTests.java
+END
+Scope.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/1029/trunk/org.springframework.core/src/test/java/org/springframework/core/type/Scope.java
+END
+CachingMetadataReaderLeakTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2874/trunk/org.springframework.core/src/test/java/org/springframework/core/type/CachingMetadataReaderLeakTest.java
+END
+AnnotationMetadataTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2346/trunk/org.springframework.core/src/test/java/org/springframework/core/type/AnnotationMetadataTests.java
+END
+ClassloadingAssertions.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/256/trunk/org.springframework.core/src/test/java/org/springframework/core/type/ClassloadingAssertions.java
+END

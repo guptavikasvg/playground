@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-framework/!svn/ver/1127/trunk/org.springframework.aop/src/test/java/test/util
+END
+TestResourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/test/util/TestResourceUtils.java
+END
+TimeStamped.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/test/util/TimeStamped.java
+END
+SerializationTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/1127/trunk/org.springframework.aop/src/test/java/test/util/SerializationTestUtils.java
+END

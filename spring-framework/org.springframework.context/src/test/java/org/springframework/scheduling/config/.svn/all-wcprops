@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/3511/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/config
+END
+AnnotationDrivenBeanDefinitionParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/1317/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/config/AnnotationDrivenBeanDefinitionParserTests.java
+END
+ScheduledTasksBeanDefinitionParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/1290/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/config/ScheduledTasksBeanDefinitionParserTests.java
+END
+ExecutorBeanDefinitionParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/3511/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/config/ExecutorBeanDefinitionParserTests.java
+END
+SchedulerBeanDefinitionParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/1289/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/config/SchedulerBeanDefinitionParserTests.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring-framework/!svn/ver/3428/trunk/org.springframework.integration-tests
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/spring-framework/!svn/ver/3234/trunk/org.springframework.integration-tests/.classpath
+END
+integration-tests.iml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-framework/!svn/ver/2521/trunk/org.springframework.integration-tests/integration-tests.iml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/2918/trunk/org.springframework.integration-tests/ivy.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/3428/trunk/org.springframework.integration-tests/pom.xml
+END
+template.mf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/template.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-framework/!svn/ver/2918/trunk/org.springframework.integration-tests/build.xml
+END

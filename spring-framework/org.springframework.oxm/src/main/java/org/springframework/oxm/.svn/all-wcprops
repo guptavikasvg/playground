@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-framework/!svn/ver/3430/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm
+END
+MarshallingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/MarshallingException.java
+END
+ValidationFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/ValidationFailureException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/package-info.java
+END
+GenericMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/2866/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/GenericMarshaller.java
+END
+MarshallingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/MarshallingFailureException.java
+END
+GenericUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/2866/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/GenericUnmarshaller.java
+END
+Marshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/Marshaller.java
+END
+UnmarshallingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/UnmarshallingFailureException.java
+END
+XmlMappingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/XmlMappingException.java
+END
+Unmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/Unmarshaller.java
+END
+UncategorizedMappingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/UncategorizedMappingException.java
+END

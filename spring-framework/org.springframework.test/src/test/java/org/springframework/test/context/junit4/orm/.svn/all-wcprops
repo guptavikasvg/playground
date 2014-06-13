@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/1784/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm
+END
+db-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1519/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm/db-schema.sql
+END
+db-test-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1519/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm/db-test-data.sql
+END
+HibernateSessionFlushingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/1784/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm/HibernateSessionFlushingTests.java
+END
+HibernateSessionFlushingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/1519/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/orm/HibernateSessionFlushingTests-context.xml
+END

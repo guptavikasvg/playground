@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/config
+END
+TxAdviceBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/config/TxAdviceBeanDefinitionParser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/config/package-info.java
+END
+TxNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1909/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/config/TxNamespaceHandler.java
+END
+JtaTransactionManagerBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/1909/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/config/JtaTransactionManagerBeanDefinitionParser.java
+END
+AnnotationDrivenBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/config/AnnotationDrivenBeanDefinitionParser.java
+END

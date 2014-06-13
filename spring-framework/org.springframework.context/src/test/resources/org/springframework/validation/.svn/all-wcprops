@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/resources/org/springframework/validation
+END
+messages1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/resources/org/springframework/validation/messages1.properties
+END
+messages2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/resources/org/springframework/validation/messages2.properties
+END
+messages3.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/resources/org/springframework/validation/messages3.properties
+END

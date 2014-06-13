@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/1100/trunk/org.springframework.aop/src/test/java/org/springframework/aop/interceptor
+END
+ExposeInvocationInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/interceptor/ExposeInvocationInterceptorTests.java
+END
+ExposeInvocationInterceptorTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/1100/trunk/org.springframework.aop/src/test/java/org/springframework/aop/interceptor/ExposeInvocationInterceptorTests-context.xml
+END
+ConcurrencyThrottleInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/interceptor/ConcurrencyThrottleInterceptorTests.java
+END
+CustomizableTraceInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/497/trunk/org.springframework.aop/src/test/java/org/springframework/aop/interceptor/CustomizableTraceInterceptorTests.java
+END
+DebugInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/497/trunk/org.springframework.aop/src/test/java/org/springframework/aop/interceptor/DebugInterceptorTests.java
+END
+ExposeBeanNameAdvisorsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/interceptor/ExposeBeanNameAdvisorsTests.java
+END
+SimpleTraceInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/497/trunk/org.springframework.aop/src/test/java/org/springframework/aop/interceptor/SimpleTraceInterceptorTests.java
+END
+PerformanceMonitorInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/497/trunk/org.springframework.aop/src/test/java/org/springframework/aop/interceptor/PerformanceMonitorInterceptorTests.java
+END

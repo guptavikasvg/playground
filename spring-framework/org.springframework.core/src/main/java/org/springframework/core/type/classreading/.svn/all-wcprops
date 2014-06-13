@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/3372/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading
+END
+ClassMetadataReadingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/1061/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/ClassMetadataReadingVisitor.java
+END
+MetadataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1061/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/MetadataReader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1284/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/package-info.java
+END
+AnnotationMetadataReadingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/2874/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/AnnotationMetadataReadingVisitor.java
+END
+SimpleMetadataReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/1061/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/SimpleMetadataReaderFactory.java
+END
+CachingMetadataReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/3372/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/CachingMetadataReaderFactory.java
+END
+AnnotationAttributesReadingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/2345/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/AnnotationAttributesReadingVisitor.java
+END
+MetadataReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/110/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/MetadataReaderFactory.java
+END
+MethodMetadataReadingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/2874/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/MethodMetadataReadingVisitor.java
+END
+SimpleMetadataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2874/trunk/org.springframework.core/src/main/java/org/springframework/core/type/classreading/SimpleMetadataReader.java
+END

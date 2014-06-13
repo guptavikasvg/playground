@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1931/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/freemarker
+END
+FreeMarkerViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/1171/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/freemarker/FreeMarkerViewResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/freemarker/package-info.java
+END
+spring.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/1931/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/freemarker/spring.ftl
+END
+FreeMarkerConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/1171/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/freemarker/FreeMarkerConfigurer.java
+END
+FreeMarkerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1171/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/freemarker/FreeMarkerConfig.java
+END
+FreeMarkerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/1489/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/freemarker/FreeMarkerView.java
+END

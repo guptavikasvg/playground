@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/3589/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/commons
+END
+CommonsMultipartResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3589/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/commons/CommonsMultipartResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/commons/package-info.java
+END
+CommonsFileUploadSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3589/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/commons/CommonsFileUploadSupport.java
+END
+CommonsMultipartFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1665/trunk/org.springframework.web/src/main/java/org/springframework/web/multipart/commons/CommonsMultipartFile.java
+END

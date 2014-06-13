@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/1302/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/test
+END
+SpacePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1302/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/test/SpacePerson.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/219/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/test/Person.java
+END
+ExtendedPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/219/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/test/ExtendedPerson.java
+END
+ConcretePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/219/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/test/ConcretePerson.java
+END
+AbstractPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/219/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/core/test/AbstractPerson.java
+END

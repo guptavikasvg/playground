@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/3580/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view
+END
+InternalResourceViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/643/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/InternalResourceViewResolver.java
+END
+DefaultRequestToViewNameTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/3026/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/DefaultRequestToViewNameTranslator.java
+END
+JstlView.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/JstlView.java
+END
+AbstractTemplateViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/AbstractTemplateViewResolver.java
+END
+XmlViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/828/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/XmlViewResolver.java
+END
+UrlBasedViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1489/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/UrlBasedViewResolver.java
+END
+InternalResourceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3294/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/InternalResourceView.java
+END
+ContentNegotiatingViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/3580/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/ContentNegotiatingViewResolver.java
+END
+AbstractUrlBasedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1489/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/AbstractUrlBasedView.java
+END
+BeanNameViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/BeanNameViewResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/package-info.java
+END
+AbstractTemplateView.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/653/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/AbstractTemplateView.java
+END
+RedirectView.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3580/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/RedirectView.java
+END
+AbstractCachingViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1171/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/AbstractCachingViewResolver.java
+END
+AbstractView.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/653/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/AbstractView.java
+END
+ResourceBundleViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/828/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/ResourceBundleViewResolver.java
+END

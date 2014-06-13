@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3590/trunk/org.springframework.web/src/main/java/org/springframework/web/context
+END
+ContextLoaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web/src/main/java/org/springframework/web/context/ContextLoaderListener.java
+END
+ContextCleanupListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web/src/main/java/org/springframework/web/context/ContextCleanupListener.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/web/context/package-info.java
+END
+ContextLoader.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/web/context/ContextLoader.properties
+END
+WebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web/src/main/java/org/springframework/web/context/WebApplicationContext.java
+END
+ConfigurableWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1715/trunk/org.springframework.web/src/main/java/org/springframework/web/context/ConfigurableWebApplicationContext.java
+END
+ServletContextAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/web/context/ServletContextAware.java
+END
+ServletConfigAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/web/context/ServletConfigAware.java
+END
+ContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3184/trunk/org.springframework.web/src/main/java/org/springframework/web/context/ContextLoader.java
+END

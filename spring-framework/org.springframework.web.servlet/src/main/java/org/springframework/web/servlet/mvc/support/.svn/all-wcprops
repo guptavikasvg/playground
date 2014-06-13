@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/3481/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/support
+END
+AnnotationControllerTypePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/support/AnnotationControllerTypePredicate.java
+END
+DefaultHandlerExceptionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/3481/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/support/DefaultHandlerExceptionResolver.java
+END
+AbstractControllerUrlHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/support/AbstractControllerUrlHandlerMapping.java
+END
+ControllerBeanNameHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/support/ControllerBeanNameHandlerMapping.java
+END
+ControllerClassNameHandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/2105/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/support/ControllerClassNameHandlerMapping.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/support/package-info.java
+END
+ControllerTypePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/mvc/support/ControllerTypePredicate.java
+END

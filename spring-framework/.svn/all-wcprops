@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/spring-framework/!svn/ver/3602/trunk
+END
+ci-build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/spring-framework/!svn/ver/450/trunk/ci-build.properties
+END
+spring-framework.psf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/spring-framework/!svn/ver/2016/trunk/spring-framework.psf
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/spring-framework/!svn/ver/3526/trunk/.gitignore
+END
+spring-framework.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/spring-framework/!svn/ver/2289/trunk/spring-framework.ipr
+END
+build.versions
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/spring-framework/!svn/ver/2926/trunk/build.versions
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/spring-framework/!svn/ver/3428/trunk/build.properties
+END
+eclipse-code-formatter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spring-framework/!svn/ver/1137/trunk/eclipse-code-formatter.xml
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/3477/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo
+END
+JdoAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoAccessor.java
+END
+TransactionAwarePersistenceManagerFactoryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/TransactionAwarePersistenceManagerFactoryProxy.java
+END
+JdoSystemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoSystemException.java
+END
+JdoDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoDialect.java
+END
+DefaultJdoDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3477/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/DefaultJdoDialect.java
+END
+LocalPersistenceManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/LocalPersistenceManagerFactoryBean.java
+END
+JdoTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/608/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoTemplate.java
+END
+JdoObjectRetrievalFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoObjectRetrievalFailureException.java
+END
+JdoResourceFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoResourceFailureException.java
+END
+PersistenceManagerHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/PersistenceManagerHolder.java
+END
+JdoTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1855/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoTransactionManager.java
+END
+JdoOptimisticLockingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoOptimisticLockingFailureException.java
+END
+JdoUsageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoUsageException.java
+END
+JdoOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/608/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoOperations.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/package-info.java
+END
+PersistenceManagerFactoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/PersistenceManagerFactoryUtils.java
+END
+JdoCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoCallback.java
+END
+JdoInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/JdoInterceptor.java
+END

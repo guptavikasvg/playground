@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-framework/!svn/ver/3557/trunk/org.springframework.jdbc/src/test/resources
+END
+data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/1971/trunk/org.springframework.jdbc/src/test/resources/data.sql
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/test/resources/log4j.xml
+END
+schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/spring-framework/!svn/ver/1197/trunk/org.springframework.jdbc/src/test/resources/schema.sql
+END

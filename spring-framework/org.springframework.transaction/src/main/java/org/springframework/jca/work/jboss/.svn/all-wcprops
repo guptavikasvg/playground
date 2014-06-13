@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/2791/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/jboss
+END
+JBossWorkManagerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2791/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/jboss/JBossWorkManagerUtils.java
+END
+JBossWorkManagerTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/2778/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/jboss/JBossWorkManagerTaskExecutor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/jboss/package-info.java
+END

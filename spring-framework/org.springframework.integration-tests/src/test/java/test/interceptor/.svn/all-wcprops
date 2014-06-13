@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/java/test/interceptor
+END
+SerializableNopInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/java/test/interceptor/SerializableNopInterceptor.java
+END
+NopInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/java/test/interceptor/NopInterceptor.java
+END

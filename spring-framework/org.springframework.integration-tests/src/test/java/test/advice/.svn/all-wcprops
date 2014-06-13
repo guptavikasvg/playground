@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/java/test/advice
+END
+MethodCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/java/test/advice/MethodCounter.java
+END
+CountingAfterReturningAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/java/test/advice/CountingAfterReturningAdvice.java
+END
+CountingBeforeAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/src/test/java/test/advice/CountingBeforeAdvice.java
+END

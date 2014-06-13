@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/3405/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/jaxb
+END
+Jaxb2MarshallerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/3405/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/jaxb/Jaxb2MarshallerTests.java
+END
+Jaxb2UnmarshallerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/3405/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/jaxb/Jaxb2UnmarshallerTests.java
+END
+BinaryObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/511/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/jaxb/BinaryObject.java
+END
+Primitives.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/2989/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/jaxb/Primitives.java
+END
+StandardClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/2989/trunk/org.springframework.oxm/src/test/java/org/springframework/oxm/jaxb/StandardClasses.java
+END

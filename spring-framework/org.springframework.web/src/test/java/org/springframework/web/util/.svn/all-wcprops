@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/3585/trunk/org.springframework.web/src/test/java/org/springframework/web/util
+END
+TagUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/257/trunk/org.springframework.web/src/test/java/org/springframework/web/util/TagUtilsTests.java
+END
+WebUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/595/trunk/org.springframework.web/src/test/java/org/springframework/web/util/WebUtilsTests.java
+END
+UrlPathHelperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/3284/trunk/org.springframework.web/src/test/java/org/springframework/web/util/UrlPathHelperTests.java
+END
+HtmlCharacterEntityReferencesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/257/trunk/org.springframework.web/src/test/java/org/springframework/web/util/HtmlCharacterEntityReferencesTests.java
+END
+UriUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/3585/trunk/org.springframework.web/src/test/java/org/springframework/web/util/UriUtilsTests.java
+END
+Log4jWebConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web/src/test/java/org/springframework/web/util/Log4jWebConfigurerTests.java
+END
+HtmlUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/257/trunk/org.springframework.web/src/test/java/org/springframework/web/util/HtmlUtilsTests.java
+END
+MockLog4jAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web/src/test/java/org/springframework/web/util/MockLog4jAppender.java
+END
+ExpressionEvaluationUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1993/trunk/org.springframework.web/src/test/java/org/springframework/web/util/ExpressionEvaluationUtilsTests.java
+END
+UriTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3269/trunk/org.springframework.web/src/test/java/org/springframework/web/util/UriTemplateTests.java
+END

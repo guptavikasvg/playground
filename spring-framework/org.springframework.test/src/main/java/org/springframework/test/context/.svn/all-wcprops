@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/3592/trunk/org.springframework.test/src/main/java/org/springframework/test/context
+END
+TestContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1872/trunk/org.springframework.test/src/main/java/org/springframework/test/context/TestContextManager.java
+END
+TestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/1872/trunk/org.springframework.test/src/main/java/org/springframework/test/context/TestContext.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1764/trunk/org.springframework.test/src/main/java/org/springframework/test/context/package-info.java
+END
+ContextCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/134/trunk/org.springframework.test/src/main/java/org/springframework/test/context/ContextCache.java
+END
+TestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1472/trunk/org.springframework.test/src/main/java/org/springframework/test/context/TestExecutionListener.java
+END
+ContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/134/trunk/org.springframework.test/src/main/java/org/springframework/test/context/ContextLoader.java
+END
+ContextConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2607/trunk/org.springframework.test/src/main/java/org/springframework/test/context/ContextConfiguration.java
+END
+TestExecutionListeners.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1872/trunk/org.springframework.test/src/main/java/org/springframework/test/context/TestExecutionListeners.java
+END

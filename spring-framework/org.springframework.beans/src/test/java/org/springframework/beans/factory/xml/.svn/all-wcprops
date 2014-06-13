@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml
+END
+ProtectedLifecycleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/202/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/ProtectedLifecycleBean.java
+END
+AbstractBeanFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2164/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/AbstractBeanFactoryTests.java
+END
+DelegatingEntityResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/418/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/DelegatingEntityResolverTests.java
+END
+BeanNameGenerationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/199/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/BeanNameGenerationTests.java
+END
+XmlBeanDefinitionReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2444/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/XmlBeanDefinitionReaderTests.java
+END
+AutowireWithExclusionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/AutowireWithExclusionTests.java
+END
+MixedCollectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/420/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/MixedCollectionBean.java
+END
+DefaultLifecycleMethodsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/200/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/DefaultLifecycleMethodsTests.java
+END
+UtilNamespaceHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/663/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/UtilNamespaceHandlerTests.java
+END
+DependenciesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/DependenciesBean.java
+END
+MetadataAttachmentTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/201/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/MetadataAttachmentTests.java
+END
+CountingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/505/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/CountingFactory.java
+END
+CollectingReaderEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/509/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/CollectingReaderEventListener.java
+END
+XmlListableBeanFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/505/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/XmlListableBeanFactoryTests.java
+END
+ConstructorDependenciesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/ConstructorDependenciesBean.java
+END
+AbstractListableBeanFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/505/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/AbstractListableBeanFactoryTests.java
+END
+GeneratedNameBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/199/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/GeneratedNameBean.java
+END
+TestBeanCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/TestBeanCreator.java
+END
+XmlBeanCollectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1759/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/XmlBeanCollectionTests.java
+END
+CollectionsWithDefaultTypesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1003/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/CollectionsWithDefaultTypesTests.java
+END
+CollectionMergingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/CollectionMergingTests.java
+END
+FactoryMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/FactoryMethods.java
+END
+FactoryMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1305/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/FactoryMethodTests.java
+END
+DummyReferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/505/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/DummyReferencer.java
+END
+InstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/InstanceFactory.java
+END
+SimplePropertyNamespaceHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/571/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/SimplePropertyNamespaceHandlerTests.java
+END
+EventPublicationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/509/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/EventPublicationTests.java
+END
+SchemaValidationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/xml/SchemaValidationTests.java
+END

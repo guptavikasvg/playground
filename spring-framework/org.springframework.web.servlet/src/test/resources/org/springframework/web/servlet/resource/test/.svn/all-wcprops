@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/resource/test
+END
+foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/resource/test/foo.txt
+END
+foo.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/resource/test/foo.html
+END
+foo.css
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/resource/test/foo.css
+END
+bar.css
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/resource/test/bar.css
+END

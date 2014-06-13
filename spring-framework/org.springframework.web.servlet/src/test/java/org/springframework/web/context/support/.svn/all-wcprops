@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/context/support
+END
+WebApplicationObjectSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/426/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/context/support/WebApplicationObjectSupportTests.java
+END
+HttpRequestHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/426/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/context/support/HttpRequestHandlerTests.java
+END
+ServletContextSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/context/support/ServletContextSupportTests.java
+END

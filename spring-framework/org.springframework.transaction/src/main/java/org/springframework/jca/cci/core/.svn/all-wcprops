@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/core
+END
+CciOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/core/CciOperations.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/core/package-info.java
+END
+CciTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/core/CciTemplate.java
+END
+RecordExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/core/RecordExtractor.java
+END
+ConnectionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/core/ConnectionCallback.java
+END
+InteractionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/core/InteractionCallback.java
+END
+RecordCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/core/RecordCreator.java
+END

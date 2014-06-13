@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/2181/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr6128
+END
+AutowiredQualifierTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/2181/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr6128/AutowiredQualifierTests.java
+END
+AutowiredQualifierTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/2181/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr6128/AutowiredQualifierTests-context.xml
+END

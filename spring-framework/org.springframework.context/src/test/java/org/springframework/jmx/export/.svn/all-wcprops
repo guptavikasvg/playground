@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3326/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export
+END
+MBeanExporterOperationsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/MBeanExporterOperationsTests.java
+END
+autodetectNoMBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/autodetectNoMBeans.xml
+END
+ExceptionOnInitBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/ExceptionOnInitBean.java
+END
+autodetectMBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/3326/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/autodetectMBeans.xml
+END
+autodetectLazyMBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/autodetectLazyMBeans.xml
+END
+notificationPublisherLazyTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/notificationPublisherLazyTests.xml
+END
+notificationPublisherTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/notificationPublisherTests.xml
+END
+customConfigurer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/customConfigurer.xml
+END
+NotificationListenerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/NotificationListenerTests.java
+END
+lazyInit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/lazyInit.xml
+END
+excludedBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/excludedBeans.xml
+END
+TestDynamicMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/TestDynamicMBean.java
+END
+NotificationPublisherTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/NotificationPublisherTests.java
+END
+CustomEditorConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/CustomEditorConfigurerTests.java
+END
+LazyInitMBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/LazyInitMBeanTests.java
+END
+DateRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/DateRange.java
+END
+propertyPlaceholderConfigurer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/propertyPlaceholderConfigurer.xml
+END
+PropertyPlaceholderConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/PropertyPlaceholderConfigurerTests.java
+END
+MBeanExporterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/jmx/export/MBeanExporterTests.java
+END

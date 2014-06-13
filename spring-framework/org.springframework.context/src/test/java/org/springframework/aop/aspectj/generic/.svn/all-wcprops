@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/generic
+END
+GenericBridgeMethodMatchingClassProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/generic/GenericBridgeMethodMatchingClassProxyTests.java
+END
+GenericBridgeMethodMatchingClassProxyTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/generic/GenericBridgeMethodMatchingClassProxyTests-context.xml
+END
+GenericBridgeMethodMatchingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/generic/GenericBridgeMethodMatchingTests.java
+END
+GenericBridgeMethodMatchingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/generic/GenericBridgeMethodMatchingTests-context.xml
+END
+GenericParameterMatchingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/generic/GenericParameterMatchingTests.java
+END
+AfterReturningGenericTypeMatchingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/generic/AfterReturningGenericTypeMatchingTests.java
+END
+GenericParameterMatchingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/generic/GenericParameterMatchingTests-context.xml
+END
+AfterReturningGenericTypeMatchingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/aspectj/generic/AfterReturningGenericTypeMatchingTests-context.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-framework/!svn/ver/1306/trunk/org.springframework.transaction/src/main/resources/META-INF
+END
+spring.handlers
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/172/trunk/org.springframework.transaction/src/main/resources/META-INF/spring.handlers
+END
+spring.schemas
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/1306/trunk/org.springframework.transaction/src/main/resources/META-INF/spring.schemas
+END
+spring.tooling
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/1252/trunk/org.springframework.transaction/src/main/resources/META-INF/spring.tooling
+END

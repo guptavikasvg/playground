@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/2463/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/oc4j
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/oc4j/package-info.java
+END
+OC4JLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/2459/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/oc4j/OC4JLoadTimeWeaver.java
+END
+OC4JClassLoaderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/2463/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/oc4j/OC4JClassLoaderAdapter.java
+END
+OC4JClassPreprocessorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/2463/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/oc4j/OC4JClassPreprocessorAdapter.java
+END

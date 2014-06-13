@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/3408/trunk/org.springframework.context.support/src/test/java/org/springframework/mail/javamail
+END
+InternetAddressEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/190/trunk/org.springframework.context.support/src/test/java/org/springframework/mail/javamail/InternetAddressEditorTests.java
+END
+JavaMailSenderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3408/trunk/org.springframework.context.support/src/test/java/org/springframework/mail/javamail/JavaMailSenderTests.java
+END
+ConfigurableMimeFileTypeMapTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/190/trunk/org.springframework.context.support/src/test/java/org/springframework/mail/javamail/ConfigurableMimeFileTypeMapTests.java
+END

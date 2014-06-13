@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/1462/trunk/org.springframework.transaction/src/test/java/org/springframework/transaction/support
+END
+JtaTransactionManagerSerializationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/1462/trunk/org.springframework.transaction/src/test/java/org/springframework/transaction/support/JtaTransactionManagerSerializationTests.java
+END

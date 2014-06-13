@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/3395/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/annotation
+END
+AsyncAnnotationAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/1926/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/annotation/AsyncAnnotationAdvisor.java
+END
+Scheduled.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3155/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/annotation/Scheduled.java
+END
+AsyncAnnotationBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/3329/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/annotation/AsyncAnnotationBeanPostProcessor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/annotation/package-info.java
+END
+ScheduledAnnotationBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/3395/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java
+END
+AsyncResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/613/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/annotation/AsyncResult.java
+END
+Async.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/613/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/annotation/Async.java
+END

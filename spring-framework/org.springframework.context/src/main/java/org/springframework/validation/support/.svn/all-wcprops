@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/1836/trunk/org.springframework.context/src/main/java/org/springframework/validation/support
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1836/trunk/org.springframework.context/src/main/java/org/springframework/validation/support/package-info.java
+END
+BindingAwareModelMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.context/src/main/java/org/springframework/validation/support/BindingAwareModelMap.java
+END

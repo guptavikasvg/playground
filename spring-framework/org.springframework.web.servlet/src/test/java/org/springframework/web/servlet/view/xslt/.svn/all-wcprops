@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/277/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/xslt
+END
+TestXsltViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/277/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/xslt/TestXsltViewTests.java
+END
+XsltViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/277/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/xslt/XsltViewTests.java
+END
+XsltViewResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/277/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/xslt/XsltViewResolverTests.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/test/beans
+END
+INestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/test/beans/INestedTestBean.java
+END
+Colour.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/test/beans/Colour.java
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/test/beans/TestBean.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/test/beans/Person.java
+END
+SideEffectBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/494/trunk/org.springframework.aop/src/test/java/test/beans/SideEffectBean.java
+END
+DerivedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/test/beans/DerivedTestBean.java
+END
+NestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/test/beans/NestedTestBean.java
+END
+IOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/test/beans/IOther.java
+END
+CountingTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/test/beans/CountingTestBean.java
+END
+SerializablePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/test/beans/SerializablePerson.java
+END
+ITestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/test/beans/ITestBean.java
+END

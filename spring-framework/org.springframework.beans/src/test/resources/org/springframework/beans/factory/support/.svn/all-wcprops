@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/resources/org/springframework/beans/factory/support
+END
+simpleConstructorArg.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/resources/org/springframework/beans/factory/support/simpleConstructorArg.properties
+END
+refConstructorArg.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/resources/org/springframework/beans/factory/support/refConstructorArg.properties
+END
+multiConstructorArgs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/resources/org/springframework/beans/factory/support/multiConstructorArgs.properties
+END

@@ -1,0 +1,13 @@
+K 13
+svn:externals
+V 88
+https://src.springsource.org/svn/spring-build/tags/project-build-2.5.0@713 spring-build
+
+K 10
+svn:ignore
+V 37
+integration-repo
+ivy-cache
+workspace
+
+END

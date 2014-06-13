@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3136/trunk/org.springframework.transaction/src/main/java/org/springframework/dao
+END
+InvalidDataAccessApiUsageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/InvalidDataAccessApiUsageException.java
+END
+DuplicateKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/760/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/DuplicateKeyException.java
+END
+TransientDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/TransientDataAccessException.java
+END
+TypeMismatchDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/TypeMismatchDataAccessException.java
+END
+DeadlockLoserDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/DeadlockLoserDataAccessException.java
+END
+DataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/DataAccessException.java
+END
+TransientDataAccessResourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/TransientDataAccessResourceException.java
+END
+DataIntegrityViolationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/DataIntegrityViolationException.java
+END
+NonTransientDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/NonTransientDataAccessException.java
+END
+IncorrectResultSizeDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/IncorrectResultSizeDataAccessException.java
+END
+InvalidDataAccessResourceUsageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/InvalidDataAccessResourceUsageException.java
+END
+DataRetrievalFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/DataRetrievalFailureException.java
+END
+CannotSerializeTransactionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/CannotSerializeTransactionException.java
+END
+ConcurrencyFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/ConcurrencyFailureException.java
+END
+OptimisticLockingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/OptimisticLockingFailureException.java
+END
+CannotAcquireLockException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/CannotAcquireLockException.java
+END
+RecoverableDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/RecoverableDataAccessException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/package-info.java
+END
+NonTransientDataAccessResourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/NonTransientDataAccessResourceException.java
+END
+EmptyResultDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/EmptyResultDataAccessException.java
+END
+DataAccessResourceFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/DataAccessResourceFailureException.java
+END
+CleanupFailureDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/CleanupFailureDataAccessException.java
+END
+PessimisticLockingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/PessimisticLockingFailureException.java
+END
+PermissionDeniedDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/PermissionDeniedDataAccessException.java
+END
+IncorrectUpdateSemanticsDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/IncorrectUpdateSemanticsDataAccessException.java
+END
+UncategorizedDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/dao/UncategorizedDataAccessException.java
+END

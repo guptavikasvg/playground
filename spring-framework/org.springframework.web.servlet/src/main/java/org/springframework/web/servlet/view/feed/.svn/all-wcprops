@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/feed
+END
+AbstractFeedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/feed/AbstractFeedView.java
+END
+AbstractAtomFeedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/600/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/feed/AbstractAtomFeedView.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/feed/package-info.java
+END
+AbstractRssFeedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/feed/AbstractRssFeedView.java
+END

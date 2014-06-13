@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/2501/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz
+END
+AdaptableJobFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/AdaptableJobFactory.java
+END
+SchedulerAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/SchedulerAccessor.java
+END
+JobDetailAwareTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/JobDetailAwareTrigger.java
+END
+SchedulerContextAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/SchedulerContextAware.java
+END
+SimpleTriggerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/1221/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/SimpleTriggerBean.java
+END
+ResourceLoaderClassLoadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/ResourceLoaderClassLoadHelper.java
+END
+QuartzJobBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/QuartzJobBean.java
+END
+CronTriggerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1879/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/CronTriggerBean.java
+END
+SpringBeanJobFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/1837/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/SpringBeanJobFactory.java
+END
+SimpleThreadPoolTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/599/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/SimpleThreadPoolTaskExecutor.java
+END
+LocalDataSourceJobStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2206/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/LocalDataSourceJobStore.java
+END
+LocalTaskExecutorThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/598/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/LocalTaskExecutorThreadPool.java
+END
+MethodInvokingJobDetailFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/1408/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.java
+END
+JobDetailBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1221/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/JobDetailBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/package-info.java
+END
+SchedulerAccessorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/158/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/SchedulerAccessorBean.java
+END
+JobMethodInvocationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/JobMethodInvocationFailedException.java
+END
+SchedulerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2501/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/SchedulerFactoryBean.java
+END
+DelegatingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/scheduling/quartz/DelegatingJob.java
+END

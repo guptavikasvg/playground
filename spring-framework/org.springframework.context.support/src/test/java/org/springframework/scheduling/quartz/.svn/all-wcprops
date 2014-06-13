@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/2484/trunk/org.springframework.context.support/src/test/java/org/springframework/scheduling/quartz
+END
+QuartzSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2274/trunk/org.springframework.context.support/src/test/java/org/springframework/scheduling/quartz/QuartzSupportTests.java
+END
+QuartzSchedulerLifecycleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/2484/trunk/org.springframework.context.support/src/test/java/org/springframework/scheduling/quartz/QuartzSchedulerLifecycleTests.java
+END
+QuartzTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/229/trunk/org.springframework.context.support/src/test/java/org/springframework/scheduling/quartz/QuartzTestBean.java
+END
+CronTriggerBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/1879/trunk/org.springframework.context.support/src/test/java/org/springframework/scheduling/quartz/CronTriggerBeanTests.java
+END

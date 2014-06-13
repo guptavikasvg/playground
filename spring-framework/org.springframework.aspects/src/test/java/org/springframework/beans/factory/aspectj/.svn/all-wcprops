@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/2028/trunk/org.springframework.aspects/src/test/java/org/springframework/beans/factory/aspectj
+END
+SpringConfiguredWithAutoProxyingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/1520/trunk/org.springframework.aspects/src/test/java/org/springframework/beans/factory/aspectj/SpringConfiguredWithAutoProxyingTests.java
+END
+springConfigured.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/1520/trunk/org.springframework.aspects/src/test/java/org/springframework/beans/factory/aspectj/springConfigured.xml
+END
+beanConfigurerTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1520/trunk/org.springframework.aspects/src/test/java/org/springframework/beans/factory/aspectj/beanConfigurerTests.xml
+END
+BeanConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2028/trunk/org.springframework.aspects/src/test/java/org/springframework/beans/factory/aspectj/BeanConfigurerTests.java
+END

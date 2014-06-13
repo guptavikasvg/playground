@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/3327/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support
+END
+ConnectorServerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/ConnectorServerFactoryBean.java
+END
+JmxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/3136/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/JmxUtils.java
+END
+ObjectNameManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/ObjectNameManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/package-info.java
+END
+MetricType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1214/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/MetricType.java
+END
+MBeanServerConnectionFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/3327/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/MBeanServerConnectionFactoryBean.java
+END
+MBeanServerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1765/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/MBeanServerFactoryBean.java
+END
+MBeanRegistrationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/MBeanRegistrationSupport.java
+END
+NotificationListenerHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/NotificationListenerHolder.java
+END
+WebSphereMBeanServerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.context/src/main/java/org/springframework/jmx/support/WebSphereMBeanServerFactoryBean.java
+END

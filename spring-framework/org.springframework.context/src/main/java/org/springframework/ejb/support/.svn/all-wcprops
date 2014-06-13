@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/ejb/support
+END
+AbstractJmsMessageDrivenBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/ejb/support/AbstractJmsMessageDrivenBean.java
+END
+SmartSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/ejb/support/SmartSessionBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/ejb/support/package-info.java
+END
+AbstractStatefulSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/ejb/support/AbstractStatefulSessionBean.java
+END
+AbstractStatelessSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/ejb/support/AbstractStatelessSessionBean.java
+END
+AbstractMessageDrivenBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/main/java/org/springframework/ejb/support/AbstractMessageDrivenBean.java
+END
+AbstractEnterpriseBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/ejb/support/AbstractEnterpriseBean.java
+END
+AbstractSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/ejb/support/AbstractSessionBean.java
+END

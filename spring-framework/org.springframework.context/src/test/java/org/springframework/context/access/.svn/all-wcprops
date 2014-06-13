@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/1224/trunk/org.springframework.context/src/test/java/org/springframework/context/access
+END
+DefaultLocatorFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/test/java/org/springframework/context/access/DefaultLocatorFactoryTests.java
+END
+ContextBeanFactoryReferenceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/487/trunk/org.springframework.context/src/test/java/org/springframework/context/access/ContextBeanFactoryReferenceTests.java
+END
+ContextJndiBeanFactoryLocatorTests-parent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/487/trunk/org.springframework.context/src/test/java/org/springframework/context/access/ContextJndiBeanFactoryLocatorTests-parent.xml
+END
+ContextJndiBeanFactoryLocatorTests-collections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/487/trunk/org.springframework.context/src/test/java/org/springframework/context/access/ContextJndiBeanFactoryLocatorTests-collections.xml
+END
+ContextSingletonBeanFactoryLocatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/1224/trunk/org.springframework.context/src/test/java/org/springframework/context/access/ContextSingletonBeanFactoryLocatorTests.java
+END
+ContextSingletonBeanFactoryLocatorTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/487/trunk/org.springframework.context/src/test/java/org/springframework/context/access/ContextSingletonBeanFactoryLocatorTests-context.xml
+END
+ContextJndiBeanFactoryLocatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/487/trunk/org.springframework.context/src/test/java/org/springframework/context/access/ContextJndiBeanFactoryLocatorTests.java
+END

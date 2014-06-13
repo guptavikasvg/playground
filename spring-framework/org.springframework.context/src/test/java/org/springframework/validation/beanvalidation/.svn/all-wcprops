@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/3219/trunk/org.springframework.context/src/test/java/org/springframework/validation/beanvalidation
+END
+ValidatorFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/3219/trunk/org.springframework.context/src/test/java/org/springframework/validation/beanvalidation/ValidatorFactoryTests.java
+END
+BeanValidationPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/2678/trunk/org.springframework.context/src/test/java/org/springframework/validation/beanvalidation/BeanValidationPostProcessorTests.java
+END

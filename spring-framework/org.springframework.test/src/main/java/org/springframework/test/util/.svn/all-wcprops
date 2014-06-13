@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/util
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/util/package-info.java
+END
+ReflectionTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1078/trunk/org.springframework.test/src/main/java/org/springframework/test/util/ReflectionTestUtils.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/transaction
+END
+CallCountingTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/transaction/CallCountingTransactionManager.java
+END

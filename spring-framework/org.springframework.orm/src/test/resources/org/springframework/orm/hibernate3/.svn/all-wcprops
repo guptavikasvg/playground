@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/212/trunk/org.springframework.orm/src/test/resources/org/springframework/orm/hibernate3
+END
+filterDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/212/trunk/org.springframework.orm/src/test/resources/org/springframework/orm/hibernate3/filterDefinitions.xml
+END
+typeDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/212/trunk/org.springframework.orm/src/test/resources/org/springframework/orm/hibernate3/typeDefinitions.xml
+END

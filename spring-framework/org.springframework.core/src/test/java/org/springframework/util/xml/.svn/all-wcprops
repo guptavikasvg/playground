@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/1686/trunk/org.springframework.core/src/test/java/org/springframework/util/xml
+END
+StaxUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/528/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/StaxUtilsTest.java
+END
+StaxResultTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/523/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/StaxResultTests.java
+END
+XMLEventStreamReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/528/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/XMLEventStreamReaderTest.java
+END
+StaxStreamXMLReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/519/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/StaxStreamXMLReaderTests.java
+END
+AbstractStaxXMLReaderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1686/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/AbstractStaxXMLReaderTestCase.java
+END
+StaxSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/519/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/StaxSourceTests.java
+END
+TransformerUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/528/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/TransformerUtilsTests.java
+END
+StaxStreamContentHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/521/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/StaxStreamContentHandlerTests.java
+END
+AbstractStaxContentHandlerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/520/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/AbstractStaxContentHandlerTestCase.java
+END
+DomContentHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/526/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/DomContentHandlerTest.java
+END
+StaxEventXMLReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/519/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/StaxEventXMLReaderTests.java
+END
+StaxEventContentHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/522/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/StaxEventContentHandlerTests.java
+END
+SimpleNamespaceContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/518/trunk/org.springframework.core/src/test/java/org/springframework/util/xml/SimpleNamespaceContextTests.java
+END

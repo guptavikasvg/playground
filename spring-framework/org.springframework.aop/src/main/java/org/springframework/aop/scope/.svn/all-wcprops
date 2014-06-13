@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/3096/trunk/org.springframework.aop/src/main/java/org/springframework/aop/scope
+END
+ScopedProxyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/3096/trunk/org.springframework.aop/src/main/java/org/springframework/aop/scope/ScopedProxyUtils.java
+END
+ScopedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/scope/ScopedObject.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.aop/src/main/java/org/springframework/aop/scope/package-info.java
+END
+DefaultScopedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1127/trunk/org.springframework.aop/src/main/java/org/springframework/aop/scope/DefaultScopedObject.java
+END
+ScopedProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.aop/src/main/java/org/springframework/aop/scope/ScopedProxyFactoryBean.java
+END

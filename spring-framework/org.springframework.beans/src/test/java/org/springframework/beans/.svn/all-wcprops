@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/3506/trunk/org.springframework.beans/src/test/java/org/springframework/beans
+END
+BeanWrapperAutoGrowingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3446/trunk/org.springframework.beans/src/test/java/org/springframework/beans/BeanWrapperAutoGrowingTests.java
+END
+MutablePropertyValuesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/502/trunk/org.springframework.beans/src/test/java/org/springframework/beans/MutablePropertyValuesTests.java
+END
+BeanUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/1900/trunk/org.springframework.beans/src/test/java/org/springframework/beans/BeanUtilsTests.java
+END
+BeanWrapperGenericsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3506/trunk/org.springframework.beans/src/test/java/org/springframework/beans/BeanWrapperGenericsTests.java
+END
+BeanWrapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/2932/trunk/org.springframework.beans/src/test/java/org/springframework/beans/BeanWrapperTests.java
+END
+AbstractPropertyValuesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/502/trunk/org.springframework.beans/src/test/java/org/springframework/beans/AbstractPropertyValuesTests.java
+END
+PropertyAccessorUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/503/trunk/org.springframework.beans/src/test/java/org/springframework/beans/PropertyAccessorUtilsTests.java
+END
+ConcurrentBeanWrapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/ConcurrentBeanWrapperTests.java
+END
+CachedIntrospectionResultsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/CachedIntrospectionResultsTests.java
+END
+BeanWrapperEnumTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/2635/trunk/org.springframework.beans/src/test/java/org/springframework/beans/BeanWrapperEnumTests.java
+END

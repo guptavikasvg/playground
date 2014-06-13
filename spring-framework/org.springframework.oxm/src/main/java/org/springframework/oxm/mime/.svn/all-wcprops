@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/2866/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/mime
+END
+MimeMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/mime/MimeMarshaller.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/mime/package-info.java
+END
+MimeUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/2866/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/mime/MimeUnmarshaller.java
+END
+MimeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/mime/MimeContainer.java
+END

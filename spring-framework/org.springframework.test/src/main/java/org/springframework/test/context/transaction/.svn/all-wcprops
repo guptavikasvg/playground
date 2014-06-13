@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/3100/trunk/org.springframework.test/src/main/java/org/springframework/test/context/transaction
+END
+TransactionConfigurationAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/134/trunk/org.springframework.test/src/main/java/org/springframework/test/context/transaction/TransactionConfigurationAttributes.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/context/transaction/package-info.java
+END
+AfterTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1747/trunk/org.springframework.test/src/main/java/org/springframework/test/context/transaction/AfterTransaction.java
+END
+BeforeTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1747/trunk/org.springframework.test/src/main/java/org/springframework/test/context/transaction/BeforeTransaction.java
+END
+TransactionalTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/3100/trunk/org.springframework.test/src/main/java/org/springframework/test/context/transaction/TransactionalTestExecutionListener.java
+END
+TransactionConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2924/trunk/org.springframework.test/src/main/java/org/springframework/test/context/transaction/TransactionConfiguration.java
+END

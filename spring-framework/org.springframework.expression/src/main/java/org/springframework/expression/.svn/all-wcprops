@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/3569/trunk/org.springframework.expression/src/main/java/org/springframework/expression
+END
+MethodExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/925/trunk/org.springframework.expression/src/main/java/org/springframework/expression/MethodExecutor.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/3569/trunk/org.springframework.expression/src/main/java/org/springframework/expression/Expression.java
+END
+Operation.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/965/trunk/org.springframework.expression/src/main/java/org/springframework/expression/Operation.java
+END
+ParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1376/trunk/org.springframework.expression/src/main/java/org/springframework/expression/ParserContext.java
+END
+MethodResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/619/trunk/org.springframework.expression/src/main/java/org/springframework/expression/MethodResolver.java
+END
+ConstructorExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/925/trunk/org.springframework.expression/src/main/java/org/springframework/expression/ConstructorExecutor.java
+END
+TypeLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/619/trunk/org.springframework.expression/src/main/java/org/springframework/expression/TypeLocator.java
+END
+ConstructorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/619/trunk/org.springframework.expression/src/main/java/org/springframework/expression/ConstructorResolver.java
+END
+PropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2095/trunk/org.springframework.expression/src/main/java/org/springframework/expression/PropertyAccessor.java
+END
+TypeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/619/trunk/org.springframework.expression/src/main/java/org/springframework/expression/TypeComparator.java
+END
+TypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/2964/trunk/org.springframework.expression/src/main/java/org/springframework/expression/TypeConverter.java
+END
+ExpressionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/619/trunk/org.springframework.expression/src/main/java/org/springframework/expression/ExpressionParser.java
+END
+EvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3479/trunk/org.springframework.expression/src/main/java/org/springframework/expression/EvaluationContext.java
+END
+OperatorOverloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/OperatorOverloader.java
+END
+ExpressionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2095/trunk/org.springframework.expression/src/main/java/org/springframework/expression/ExpressionException.java
+END
+ExpressionInvocationTargetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/3314/trunk/org.springframework.expression/src/main/java/org/springframework/expression/ExpressionInvocationTargetException.java
+END
+AccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/619/trunk/org.springframework.expression/src/main/java/org/springframework/expression/AccessException.java
+END
+TypedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.expression/src/main/java/org/springframework/expression/TypedValue.java
+END
+MethodFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/2901/trunk/org.springframework.expression/src/main/java/org/springframework/expression/MethodFilter.java
+END
+EvaluationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/EvaluationException.java
+END
+BeanResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/3479/trunk/org.springframework.expression/src/main/java/org/springframework/expression/BeanResolver.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2156/trunk/org.springframework.expression/src/main/java/org/springframework/expression/ParseException.java
+END

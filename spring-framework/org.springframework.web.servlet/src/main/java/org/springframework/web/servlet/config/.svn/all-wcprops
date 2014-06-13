@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/3598/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/config
+END
+MvcNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3516/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/config/MvcNamespaceHandler.java
+END
+DefaultServletHandlerBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/config/DefaultServletHandlerBeanDefinitionParser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2271/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/config/package-info.java
+END
+AbstractHttpRequestHandlerBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/config/AbstractHttpRequestHandlerBeanDefinitionParser.java
+END
+ResourcesBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/3598/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/config/ResourcesBeanDefinitionParser.java
+END
+ViewControllerBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/3202/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/config/ViewControllerBeanDefinitionParser.java
+END
+InterceptorsBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/2632/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/config/InterceptorsBeanDefinitionParser.java
+END
+AnnotationDrivenBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/3396/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/config/AnnotationDrivenBeanDefinitionParser.java
+END

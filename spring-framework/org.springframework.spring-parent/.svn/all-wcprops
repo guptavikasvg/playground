@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/spring-framework/!svn/ver/3428/trunk/org.springframework.spring-parent
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/2854/trunk/org.springframework.spring-parent/ivy.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/3428/trunk/org.springframework.spring-parent/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-framework/!svn/ver/2854/trunk/org.springframework.spring-parent/build.xml
+END

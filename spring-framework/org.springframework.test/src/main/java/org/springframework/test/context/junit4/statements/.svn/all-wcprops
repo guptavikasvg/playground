@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit4/statements
+END
+SpringFailOnTimeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/1465/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit4/statements/SpringFailOnTimeout.java
+END
+SpringRepeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1465/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit4/statements/SpringRepeat.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit4/statements/package-info.java
+END
+RunAfterTestMethodCallbacks.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.java
+END
+RunBeforeTestMethodCallbacks.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit4/statements/RunBeforeTestMethodCallbacks.java
+END
+RunAfterTestClassCallbacks.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.java
+END
+RunBeforeTestClassCallbacks.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/main/java/org/springframework/test/context/junit4/statements/RunBeforeTestClassCallbacks.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3598/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet
+END
+SimpleWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/SimpleWebApplicationContext.java
+END
+complexviews.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/complexviews.properties
+END
+ComplexWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/ComplexWebApplicationContext.java
+END
+DispatcherServletTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3575/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/DispatcherServletTests.java
+END

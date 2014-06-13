@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/3550/trunk/org.springframework.core/src/main/java/org/springframework/core/io
+END
+ClassRelativeResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1720/trunk/org.springframework.core/src/main/java/org/springframework/core/io/ClassRelativeResourceLoader.java
+END
+AbstractFileResolvingResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/3550/trunk/org.springframework.core/src/main/java/org/springframework/core/io/AbstractFileResolvingResource.java
+END
+VfsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/3415/trunk/org.springframework.core/src/main/java/org/springframework/core/io/VfsResource.java
+END
+UrlResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/1972/trunk/org.springframework.core/src/main/java/org/springframework/core/io/UrlResource.java
+END
+ByteArrayResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/148/trunk/org.springframework.core/src/main/java/org/springframework/core/io/ByteArrayResource.java
+END
+AbstractResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3550/trunk/org.springframework.core/src/main/java/org/springframework/core/io/AbstractResource.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/io/ResourceLoader.java
+END
+VfsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3415/trunk/org.springframework.core/src/main/java/org/springframework/core/io/VfsUtils.java
+END
+InputStreamResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/148/trunk/org.springframework.core/src/main/java/org/springframework/core/io/InputStreamResource.java
+END
+FileSystemResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/148/trunk/org.springframework.core/src/main/java/org/springframework/core/io/FileSystemResourceLoader.java
+END
+DefaultResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/622/trunk/org.springframework.core/src/main/java/org/springframework/core/io/DefaultResourceLoader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/io/package-info.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3550/trunk/org.springframework.core/src/main/java/org/springframework/core/io/Resource.java
+END
+DescriptiveResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/148/trunk/org.springframework.core/src/main/java/org/springframework/core/io/DescriptiveResource.java
+END
+ClassPathResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/3545/trunk/org.springframework.core/src/main/java/org/springframework/core/io/ClassPathResource.java
+END
+InputStreamSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/io/InputStreamSource.java
+END
+FileSystemResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/148/trunk/org.springframework.core/src/main/java/org/springframework/core/io/FileSystemResource.java
+END
+ContextResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/io/ContextResource.java
+END
+ResourceEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/2807/trunk/org.springframework.core/src/main/java/org/springframework/core/io/ResourceEditor.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/test/java/org/springframework/ejb/access
+END
+SimpleRemoteStatelessSessionProxyFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/432/trunk/org.springframework.context/src/test/java/org/springframework/ejb/access/SimpleRemoteStatelessSessionProxyFactoryBeanTests.java
+END
+LocalStatelessSessionProxyFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/432/trunk/org.springframework.context/src/test/java/org/springframework/ejb/access/LocalStatelessSessionProxyFactoryBeanTests.java
+END
+SimpleRemoteSlsbInvokerInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/test/java/org/springframework/ejb/access/SimpleRemoteSlsbInvokerInterceptorTests.java
+END
+LocalSlsbInvokerInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/test/java/org/springframework/ejb/access/LocalSlsbInvokerInterceptorTests.java
+END

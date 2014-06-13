@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2638/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/glassfish
+END
+GlassFishClassLoaderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/2638/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/glassfish/GlassFishClassLoaderAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/glassfish/package-info.java
+END
+ClassTransformerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/2476/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/glassfish/ClassTransformerAdapter.java
+END
+GlassFishLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/2638/trunk/org.springframework.context/src/main/java/org/springframework/instrument/classloading/glassfish/GlassFishLoadTimeWeaver.java
+END

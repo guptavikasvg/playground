@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3434/trunk/org.springframework.context/src/test/java/org/springframework/validation
+END
+DataBinderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/3434/trunk/org.springframework.context/src/test/java/org/springframework/validation/DataBinderTests.java
+END
+DataBinderFieldAccessTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/validation/DataBinderFieldAccessTests.java
+END
+ValidationUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.context/src/test/java/org/springframework/validation/ValidationUtilsTests.java
+END

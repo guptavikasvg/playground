@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3299/trunk/org.springframework.instrument.tomcat/src/main/java/org/springframework/instrument/classloading/tomcat
+END
+TomcatInstrumentableClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/spring-framework/!svn/ver/3299/trunk/org.springframework.instrument.tomcat/src/main/java/org/springframework/instrument/classloading/tomcat/TomcatInstrumentableClassLoader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/2016/trunk/org.springframework.instrument.tomcat/src/main/java/org/springframework/instrument/classloading/tomcat/package-info.java
+END

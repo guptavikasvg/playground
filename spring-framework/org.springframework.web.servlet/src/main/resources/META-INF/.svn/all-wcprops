@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-framework/!svn/ver/3386/trunk/org.springframework.web.servlet/src/main/resources/META-INF
+END
+spring.handlers
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/2271/trunk/org.springframework.web.servlet/src/main/resources/META-INF/spring.handlers
+END
+spring.schemas
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/2334/trunk/org.springframework.web.servlet/src/main/resources/META-INF/spring.schemas
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/3386/trunk/org.springframework.web.servlet/src/main/resources/META-INF/spring.tld
+END
+spring-form.tld
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/3386/trunk/org.springframework.web.servlet/src/main/resources/META-INF/spring-form.tld
+END
+spring.tooling
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/2271/trunk/org.springframework.web.servlet/src/main/resources/META-INF/spring.tooling
+END

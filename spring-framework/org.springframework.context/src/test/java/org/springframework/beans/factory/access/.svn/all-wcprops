@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/472/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/access
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/472/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/access/TestBean.java
+END
+SingletonBeanFactoryLocatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/472/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/access/SingletonBeanFactoryLocatorTests.java
+END
+beans1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/472/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/access/beans1.xml
+END
+beans2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/472/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/access/beans2.xml
+END
+ref1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/472/trunk/org.springframework.context/src/test/java/org/springframework/beans/factory/access/ref1.xml
+END

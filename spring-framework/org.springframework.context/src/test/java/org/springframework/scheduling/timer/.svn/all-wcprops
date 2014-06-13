@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/447/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/timer
+END
+TimerSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/230/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/timer/TimerSupportTests.java
+END
+TimerTaskExecutorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/447/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/timer/TimerTaskExecutorTests.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3229/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj
+END
+AspectJExpressionPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2888/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJExpressionPointcut.java
+END
+InstantiationModelAwarePointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/InstantiationModelAwarePointcutAdvisor.java
+END
+MethodInvocationProceedingJoinPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/1792/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint.java
+END
+AspectJWeaverMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJWeaverMessageHandler.java
+END
+SimpleAspectInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1020/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/SimpleAspectInstanceFactory.java
+END
+AspectJPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJPointcutAdvisor.java
+END
+AspectJAfterThrowingAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJAfterThrowingAdvice.java
+END
+AspectJAopUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJAopUtils.java
+END
+TypePatternClassFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/TypePatternClassFilter.java
+END
+AspectJProxyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJProxyUtils.java
+END
+AspectJPrecedenceInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJPrecedenceInformation.java
+END
+AspectJAroundAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJAroundAdvice.java
+END
+SingletonAspectInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1020/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/SingletonAspectInstanceFactory.java
+END
+DeclareParentsAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/DeclareParentsAdvisor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/package-info.java
+END
+AspectJAfterReturningAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3159/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJAfterReturningAdvice.java
+END
+AspectJExpressionPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJExpressionPointcutAdvisor.java
+END
+AspectJAfterAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJAfterAdvice.java
+END
+AspectJMethodBeforeAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJMethodBeforeAdvice.java
+END
+AbstractAspectJAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/3159/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AbstractAspectJAdvice.java
+END
+RuntimeTestWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/3170/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/RuntimeTestWalker.java
+END
+AspectInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectInstanceFactory.java
+END
+AspectJAdviceParameterNameDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.aop/src/main/java/org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscoverer.java
+END

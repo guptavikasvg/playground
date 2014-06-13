@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/1590/trunk/org.springframework.context/src/test/java/org/springframework/context/annotation5
+END
+MyRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1590/trunk/org.springframework.context/src/test/java/org/springframework/context/annotation5/MyRepository.java
+END
+OtherFooDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1590/trunk/org.springframework.context/src/test/java/org/springframework/context/annotation5/OtherFooDao.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/2915/trunk/org.springframework.context/src/main/java/org/springframework/scripting/support
+END
+RefreshableScriptTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/scripting/support/RefreshableScriptTargetSource.java
+END
+ScriptFactoryPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.context/src/main/java/org/springframework/scripting/support/ScriptFactoryPostProcessor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/scripting/support/package-info.java
+END
+ResourceScriptSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2915/trunk/org.springframework.context/src/main/java/org/springframework/scripting/support/ResourceScriptSource.java
+END
+StaticScriptSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/scripting/support/StaticScriptSource.java
+END

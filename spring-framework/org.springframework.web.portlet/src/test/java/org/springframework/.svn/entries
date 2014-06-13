@@ -1,0 +1,43 @@
+10
+
+dir
+3602
+https://src.springframework.org/svn/spring-framework/trunk/org.springframework.web.portlet/src/test/java/org/springframework
+https://src.springframework.org/svn/spring-framework
+
+
+
+2010-08-15T22:02:40.586271Z
+3586
+jhoeller
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+50f2f4bb-b051-0410-bef5-90022cba6387
+
+context
+dir
+
+beans
+dir
+
+core
+dir
+
+mock
+dir
+
+web
+dir
+

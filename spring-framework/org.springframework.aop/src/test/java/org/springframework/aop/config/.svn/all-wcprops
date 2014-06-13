@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config
+END
+AopNamespaceHandlerEventTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerEventTests.java
+END
+AopNamespaceHandlerEventTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerEventTests-context.xml
+END
+AopNamespaceHandlerEventTests-directPointcutEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/496/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerEventTests-directPointcutEvents.xml
+END
+AopNamespaceHandlerEventTests-pointcutRefEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/496/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerEventTests-pointcutRefEvents.xml
+END
+AopNamespaceHandlerEventTests-pointcutEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/496/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerEventTests-pointcutEvents.xml
+END
+AopNamespaceHandlerPointcutErrorTests-pointcutMissing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerPointcutErrorTests-pointcutMissing.xml
+END
+TopLevelAopTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/TopLevelAopTagTests.java
+END
+TopLevelAopTagTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/496/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/TopLevelAopTagTests-context.xml
+END
+AopNamespaceHandlerPointcutErrorTests-pointcutDuplication.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerPointcutErrorTests-pointcutDuplication.xml
+END
+AopNamespaceHandlerPointcutErrorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerPointcutErrorTests.java
+END

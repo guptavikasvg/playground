@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/type/filter
+END
+AbstractClassTestingTypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/110/trunk/org.springframework.core/src/main/java/org/springframework/core/type/filter/AbstractClassTestingTypeFilter.java
+END
+AbstractTypeHierarchyTraversingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/110/trunk/org.springframework.core/src/main/java/org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter.java
+END
+AssignableTypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/110/trunk/org.springframework.core/src/main/java/org/springframework/core/type/filter/AssignableTypeFilter.java
+END
+RegexPatternTypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/110/trunk/org.springframework.core/src/main/java/org/springframework/core/type/filter/RegexPatternTypeFilter.java
+END
+AspectJTypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/110/trunk/org.springframework.core/src/main/java/org/springframework/core/type/filter/AspectJTypeFilter.java
+END
+AnnotationTypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1065/trunk/org.springframework.core/src/main/java/org/springframework/core/type/filter/AnnotationTypeFilter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/type/filter/package-info.java
+END
+TypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/110/trunk/org.springframework.core/src/main/java/org/springframework/core/type/filter/TypeFilter.java
+END

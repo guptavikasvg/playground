@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/212/trunk/org.springframework.orm/src/test/resources/org/springframework/beans/factory/xml
+END
+child.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/212/trunk/org.springframework.orm/src/test/resources/org/springframework/beans/factory/xml/child.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/212/trunk/org.springframework.orm/src/test/resources/org/springframework/beans/factory/xml/test.xml
+END

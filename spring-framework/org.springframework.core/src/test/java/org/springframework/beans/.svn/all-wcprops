@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-framework/!svn/ver/753/trunk/org.springframework.core/src/test/java/org/springframework/beans
+END
+CustomEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/256/trunk/org.springframework.core/src/test/java/org/springframework/beans/CustomEnum.java
+END
+INestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/beans/INestedTestBean.java
+END
+GenericBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/256/trunk/org.springframework.core/src/test/java/org/springframework/beans/GenericBean.java
+END
+Colour.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/beans/Colour.java
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/beans/TestBean.java
+END
+IndexedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/beans/IndexedTestBean.java
+END
+DerivedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.core/src/test/java/org/springframework/beans/DerivedTestBean.java
+END
+NestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/beans/NestedTestBean.java
+END
+IOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/beans/IOther.java
+END
+ITestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/191/trunk/org.springframework.core/src/test/java/org/springframework/beans/ITestBean.java
+END

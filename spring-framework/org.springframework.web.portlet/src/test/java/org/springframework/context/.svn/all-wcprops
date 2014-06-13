@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/context
+END
+AbstractApplicationContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/context/AbstractApplicationContextTests.java
+END
+TestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/context/TestListener.java
+END
+BeanThatListens.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/context/BeanThatListens.java
+END
+LifecycleContextBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/context/LifecycleContextBean.java
+END
+ACATester.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/context/ACATester.java
+END
+BeanThatBroadcasts.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/context/BeanThatBroadcasts.java
+END

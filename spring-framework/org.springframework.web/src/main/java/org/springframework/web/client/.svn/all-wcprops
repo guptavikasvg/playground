@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/3498/trunk/org.springframework.web/src/main/java/org/springframework/web/client
+END
+HttpServerErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3081/trunk/org.springframework.web/src/main/java/org/springframework/web/client/HttpServerErrorException.java
+END
+RestOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3498/trunk/org.springframework.web/src/main/java/org/springframework/web/client/RestOperations.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/web/client/package-info.java
+END
+RequestCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/main/java/org/springframework/web/client/RequestCallback.java
+END
+ResponseErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/main/java/org/springframework/web/client/ResponseErrorHandler.java
+END
+HttpClientErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3081/trunk/org.springframework.web/src/main/java/org/springframework/web/client/HttpClientErrorException.java
+END
+HttpMessageConverterExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/3095/trunk/org.springframework.web/src/main/java/org/springframework/web/client/HttpMessageConverterExtractor.java
+END
+ResourceAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/main/java/org/springframework/web/client/ResourceAccessException.java
+END
+RestTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/3498/trunk/org.springframework.web/src/main/java/org/springframework/web/client/RestTemplate.java
+END
+ResponseExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/main/java/org/springframework/web/client/ResponseExtractor.java
+END
+DefaultResponseErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/692/trunk/org.springframework.web/src/main/java/org/springframework/web/client/DefaultResponseErrorHandler.java
+END
+RestClientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/main/java/org/springframework/web/client/RestClientException.java
+END
+HttpStatusCodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/main/java/org/springframework/web/client/HttpStatusCodeException.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/bind
+END
+PortletRequestDataBinderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/bind/PortletRequestDataBinderTests.java
+END
+PortletRequestUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/bind/PortletRequestUtilsTests.java
+END
+PortletRequestParameterPropertyValuesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/bind/PortletRequestParameterPropertyValuesTests.java
+END

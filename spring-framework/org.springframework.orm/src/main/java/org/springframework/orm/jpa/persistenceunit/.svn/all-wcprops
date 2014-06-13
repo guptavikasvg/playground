@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/3320/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit
+END
+PersistenceUnitManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit/PersistenceUnitManager.java
+END
+SpringPersistenceUnitInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/2801/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit/SpringPersistenceUnitInfo.java
+END
+DefaultPersistenceUnitManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/3320/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit/DefaultPersistenceUnitManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit/package-info.java
+END
+PersistenceUnitReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3104/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit/PersistenceUnitReader.java
+END
+SmartPersistenceUnitInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2801/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit/SmartPersistenceUnitInfo.java
+END
+ClassFileTransformerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit/ClassFileTransformerAdapter.java
+END
+MutablePersistenceUnitInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2801/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit/MutablePersistenceUnitInfo.java
+END
+PersistenceUnitPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/persistenceunit/PersistenceUnitPostProcessor.java
+END

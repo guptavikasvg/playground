@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/3557/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/init
+END
+users-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3557/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/init/users-data.sql
+END
+db-test-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2436/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/init/db-test-data.sql
+END
+db-schema-failed-drop-comments.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/2436/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/init/db-schema-failed-drop-comments.sql
+END
+users-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/3557/trunk/org.springframework.jdbc/src/test/resources/org/springframework/jdbc/datasource/init/users-schema.sql
+END

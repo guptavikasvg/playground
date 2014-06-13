@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3061/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/feed
+END
+AtomFeedHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/3061/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/feed/AtomFeedHttpMessageConverter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3061/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/feed/package-info.java
+END
+AbstractWireFeedHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/3061/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/feed/AbstractWireFeedHttpMessageConverter.java
+END
+RssChannelHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/3061/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/feed/RssChannelHttpMessageConverter.java
+END

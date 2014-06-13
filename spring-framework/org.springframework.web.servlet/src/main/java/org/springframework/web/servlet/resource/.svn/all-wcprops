@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/3597/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/resource
+END
+DefaultServletHttpRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/3548/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/resource/DefaultServletHttpRequestHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3549/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/resource/package-info.java
+END
+ResourceHttpRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/3597/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/resource/ResourceHttpRequestHandler.java
+END

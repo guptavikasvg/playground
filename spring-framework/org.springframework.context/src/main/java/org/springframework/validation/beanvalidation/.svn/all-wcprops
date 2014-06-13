@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/3496/trunk/org.springframework.context/src/main/java/org/springframework/validation/beanvalidation
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1836/trunk/org.springframework.context/src/main/java/org/springframework/validation/beanvalidation/package-info.java
+END
+SpringConstraintValidatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/1836/trunk/org.springframework.context/src/main/java/org/springframework/validation/beanvalidation/SpringConstraintValidatorFactory.java
+END
+BeanValidationPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/2678/trunk/org.springframework.context/src/main/java/org/springframework/validation/beanvalidation/BeanValidationPostProcessor.java
+END
+CustomValidatorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/3466/trunk/org.springframework.context/src/main/java/org/springframework/validation/beanvalidation/CustomValidatorBean.java
+END
+SpringValidatorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/3496/trunk/org.springframework.context/src/main/java/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java
+END
+MessageSourceResourceBundleLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/3466/trunk/org.springframework.context/src/main/java/org/springframework/validation/beanvalidation/MessageSourceResourceBundleLocator.java
+END
+LocaleContextMessageInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/3466/trunk/org.springframework.context/src/main/java/org/springframework/validation/beanvalidation/LocaleContextMessageInterpolator.java
+END
+LocalValidatorFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/3466/trunk/org.springframework.context/src/main/java/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java
+END

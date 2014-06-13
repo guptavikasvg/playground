@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/wiring
+END
+BeanWiringInfoTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/196/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/wiring/BeanWiringInfoTests.java
+END
+BeanConfigurerSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/504/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/wiring/BeanConfigurerSupportTests.java
+END
+ClassNameBeanWiringInfoResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/196/trunk/org.springframework.beans/src/test/java/org/springframework/beans/factory/wiring/ClassNameBeanWiringInfoResolverTests.java
+END

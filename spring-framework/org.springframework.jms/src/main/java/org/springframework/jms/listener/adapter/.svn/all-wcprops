@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/adapter
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/adapter/package-info.java
+END
+MessageListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/792/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/adapter/MessageListenerAdapter.java
+END
+ListenerExecutionFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/adapter/ListenerExecutionFailedException.java
+END
+MessageListenerAdapter102.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/674/trunk/org.springframework.jms/src/main/java/org/springframework/jms/listener/adapter/MessageListenerAdapter102.java
+END

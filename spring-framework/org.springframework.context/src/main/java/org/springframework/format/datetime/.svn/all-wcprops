@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3395/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime
+END
+DateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/2540/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/DateFormatter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2266/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/package-info.java
+END

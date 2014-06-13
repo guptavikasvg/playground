@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-framework/!svn/ver/3579/trunk/org.springframework.core/src/main/java/org/springframework/util
+END
+PathMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/1487/trunk/org.springframework.core/src/main/java/org/springframework/util/PathMatcher.java
+END
+Assert.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/Assert.java
+END
+DefaultPropertiesPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.core/src/main/java/org/springframework/util/DefaultPropertiesPersister.java
+END
+Log4jConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/347/trunk/org.springframework.core/src/main/java/org/springframework/util/Log4jConfigurer.java
+END
+SystemPropertyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/2807/trunk/org.springframework.core/src/main/java/org/springframework/util/SystemPropertyUtils.java
+END
+ReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/3579/trunk/org.springframework.core/src/main/java/org/springframework/util/ReflectionUtils.java
+END
+StopWatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/3330/trunk/org.springframework.core/src/main/java/org/springframework/util/StopWatch.java
+END
+LinkedMultiValueMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/2861/trunk/org.springframework.core/src/main/java/org/springframework/util/LinkedMultiValueMap.java
+END
+MethodInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/1005/trunk/org.springframework.core/src/main/java/org/springframework/util/MethodInvoker.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/util/package-info.java
+END
+StringValueResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/StringValueResolver.java
+END
+MultiValueMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/1783/trunk/org.springframework.core/src/main/java/org/springframework/util/MultiValueMap.java
+END
+ClassUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/3416/trunk/org.springframework.core/src/main/java/org/springframework/util/ClassUtils.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3392/trunk/org.springframework.core/src/main/java/org/springframework/util/StringUtils.java
+END
+ObjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/1837/trunk/org.springframework.core/src/main/java/org/springframework/util/ObjectUtils.java
+END
+DigestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/2294/trunk/org.springframework.core/src/main/java/org/springframework/util/DigestUtils.java
+END
+TypeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/3220/trunk/org.springframework.core/src/main/java/org/springframework/util/TypeUtils.java
+END
+AntPathMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/2589/trunk/org.springframework.core/src/main/java/org/springframework/util/AntPathMatcher.java
+END
+FileSystemUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/FileSystemUtils.java
+END
+AutoPopulatingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.core/src/main/java/org/springframework/util/AutoPopulatingList.java
+END
+ResourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/3545/trunk/org.springframework.core/src/main/java/org/springframework/util/ResourceUtils.java
+END
+NumberUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/615/trunk/org.springframework.core/src/main/java/org/springframework/util/NumberUtils.java
+END
+CustomizableThreadCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/599/trunk/org.springframework.core/src/main/java/org/springframework/util/CustomizableThreadCreator.java
+END
+CommonsLogWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.core/src/main/java/org/springframework/util/CommonsLogWriter.java
+END
+PatternMatchUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/PatternMatchUtils.java
+END
+CollectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/3418/trunk/org.springframework.core/src/main/java/org/springframework/util/CollectionUtils.java
+END
+CompositeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1664/trunk/org.springframework.core/src/main/java/org/springframework/util/CompositeIterator.java
+END
+ConcurrencyThrottleSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/ConcurrencyThrottleSupport.java
+END
+WeakReferenceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/3501/trunk/org.springframework.core/src/main/java/org/springframework/util/WeakReferenceMonitor.java
+END
+LinkedCaseInsensitiveMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1166/trunk/org.springframework.core/src/main/java/org/springframework/util/LinkedCaseInsensitiveMap.java
+END
+ErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/1964/trunk/org.springframework.core/src/main/java/org/springframework/util/ErrorHandler.java
+END
+PropertyPlaceholderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/3392/trunk/org.springframework.core/src/main/java/org/springframework/util/PropertyPlaceholderHelper.java
+END
+AntPathStringMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/2589/trunk/org.springframework.core/src/main/java/org/springframework/util/AntPathStringMatcher.java
+END
+FileCopyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/FileCopyUtils.java
+END
+PropertiesPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/util/PropertiesPersister.java
+END
+CachingMapDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/798/trunk/org.springframework.core/src/main/java/org/springframework/util/CachingMapDecorator.java
+END

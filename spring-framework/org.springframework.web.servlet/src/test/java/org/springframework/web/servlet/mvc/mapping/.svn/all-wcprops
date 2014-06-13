@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/mapping
+END
+WelcomeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/mapping/WelcomeController.java
+END
+BuyForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/mapping/BuyForm.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/mapping/Controller.java
+END
+ControllerBeanNameHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/mapping/ControllerBeanNameHandlerMappingTests.java
+END
+ControllerClassNameHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/mapping/ControllerClassNameHandlerMappingTests.java
+END
+AdminController.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/271/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/mvc/mapping/AdminController.java
+END

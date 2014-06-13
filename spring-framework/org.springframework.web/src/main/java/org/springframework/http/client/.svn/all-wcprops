@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3458/trunk/org.springframework.web/src/main/java/org/springframework/http/client
+END
+ClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/main/java/org/springframework/http/client/ClientHttpRequestFactory.java
+END
+SimpleClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3348/trunk/org.springframework.web/src/main/java/org/springframework/http/client/SimpleClientHttpRequest.java
+END
+CommonsClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3392/trunk/org.springframework.web/src/main/java/org/springframework/http/client/CommonsClientHttpRequest.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/http/client/package-info.java
+END
+ClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/3348/trunk/org.springframework.web/src/main/java/org/springframework/http/client/ClientHttpRequest.java
+END
+SimpleClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3303/trunk/org.springframework.web/src/main/java/org/springframework/http/client/SimpleClientHttpResponse.java
+END
+CommonsClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3392/trunk/org.springframework.web/src/main/java/org/springframework/http/client/CommonsClientHttpResponse.java
+END
+SimpleClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3458/trunk/org.springframework.web/src/main/java/org/springframework/http/client/SimpleClientHttpRequestFactory.java
+END
+AbstractClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3072/trunk/org.springframework.web/src/main/java/org/springframework/http/client/AbstractClientHttpRequest.java
+END
+CommonsClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/3303/trunk/org.springframework.web/src/main/java/org/springframework/http/client/CommonsClientHttpRequestFactory.java
+END
+ClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/main/java/org/springframework/http/client/ClientHttpResponse.java
+END

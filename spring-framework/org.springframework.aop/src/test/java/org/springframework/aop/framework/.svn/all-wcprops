@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/3291/trunk/org.springframework.aop/src/test/java/org/springframework/aop/framework
+END
+IntroductionBenchmarkTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/framework/IntroductionBenchmarkTests.java
+END
+PrototypeTargetTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/framework/PrototypeTargetTests.java
+END
+PrototypeTargetTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/497/trunk/org.springframework.aop/src/test/java/org/springframework/aop/framework/PrototypeTargetTests-context.xml
+END
+AopProxyUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/framework/AopProxyUtilsTests.java
+END
+ProxyFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/3291/trunk/org.springframework.aop/src/test/java/org/springframework/aop/framework/ProxyFactoryTests.java
+END
+MethodInvocationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/framework/MethodInvocationTests.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/spring-framework/!svn/ver/3596/trunk/build-spring-framework
+END
+build.iml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-framework/!svn/ver/1791/trunk/build-spring-framework/build.iml
+END
+package-top-level.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/spring-framework/!svn/ver/2940/trunk/build-spring-framework/package-top-level.xml
+END
+package-bundle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-framework/!svn/ver/2854/trunk/build-spring-framework/package-bundle.xml
+END
+publish-top-level.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/spring-framework/!svn/ver/2940/trunk/build-spring-framework/publish-top-level.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-framework/!svn/ver/209/trunk/build-spring-framework/readme.txt
+END
+package-library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-framework/!svn/ver/2854/trunk/build-spring-framework/package-library.xml
+END
+publish-documentation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-framework/!svn/ver/333/trunk/build-spring-framework/publish-documentation.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-framework/!svn/ver/2858/trunk/build-spring-framework/build.xml
+END

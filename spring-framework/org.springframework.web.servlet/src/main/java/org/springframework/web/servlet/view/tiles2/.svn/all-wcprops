@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/3411/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2
+END
+AbstractSpringPreparerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/1488/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2/AbstractSpringPreparerFactory.java
+END
+SpringBeanPreparerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/1032/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2/SpringBeanPreparerFactory.java
+END
+SpringLocaleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1499/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2/SpringLocaleResolver.java
+END
+SpringTilesApplicationContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/2955/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2/SpringTilesApplicationContextFactory.java
+END
+TilesConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/3411/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2/TilesConfigurer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2/package-info.java
+END
+SimpleSpringPreparerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/2288/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2/SimpleSpringPreparerFactory.java
+END
+TilesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/2755/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2/TilesView.java
+END
+TilesViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/1171/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/view/tiles2/TilesViewResolver.java
+END

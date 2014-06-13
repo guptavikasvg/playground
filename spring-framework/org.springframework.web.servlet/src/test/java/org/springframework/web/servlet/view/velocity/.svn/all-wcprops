@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/3046/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity
+END
+test.vm
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1689/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/test.vm
+END
+VelocityRenderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2216/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/VelocityRenderTests.java
+END
+ioerror.vm
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2214/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/ioerror.vm
+END
+VelocityMacroTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/1931/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/VelocityMacroTests.java
+END
+VelocityToolboxViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/2214/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/VelocityToolboxViewTests.java
+END
+TestVelocityEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/2214/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/TestVelocityEngine.java
+END
+VelocityConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/VelocityConfigurerTests.java
+END
+toolbox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/toolbox.xml
+END
+error.vm
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2214/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/error.vm
+END
+simple.vm
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2214/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/simple.vm
+END
+VelocityViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/3046/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/VelocityViewTests.java
+END
+VelocityViewResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/2214/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/velocity/VelocityViewResolverTests.java
+END

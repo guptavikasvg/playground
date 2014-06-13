@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/support
+END
+OpenPersistenceManagerInViewInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/support/OpenPersistenceManagerInViewInterceptor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/support/package-info.java
+END
+StandardPersistenceManagerProxyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/support/StandardPersistenceManagerProxyBean.java
+END
+OpenPersistenceManagerInViewFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/support/OpenPersistenceManagerInViewFilter.java
+END
+SpringPersistenceManagerProxyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/support/SpringPersistenceManagerProxyBean.java
+END
+JdoDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jdo/support/JdoDaoSupport.java
+END

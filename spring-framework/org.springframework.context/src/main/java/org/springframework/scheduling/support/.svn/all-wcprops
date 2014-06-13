@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/3489/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/support
+END
+CronSequenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3489/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/support/CronSequenceGenerator.java
+END
+PeriodicTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1684/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/support/PeriodicTrigger.java
+END
+SimpleTriggerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/802/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/support/SimpleTriggerContext.java
+END
+TaskUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2019/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/support/TaskUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/support/package-info.java
+END
+CronTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3373/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/support/CronTrigger.java
+END
+DelegatingErrorHandlingRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/1964/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/support/DelegatingErrorHandlingRunnable.java
+END
+MethodInvokingRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2103/trunk/org.springframework.context/src/main/java/org/springframework/scheduling/support/MethodInvokingRunnable.java
+END

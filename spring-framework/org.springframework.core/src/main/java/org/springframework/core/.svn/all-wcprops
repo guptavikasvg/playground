@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-framework/!svn/ver/3578/trunk/org.springframework.core/src/main/java/org/springframework/core
+END
+LocalVariableTableParameterNameDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2993/trunk/org.springframework.core/src/main/java/org/springframework/core/LocalVariableTableParameterNameDiscoverer.java
+END
+GenericTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3499/trunk/org.springframework.core/src/main/java/org/springframework/core/GenericTypeResolver.java
+END
+SmartClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/SmartClassLoader.java
+END
+NestedRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1149/trunk/org.springframework.core/src/main/java/org/springframework/core/NestedRuntimeException.java
+END
+NestedCheckedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1149/trunk/org.springframework.core/src/main/java/org/springframework/core/NestedCheckedException.java
+END
+ConstantException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/ConstantException.java
+END
+ControlFlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/ControlFlow.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.core/src/main/java/org/springframework/core/Constants.java
+END
+BridgeMethodResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/2509/trunk/org.springframework.core/src/main/java/org/springframework/core/BridgeMethodResolver.java
+END
+AliasRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/AliasRegistry.java
+END
+ConfigurableObjectInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/148/trunk/org.springframework.core/src/main/java/org/springframework/core/ConfigurableObjectInputStream.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/package-info.java
+END
+AttributeAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/AttributeAccessor.java
+END
+NamedInheritableThreadLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/280/trunk/org.springframework.core/src/main/java/org/springframework/core/NamedInheritableThreadLocal.java
+END
+ControlFlowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.core/src/main/java/org/springframework/core/ControlFlowFactory.java
+END
+OrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/646/trunk/org.springframework.core/src/main/java/org/springframework/core/OrderComparator.java
+END
+Conventions.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/2006/trunk/org.springframework.core/src/main/java/org/springframework/core/Conventions.java
+END
+ParameterNameDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/ParameterNameDiscoverer.java
+END
+SpringVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/SpringVersion.java
+END
+ExceptionDepthComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/3264/trunk/org.springframework.core/src/main/java/org/springframework/core/ExceptionDepthComparator.java
+END
+GenericCollectionTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1219/trunk/org.springframework.core/src/main/java/org/springframework/core/GenericCollectionTypeResolver.java
+END
+JdkVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/1275/trunk/org.springframework.core/src/main/java/org/springframework/core/JdkVersion.java
+END
+ConcurrentMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/1166/trunk/org.springframework.core/src/main/java/org/springframework/core/ConcurrentMap.java
+END
+MethodParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/3051/trunk/org.springframework.core/src/main/java/org/springframework/core/MethodParameter.java
+END
+NestedExceptionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.core/src/main/java/org/springframework/core/NestedExceptionUtils.java
+END
+InfrastructureProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/InfrastructureProxy.java
+END
+CollectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/2835/trunk/org.springframework.core/src/main/java/org/springframework/core/CollectionFactory.java
+END
+AttributeAccessorSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.core/src/main/java/org/springframework/core/AttributeAccessorSupport.java
+END
+Ordered.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/607/trunk/org.springframework.core/src/main/java/org/springframework/core/Ordered.java
+END
+OverridingClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1090/trunk/org.springframework.core/src/main/java/org/springframework/core/OverridingClassLoader.java
+END
+PriorityOrdered.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/2373/trunk/org.springframework.core/src/main/java/org/springframework/core/PriorityOrdered.java
+END
+NamedThreadLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/280/trunk/org.springframework.core/src/main/java/org/springframework/core/NamedThreadLocal.java
+END
+ErrorCoded.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/108/trunk/org.springframework.core/src/main/java/org/springframework/core/ErrorCoded.java
+END
+NestedIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1149/trunk/org.springframework.core/src/main/java/org/springframework/core/NestedIOException.java
+END
+PrioritizedParameterNameDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.core/src/main/java/org/springframework/core/PrioritizedParameterNameDiscoverer.java
+END
+DecoratingClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.core/src/main/java/org/springframework/core/DecoratingClassLoader.java
+END
+SimpleAliasRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3409/trunk/org.springframework.core/src/main/java/org/springframework/core/SimpleAliasRegistry.java
+END

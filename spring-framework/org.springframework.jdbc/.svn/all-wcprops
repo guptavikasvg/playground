@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/spring-framework/!svn/ver/3560/trunk/org.springframework.jdbc
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/spring-framework/!svn/ver/1791/trunk/org.springframework.jdbc/.classpath
+END
+jdbc.iml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/spring-framework/!svn/ver/1971/trunk/org.springframework.jdbc/jdbc.iml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-framework/!svn/ver/130/trunk/org.springframework.jdbc/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-framework/!svn/ver/2918/trunk/org.springframework.jdbc/ivy.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/spring-framework/!svn/ver/3428/trunk/org.springframework.jdbc/pom.xml
+END
+template.mf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/spring-framework/!svn/ver/3113/trunk/org.springframework.jdbc/template.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/spring-framework/!svn/ver/2918/trunk/org.springframework.jdbc/build.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/3189/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context
+END
+PortletApplicationContextScopeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/PortletApplicationContextScopeTests.java
+END
+PortletContextAwareProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/PortletContextAwareProcessorTests.java
+END
+PortletWebRequestTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/3189/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/PortletWebRequestTests.java
+END
+PortletContextAwareBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/PortletContextAwareBean.java
+END
+PortletConfigAwareBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/PortletConfigAwareBean.java
+END
+XmlPortletApplicationContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/XmlPortletApplicationContextTests.java
+END
+PortletRequestAttributesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/PortletRequestAttributesTests.java
+END
+AbstractXmlWebApplicationContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/468/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/context/AbstractXmlWebApplicationContextTests.java
+END

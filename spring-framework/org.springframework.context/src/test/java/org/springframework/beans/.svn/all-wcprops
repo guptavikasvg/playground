@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/3565/trunk/org.springframework.context/src/test/java/org/springframework/beans
+END
+INestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/INestedTestBean.java
+END
+Colour.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/Colour.java
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/TestBean.java
+END
+IndexedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/IndexedTestBean.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/Person.java
+END
+DerivedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/DerivedTestBean.java
+END
+NestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/NestedTestBean.java
+END
+IOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/IOther.java
+END
+FieldAccessBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/FieldAccessBean.java
+END
+BeanWithObjectProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/BeanWithObjectProperty.java
+END
+ResourceTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/2954/trunk/org.springframework.context/src/test/java/org/springframework/beans/ResourceTestBean.java
+END
+SerializablePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/SerializablePerson.java
+END
+ITestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/231/trunk/org.springframework.context/src/test/java/org/springframework/beans/ITestBean.java
+END

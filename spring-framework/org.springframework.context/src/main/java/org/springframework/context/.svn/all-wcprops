@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3593/trunk/org.springframework.context/src/main/java/org/springframework/context
+END
+LifecycleProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/2420/trunk/org.springframework.context/src/main/java/org/springframework/context/LifecycleProcessor.java
+END
+Lifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/2602/trunk/org.springframework.context/src/main/java/org/springframework/context/Lifecycle.java
+END
+ApplicationEventPublisherAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/ApplicationEventPublisherAware.java
+END
+HierarchicalMessageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/HierarchicalMessageSource.java
+END
+Phased.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/2532/trunk/org.springframework.context/src/main/java/org/springframework/context/Phased.java
+END
+MessageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/MessageSource.java
+END
+ApplicationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/ApplicationEvent.java
+END
+SmartLifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/2602/trunk/org.springframework.context/src/main/java/org/springframework/context/SmartLifecycle.java
+END
+ApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1223/trunk/org.springframework.context/src/main/java/org/springframework/context/ApplicationContext.java
+END
+ApplicationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/800/trunk/org.springframework.context/src/main/java/org/springframework/context/ApplicationListener.java
+END
+ApplicationEventPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/main/java/org/springframework/context/ApplicationEventPublisher.java
+END
+NoSuchMessageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/NoSuchMessageException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/context/package-info.java
+END
+MessageSourceResolvable.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3492/trunk/org.springframework.context/src/main/java/org/springframework/context/MessageSourceResolvable.java
+END
+MessageSourceAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/MessageSourceAware.java
+END
+ApplicationContextException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/ApplicationContextException.java
+END
+EmbeddedValueResolverAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/3395/trunk/org.springframework.context/src/main/java/org/springframework/context/EmbeddedValueResolverAware.java
+END
+ApplicationContextAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/ApplicationContextAware.java
+END
+ConfigurableApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2410/trunk/org.springframework.context/src/main/java/org/springframework/context/ConfigurableApplicationContext.java
+END
+ResourceLoaderAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/context/ResourceLoaderAware.java
+END

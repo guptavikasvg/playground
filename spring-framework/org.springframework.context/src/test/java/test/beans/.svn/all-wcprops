@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/beans/Employee.java
+END
+INestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans/INestedTestBean.java
+END
+Colour.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans/Colour.java
+END
+CustomScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans/CustomScope.java
+END
+DependsOnTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans/DependsOnTestBean.java
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans/TestBean.java
+END
+IndexedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans/IndexedTestBean.java
+END
+SideEffectBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/beans/SideEffectBean.java
+END
+NestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans/NestedTestBean.java
+END
+IOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans/IOther.java
+END
+FactoryMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/beans/FactoryMethods.java
+END
+ITestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/786/trunk/org.springframework.context/src/test/java/test/beans/ITestBean.java
+END

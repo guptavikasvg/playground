@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/1964/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/concurrent
+END
+ScheduledExecutorFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/447/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/concurrent/ScheduledExecutorFactoryBeanTests.java
+END
+ThreadPoolTaskSchedulerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/1964/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/concurrent/ThreadPoolTaskSchedulerTests.java
+END
+ConcurrentTaskExecutorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/447/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/concurrent/ConcurrentTaskExecutorTests.java
+END

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3570/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support
+END
+AbstractBeanFactoryPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2888/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/AbstractBeanFactoryPointcutAdvisor.java
+END
+DelegatePerTargetObjectIntroductionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/DelegatePerTargetObjectIntroductionInterceptor.java
+END
+AopUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/3570/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/AopUtils.java
+END
+DefaultPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/DefaultPointcutAdvisor.java
+END
+AbstractRegexpMethodPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1034/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/AbstractRegexpMethodPointcut.java
+END
+MethodMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/MethodMatchers.java
+END
+AbstractExpressionPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/AbstractExpressionPointcut.java
+END
+RegexpMethodPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/RegexpMethodPointcutAdvisor.java
+END
+ComposablePointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/ComposablePointcut.java
+END
+JdkRegexpMethodPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1034/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/JdkRegexpMethodPointcut.java
+END
+StaticMethodMatcherPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/482/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/StaticMethodMatcherPointcutAdvisor.java
+END
+NameMatchMethodPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/NameMatchMethodPointcutAdvisor.java
+END
+DefaultIntroductionAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2112/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/DefaultIntroductionAdvisor.java
+END
+AbstractGenericPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/AbstractGenericPointcutAdvisor.java
+END
+DynamicMethodMatcherPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/DynamicMethodMatcherPointcut.java
+END
+RootClassFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/RootClassFilter.java
+END
+DefaultBeanFactoryPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/DefaultBeanFactoryPointcutAdvisor.java
+END
+AbstractPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/609/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/AbstractPointcutAdvisor.java
+END
+StaticMethodMatcherPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/StaticMethodMatcherPointcut.java
+END
+DelegatingIntroductionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/DelegatingIntroductionInterceptor.java
+END
+NameMatchMethodPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/NameMatchMethodPointcut.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/package-info.java
+END
+ExpressionPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/ExpressionPointcut.java
+END
+Pointcuts.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/Pointcuts.java
+END
+DynamicMethodMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/385/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/DynamicMethodMatcher.java
+END
+IntroductionInfoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1021/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/IntroductionInfoSupport.java
+END
+StaticMethodMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/482/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/StaticMethodMatcher.java
+END
+ControlFlowPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/ControlFlowPointcut.java
+END
+ClassFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/support/ClassFilters.java
+END

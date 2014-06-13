@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/3586/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web
+END
+MockServletContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1096/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/MockServletContext.java
+END
+MockHttpSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1095/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/MockHttpSession.java
+END

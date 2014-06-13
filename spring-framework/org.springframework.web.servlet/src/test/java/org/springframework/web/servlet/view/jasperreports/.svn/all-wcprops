@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/3186/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports
+END
+JasperReportViewResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/JasperReportViewResolverTests.java
+END
+AbstractJasperReportsViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-framework/!svn/ver/1006/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/AbstractJasperReportsViewTests.java
+END
+JasperReportsMultiFormatViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/3186/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/JasperReportsMultiFormatViewTests.java
+END
+view.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/view.properties
+END
+AbstractConfigurableJasperReportsViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/spring-framework/!svn/ver/3186/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/AbstractConfigurableJasperReportsViewTests.java
+END
+JasperReportsHtmlViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/JasperReportsHtmlViewTests.java
+END
+JasperReportsXlsViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/JasperReportsXlsViewTests.java
+END
+AbstractJasperReportsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/1006/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/AbstractJasperReportsTests.java
+END
+ConfigurableJasperReportsViewWithStreamTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/ConfigurableJasperReportsViewWithStreamTests.java
+END
+ConfigurableJasperReportsViewWithWriterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/ConfigurableJasperReportsViewWithWriterTests.java
+END
+JasperReportsMultiFormatViewWithCustomMappingsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/spring-framework/!svn/ver/3186/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/JasperReportsMultiFormatViewWithCustomMappingsTests.java
+END
+JasperReportsPdfViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/JasperReportsPdfViewTests.java
+END
+ExporterParameterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/ExporterParameterTests.java
+END
+JasperReportsCsvViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.servlet/src/test/java/org/springframework/web/servlet/view/jasperreports/JasperReportsCsvViewTests.java
+END

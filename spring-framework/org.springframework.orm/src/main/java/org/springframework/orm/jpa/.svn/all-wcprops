@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/3401/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa
+END
+JpaDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaDialect.java
+END
+LocalEntityManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/LocalEntityManagerFactoryBean.java
+END
+EntityManagerFactoryPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/EntityManagerFactoryPlus.java
+END
+LocalContainerEntityManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2801/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/LocalContainerEntityManagerFactoryBean.java
+END
+EntityManagerHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/157/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/EntityManagerHolder.java
+END
+DefaultJpaDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/DefaultJpaDialect.java
+END
+JpaObjectRetrievalFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaObjectRetrievalFailureException.java
+END
+JpaTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaTemplate.java
+END
+EntityManagerFactoryPlusOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2191/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/EntityManagerFactoryPlusOperations.java
+END
+ExtendedEntityManagerCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/ExtendedEntityManagerCreator.java
+END
+EntityManagerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/EntityManagerProxy.java
+END
+AbstractEntityManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2890/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/AbstractEntityManagerFactoryBean.java
+END
+EntityManagerPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/EntityManagerPlus.java
+END
+EntityManagerFactoryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2891/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/EntityManagerFactoryInfo.java
+END
+JpaTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1855/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaTransactionManager.java
+END
+JpaOptimisticLockingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaOptimisticLockingFailureException.java
+END
+JpaOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaOperations.java
+END
+SharedEntityManagerCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3048/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/SharedEntityManagerCreator.java
+END
+EntityManagerPlusOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/2191/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/EntityManagerPlusOperations.java
+END
+EntityManagerFactoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/3401/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/EntityManagerFactoryUtils.java
+END
+EntityManagerFactoryAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/EntityManagerFactoryAccessor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/package-info.java
+END
+JpaCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaCallback.java
+END
+JpaInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaInterceptor.java
+END
+JpaVendorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaVendorAdapter.java
+END
+JpaAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/584/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaAccessor.java
+END
+JpaSystemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/JpaSystemException.java
+END

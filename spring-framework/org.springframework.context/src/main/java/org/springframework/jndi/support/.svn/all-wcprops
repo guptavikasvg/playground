@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/2164/trunk/org.springframework.context/src/main/java/org/springframework/jndi/support
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/jndi/support/package-info.java
+END
+SimpleJndiBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2164/trunk/org.springframework.context/src/main/java/org/springframework/jndi/support/SimpleJndiBeanFactory.java
+END

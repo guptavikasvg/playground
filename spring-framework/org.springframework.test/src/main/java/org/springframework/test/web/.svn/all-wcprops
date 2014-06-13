@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-framework/!svn/ver/2397/trunk/org.springframework.test/src/main/java/org/springframework/test/web
+END
+ModelAndViewAssert.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/2397/trunk/org.springframework.test/src/main/java/org/springframework/test/web/ModelAndViewAssert.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/web/package-info.java
+END
+AbstractModelAndViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1110/trunk/org.springframework.test/src/main/java/org/springframework/test/web/AbstractModelAndViewTests.java
+END

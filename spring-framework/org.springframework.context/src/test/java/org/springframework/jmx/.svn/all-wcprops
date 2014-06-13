@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/3326/trunk/org.springframework.context/src/test/java/org/springframework/jmx
+END
+AbstractMBeanServerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/AbstractMBeanServerTests.java
+END
+JmxTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/JmxTestBean.java
+END
+AbstractJmxTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/AbstractJmxTests.java
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/applicationContext.xml
+END
+IJmxTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/IJmxTestBean.java
+END

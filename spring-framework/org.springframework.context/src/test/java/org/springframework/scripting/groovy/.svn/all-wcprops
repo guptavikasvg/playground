@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/1041/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy
+END
+calculators-with-xsd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/calculators-with-xsd.xml
+END
+TestFactoryBean.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/TestFactoryBean.groovy
+END
+twoClassesCorrectOneFirst.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/twoClassesCorrectOneFirst.xml
+END
+groovyContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/groovyContext.xml
+END
+groovy-with-xsd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1040/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/groovy-with-xsd.xml
+END
+groovyBrokenContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/groovyBrokenContext.xml
+END
+groovyRefreshableContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/groovyRefreshableContext.xml
+END
+CallCounter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/CallCounter.groovy
+END
+MessengerInstance.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/MessengerInstance.groovy
+END
+DelegatingCalculator.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/DelegatingCalculator.groovy
+END
+GroovyScriptFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1041/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/GroovyScriptFactoryTests.java
+END
+Broken.groovyb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/Broken.groovyb
+END
+lwspBadGroovyContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/lwspBadGroovyContext.xml
+END
+groovy-multiple-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/groovy-multiple-properties.xml
+END
+calculators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/calculators.xml
+END
+Messenger.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/Messenger.groovy
+END
+GroovyClassLoadingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/GroovyClassLoadingTests.java
+END
+Calculator.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/Calculator.groovy
+END
+twoClassesWrongOneFirst.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/twoClassesWrongOneFirst.xml
+END
+ScriptBean.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/448/trunk/org.springframework.context/src/test/java/org/springframework/scripting/groovy/ScriptBean.groovy
+END

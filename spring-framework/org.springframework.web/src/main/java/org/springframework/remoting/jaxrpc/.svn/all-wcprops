@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/2163/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxrpc
+END
+LocalJaxRpcServiceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2163/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxrpc/LocalJaxRpcServiceFactoryBean.java
+END
+ServletEndpointSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2163/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxrpc/ServletEndpointSupport.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxrpc/package-info.java
+END
+JaxRpcSoapFaultException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2163/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxrpc/JaxRpcSoapFaultException.java
+END
+JaxRpcPortClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/2163/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxrpc/JaxRpcPortClientInterceptor.java
+END
+LocalJaxRpcServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/2163/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxrpc/LocalJaxRpcServiceFactory.java
+END
+JaxRpcPortProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2163/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxrpc/JaxRpcPortProxyFactoryBean.java
+END
+JaxRpcServicePostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2163/trunk/org.springframework.web/src/main/java/org/springframework/remoting/jaxrpc/JaxRpcServicePostProcessor.java
+END

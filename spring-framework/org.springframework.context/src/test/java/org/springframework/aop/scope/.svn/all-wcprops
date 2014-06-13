@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/1127/trunk/org.springframework.context/src/test/java/org/springframework/aop/scope
+END
+ScopedProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/1127/trunk/org.springframework.context/src/test/java/org/springframework/aop/scope/ScopedProxyTests.java
+END
+ScopedProxyTests-testbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/scope/ScopedProxyTests-testbean.xml
+END
+ScopedProxyTests-list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/scope/ScopedProxyTests-list.xml
+END
+ScopedProxyTests-map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/scope/ScopedProxyTests-map.xml
+END
+ScopedProxyTests-override.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/scope/ScopedProxyTests-override.xml
+END

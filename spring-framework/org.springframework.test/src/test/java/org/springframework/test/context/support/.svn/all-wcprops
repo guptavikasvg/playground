@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/support
+END
+GenericXmlContextLoaderResourceLocationsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/support/GenericXmlContextLoaderResourceLocationsTests.java
+END
+CustomizedGenericXmlContextLoaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/support/CustomizedGenericXmlContextLoaderTests.java
+END
+CustomizedGenericXmlContextLoaderTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/support/CustomizedGenericXmlContextLoaderTests-context.xml
+END

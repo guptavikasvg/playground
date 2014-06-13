@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3063/trunk/org.springframework.aspects/src/main/java/org/springframework/mock/staticmock
+END
+MockStaticEntityMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/2211/trunk/org.springframework.aspects/src/main/java/org/springframework/mock/staticmock/MockStaticEntityMethods.java
+END
+AbstractMethodMockingControl.aj
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3063/trunk/org.springframework.aspects/src/main/java/org/springframework/mock/staticmock/AbstractMethodMockingControl.aj
+END
+AnnotationDrivenStaticEntityMockingControl.aj
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/2243/trunk/org.springframework.aspects/src/main/java/org/springframework/mock/staticmock/AnnotationDrivenStaticEntityMockingControl.aj
+END

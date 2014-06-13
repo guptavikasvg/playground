@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/1572/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker
+END
+SimpleHttpInvokerRequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/SimpleHttpInvokerRequestExecutor.java
+END
+CommonsHttpInvokerRequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/CommonsHttpInvokerRequestExecutor.java
+END
+SimpleHttpInvokerServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/1572/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/SimpleHttpInvokerServiceExporter.java
+END
+HttpInvokerClientConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerClientConfiguration.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/package-info.java
+END
+HttpInvokerRequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerRequestExecutor.java
+END
+HttpInvokerServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerServiceExporter.java
+END
+AbstractHttpInvokerRequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/AbstractHttpInvokerRequestExecutor.java
+END
+HttpInvokerClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerClientInterceptor.java
+END
+HttpInvokerProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerProxyFactoryBean.java
+END

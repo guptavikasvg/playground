@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896
+END
+BeanOverridingDefaultLocationsInheritedTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/BeanOverridingDefaultLocationsInheritedTests-context.xml
+END
+DefaultLocationsBaseTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/DefaultLocationsBaseTests-context.xml
+END
+DefaultLocationsInheritedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/DefaultLocationsInheritedTests.java
+END
+DefaultLocationsInheritedTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/DefaultLocationsInheritedTests-context.xml
+END
+BeanOverridingExplicitLocationsInheritedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/BeanOverridingExplicitLocationsInheritedTests.java
+END
+ExplicitLocationsBaseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/ExplicitLocationsBaseTests.java
+END
+Spr3896SuiteTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/Spr3896SuiteTests.java
+END
+ExplicitLocationsInheritedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/ExplicitLocationsInheritedTests.java
+END
+BeanOverridingDefaultLocationsInheritedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/BeanOverridingDefaultLocationsInheritedTests.java
+END
+DefaultLocationsBaseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/spr3896/DefaultLocationsBaseTests.java
+END

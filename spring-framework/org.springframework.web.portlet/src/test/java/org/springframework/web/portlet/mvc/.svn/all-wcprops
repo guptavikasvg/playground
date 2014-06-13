@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-framework/!svn/ver/3475/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/mvc
+END
+PortletModeNameViewControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/mvc/PortletModeNameViewControllerTests.java
+END
+CommandControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/mvc/CommandControllerTests.java
+END
+PortletWrappingControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/mvc/PortletWrappingControllerTests.java
+END
+ParameterizableViewControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/453/trunk/org.springframework.web.portlet/src/test/java/org/springframework/web/portlet/mvc/ParameterizableViewControllerTests.java
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/3507/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support
+END
+StringToArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/StringToArrayConverter.java
+END
+ObjectToArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ObjectToArrayConverter.java
+END
+ArrayToObjectConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ArrayToObjectConverter.java
+END
+ArrayToStringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ArrayToStringConverter.java
+END
+CharacterToNumberFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/1957/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/CharacterToNumberFactory.java
+END
+NumberToCharacterConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/1957/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/NumberToCharacterConverter.java
+END
+GenericConversionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3448/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/GenericConversionService.java
+END
+ArrayToArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ArrayToArrayConverter.java
+END
+StringToCollectionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/StringToCollectionConverter.java
+END
+ObjectToCollectionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ObjectToCollectionConverter.java
+END
+CollectionToObjectConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/CollectionToObjectConverter.java
+END
+CollectionToStringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/3447/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/CollectionToStringConverter.java
+END
+StringToEnumConverterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2626/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/StringToEnumConverterFactory.java
+END
+StringToLocaleConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1957/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/StringToLocaleConverter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/package-info.java
+END
+ArrayToCollectionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ArrayToCollectionConverter.java
+END
+ConvertingPropertyEditorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ConvertingPropertyEditorAdapter.java
+END
+StringToBooleanConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2494/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/StringToBooleanConverter.java
+END
+StringToNumberConverterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/2494/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/StringToNumberConverterFactory.java
+END
+CollectionToCollectionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/3447/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/CollectionToCollectionConverter.java
+END
+ConversionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3505/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ConversionUtils.java
+END
+MapToMapConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3447/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/MapToMapConverter.java
+END
+StringToPropertiesConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/2674/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/StringToPropertiesConverter.java
+END
+StringToCharacterConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2626/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/StringToCharacterConverter.java
+END
+PropertiesToStringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/2674/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/PropertiesToStringConverter.java
+END
+NumberToNumberConverterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/2063/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/NumberToNumberConverterFactory.java
+END
+IdToEntityConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/2658/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/IdToEntityConverter.java
+END
+PropertyTypeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3507/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/PropertyTypeDescriptor.java
+END
+CollectionToArrayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/3255/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/CollectionToArrayConverter.java
+END
+ObjectToStringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3261/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ObjectToStringConverter.java
+END
+ObjectToObjectConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/3447/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ObjectToObjectConverter.java
+END
+ConversionServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2850/trunk/org.springframework.core/src/main/java/org/springframework/core/convert/support/ConversionServiceFactory.java
+END

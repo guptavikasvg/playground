@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/ejb/interceptor
+END
+SpringBeanAutowiringInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/617/trunk/org.springframework.context/src/main/java/org/springframework/ejb/interceptor/SpringBeanAutowiringInterceptor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/ejb/interceptor/package-info.java
+END

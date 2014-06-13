@@ -1,0 +1,79 @@
+10
+
+dir
+3602
+https://src.springframework.org/svn/spring-framework/trunk/org.springframework.context/src/test/java/org/springframework
+https://src.springframework.org/svn/spring-framework
+
+
+
+2010-08-11T19:24:30.830096Z
+3565
+jhoeller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50f2f4bb-b051-0410-bef5-90022cba6387
+
+aop
+dir
+
+remoting
+dir
+
+jndi
+dir
+
+context
+dir
+
+scheduling
+dir
+
+format
+dir
+
+core
+dir
+
+beans
+dir
+
+mock
+dir
+
+validation
+dir
+
+jmx
+dir
+
+model
+dir
+
+ejb
+dir
+
+scripting
+dir
+
+instrument
+dir
+
+util
+dir
+
+ui
+dir
+

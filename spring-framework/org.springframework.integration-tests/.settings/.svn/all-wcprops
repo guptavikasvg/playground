@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-framework/!svn/ver/1541/trunk/org.springframework.integration-tests/.settings
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/1541/trunk/org.springframework.integration-tests/.settings/org.eclipse.jdt.core.prefs
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/.settings/org.eclipse.jdt.ui.prefs
+END
+org.springframework.ide.eclipse.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/492/trunk/org.springframework.integration-tests/.settings/org.springframework.ide.eclipse.core.prefs
+END

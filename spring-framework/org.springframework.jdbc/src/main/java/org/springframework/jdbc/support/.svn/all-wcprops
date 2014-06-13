@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/3029/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support
+END
+CustomSQLErrorCodesTranslation.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/CustomSQLErrorCodesTranslation.java
+END
+GeneratedKeyHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/GeneratedKeyHolder.java
+END
+SQLStateSQLExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/SQLStateSQLExceptionTranslator.java
+END
+SQLErrorCodeSQLExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/766/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator.java
+END
+SQLErrorCodesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3029/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/SQLErrorCodesFactory.java
+END
+MetaDataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/MetaDataAccessException.java
+END
+DatabaseMetaDataCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/DatabaseMetaDataCallback.java
+END
+JdbcUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1821/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/JdbcUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/package-info.java
+END
+JdbcAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/JdbcAccessor.java
+END
+KeyHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/KeyHolder.java
+END
+SQLErrorCodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/768/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/SQLErrorCodes.java
+END
+SQLExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/SQLExceptionTranslator.java
+END
+SQLExceptionSubclassTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/155/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/SQLExceptionSubclassTranslator.java
+END
+AbstractFallbackSQLExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/AbstractFallbackSQLExceptionTranslator.java
+END
+SqlValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/SqlValue.java
+END
+DatabaseStartupValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/support/DatabaseStartupValidator.java
+END

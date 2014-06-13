@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/listener/endpoint
+END
+StubJmsActivationSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/listener/endpoint/StubJmsActivationSpec.java
+END
+DefaultJmsActivationSpecFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/listener/endpoint/DefaultJmsActivationSpecFactoryTests.java
+END
+StubJmsActivationSpecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/440/trunk/org.springframework.jms/src/test/java/org/springframework/jms/listener/endpoint/StubJmsActivationSpecFactory.java
+END

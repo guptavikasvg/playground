@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/2791/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work
+END
+WorkManagerTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/599/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/WorkManagerTaskExecutor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/package-info.java
+END
+DelegatingWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/DelegatingWork.java
+END
+SimpleTaskWorkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/599/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/work/SimpleTaskWorkManager.java
+END

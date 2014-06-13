@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/2805/trunk/org.springframework.context/src/test/java/org/springframework/jmx/access
+END
+RemoteMBeanClientInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/442/trunk/org.springframework.context/src/test/java/org/springframework/jmx/access/RemoteMBeanClientInterceptorTests.java
+END
+MBeanClientInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2805/trunk/org.springframework.context/src/test/java/org/springframework/jmx/access/MBeanClientInterceptorTests.java
+END

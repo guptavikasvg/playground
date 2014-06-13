@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/1505/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/support
+END
+LobTypeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/support/LobTypeTests.java
+END
+HibernateDaoSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/213/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/support/HibernateDaoSupportTests.java
+END
+ScopedBeanInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/213/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/support/ScopedBeanInterceptorTests.java
+END

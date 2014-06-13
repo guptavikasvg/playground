@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/3193/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor
+END
+ConcurrencyThrottleInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/ConcurrencyThrottleInterceptor.java
+END
+CustomizableTraceInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/CustomizableTraceInterceptor.java
+END
+AsyncExecutionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/613/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/AsyncExecutionInterceptor.java
+END
+AbstractTraceInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/114/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/AbstractTraceInterceptor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/package-info.java
+END
+DebugInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/DebugInterceptor.java
+END
+ExposeBeanNameAdvisors.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/3193/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/ExposeBeanNameAdvisors.java
+END
+SimpleTraceInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/SimpleTraceInterceptor.java
+END
+AbstractMonitoringInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/AbstractMonitoringInterceptor.java
+END
+PerformanceMonitorInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/PerformanceMonitorInterceptor.java
+END
+ExposeInvocationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/609/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/ExposeInvocationInterceptor.java
+END
+JamonPerformanceMonitorInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/150/trunk/org.springframework.aop/src/main/java/org/springframework/aop/interceptor/JamonPerformanceMonitorInterceptor.java
+END

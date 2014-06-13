@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/3582/trunk/org.springframework.web/src/main/java/org/springframework/web/filter
+END
+ServletContextRequestLoggingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/ServletContextRequestLoggingFilter.java
+END
+CommonsRequestLoggingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/CommonsRequestLoggingFilter.java
+END
+HiddenHttpMethodFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/3392/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/HiddenHttpMethodFilter.java
+END
+Log4jNestedDiagnosticContextFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/156/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/Log4jNestedDiagnosticContextFilter.java
+END
+RequestContextFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1490/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/RequestContextFilter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/package-info.java
+END
+GenericFilterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/GenericFilterBean.java
+END
+AbstractRequestLoggingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1652/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/AbstractRequestLoggingFilter.java
+END
+CharacterEncodingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/CharacterEncodingFilter.java
+END
+ShallowEtagHeaderFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3582/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/ShallowEtagHeaderFilter.java
+END
+OncePerRequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/125/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/OncePerRequestFilter.java
+END
+DelegatingFilterProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1030/trunk/org.springframework.web/src/main/java/org/springframework/web/filter/DelegatingFilterProxy.java
+END

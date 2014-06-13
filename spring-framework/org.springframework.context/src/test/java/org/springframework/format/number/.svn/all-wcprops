@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/3395/trunk/org.springframework.context/src/test/java/org/springframework/format/number
+END
+NumberFormatterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2339/trunk/org.springframework.context/src/test/java/org/springframework/format/number/NumberFormatterTests.java
+END
+CurrencyFormatterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2266/trunk/org.springframework.context/src/test/java/org/springframework/format/number/CurrencyFormatterTests.java
+END
+NumberFormattingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3395/trunk/org.springframework.context/src/test/java/org/springframework/format/number/NumberFormattingTests.java
+END
+PercentFormatterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2266/trunk/org.springframework.context/src/test/java/org/springframework/format/number/PercentFormatterTests.java
+END

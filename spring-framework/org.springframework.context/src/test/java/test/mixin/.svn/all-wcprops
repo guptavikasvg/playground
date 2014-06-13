@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/mixin
+END
+LockedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/mixin/LockedException.java
+END
+DefaultLockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/mixin/DefaultLockable.java
+END
+LockMixinAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/mixin/LockMixinAdvisor.java
+END
+Lockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/mixin/Lockable.java
+END
+LockMixin.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/mixin/LockMixin.java
+END

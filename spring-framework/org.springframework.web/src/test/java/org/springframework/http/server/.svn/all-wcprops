@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3348/trunk/org.springframework.web/src/test/java/org/springframework/http/server
+END
+ServletHttpRequestTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3348/trunk/org.springframework.web/src/test/java/org/springframework/http/server/ServletHttpRequestTests.java
+END
+ServletHttpResponseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1166/trunk/org.springframework.web/src/test/java/org/springframework/http/server/ServletHttpResponseTests.java
+END

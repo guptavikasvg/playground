@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/util/subpackage
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/util/subpackage/Person.java
+END
+PersistentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/util/subpackage/PersistentEntity.java
+END

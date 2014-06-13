@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3601/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet
+END
+RequestToViewNameTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/RequestToViewNameTranslator.java
+END
+ModelAndViewDefiningException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/ModelAndViewDefiningException.java
+END
+FrameworkServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3161/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/FrameworkServlet.java
+END
+HandlerExecutionChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3571/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/HandlerExecutionChain.java
+END
+DispatcherServlet.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1098/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/DispatcherServlet.properties
+END
+ViewRendererServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/ViewRendererServlet.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/2010/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/View.java
+END
+HttpServletBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/HttpServletBean.java
+END
+ModelAndView.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3481/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/ModelAndView.java
+END
+HandlerExceptionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/849/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/HandlerExceptionResolver.java
+END
+HandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/HandlerAdapter.java
+END
+LocaleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/LocaleResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/package-info.java
+END
+ThemeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/133/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/ThemeResolver.java
+END
+HandlerMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2507/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/HandlerMapping.java
+END
+DispatcherServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3573/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/DispatcherServlet.java
+END
+ResourceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/159/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/ResourceServlet.java
+END
+HandlerInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2440/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/HandlerInterceptor.java
+END
+ViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/1579/trunk/org.springframework.web.servlet/src/main/java/org/springframework/web/servlet/ViewResolver.java
+END

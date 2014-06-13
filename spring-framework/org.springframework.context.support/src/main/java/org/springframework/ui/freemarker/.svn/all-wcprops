@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/3567/trunk/org.springframework.context.support/src/main/java/org/springframework/ui/freemarker
+END
+FreeMarkerTemplateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/ui/freemarker/FreeMarkerTemplateUtils.java
+END
+FreeMarkerConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/3315/trunk/org.springframework.context.support/src/main/java/org/springframework/ui/freemarker/FreeMarkerConfigurationFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context.support/src/main/java/org/springframework/ui/freemarker/package-info.java
+END
+SpringTemplateLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3567/trunk/org.springframework.context.support/src/main/java/org/springframework/ui/freemarker/SpringTemplateLoader.java
+END
+FreeMarkerConfigurationFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/686/trunk/org.springframework.context.support/src/main/java/org/springframework/ui/freemarker/FreeMarkerConfigurationFactoryBean.java
+END

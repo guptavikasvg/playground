@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3217/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3
+END
+LocalSessionFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/2454/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/LocalSessionFactoryBeanTests.java
+END
+HibernateTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/HibernateTemplateTests.java
+END
+filterDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/filterDefinitions.xml
+END
+CglibProxyBridgeMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/640/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/CglibProxyBridgeMethodTests.java
+END
+HibernateInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/305/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/HibernateInterceptorTests.java
+END
+HibernateTransactionManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/3217/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/HibernateTransactionManagerTests.java
+END
+HibernateJtaTransactionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/HibernateJtaTransactionTests.java
+END
+typeDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/445/trunk/org.springframework.orm/src/test/java/org/springframework/orm/hibernate3/typeDefinitions.xml
+END

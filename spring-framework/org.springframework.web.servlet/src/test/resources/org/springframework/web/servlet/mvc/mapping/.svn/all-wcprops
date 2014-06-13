@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/268/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/mvc/mapping
+END
+name-mapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/268/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/mvc/mapping/name-mapping.xml
+END
+class-mapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/268/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/mvc/mapping/class-mapping.xml
+END

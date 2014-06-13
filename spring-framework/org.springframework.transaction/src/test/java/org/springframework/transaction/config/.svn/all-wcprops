@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/3368/trunk/org.springframework.transaction/src/test/java/org/springframework/transaction/config
+END
+annotationDrivenConfigurationClassTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/3368/trunk/org.springframework.transaction/src/test/java/org/springframework/transaction/config/annotationDrivenConfigurationClassTests.xml
+END
+TransactionalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2889/trunk/org.springframework.transaction/src/test/java/org/springframework/transaction/config/TransactionalService.java
+END
+annotationDrivenProxyTargetClassTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/1134/trunk/org.springframework.transaction/src/test/java/org/springframework/transaction/config/annotationDrivenProxyTargetClassTests.xml
+END
+AnnotationDrivenTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/3368/trunk/org.springframework.transaction/src/test/java/org/springframework/transaction/config/AnnotationDrivenTests.java
+END
+TransactionManagerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/3368/trunk/org.springframework.transaction/src/test/java/org/springframework/transaction/config/TransactionManagerConfiguration.java
+END

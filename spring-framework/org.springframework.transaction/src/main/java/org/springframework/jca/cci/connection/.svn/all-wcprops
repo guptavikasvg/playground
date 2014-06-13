@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection
+END
+TransactionAwareConnectionFactoryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection/TransactionAwareConnectionFactoryProxy.java
+END
+ConnectionSpecConnectionFactoryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/596/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection/ConnectionSpecConnectionFactoryAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection/package-info.java
+END
+ConnectionFactoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection/ConnectionFactoryUtils.java
+END
+SingleConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection/SingleConnectionFactory.java
+END
+CciLocalTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/154/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection/CciLocalTransactionManager.java
+END
+DelegatingConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection/DelegatingConnectionFactory.java
+END
+ConnectionHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection/ConnectionHolder.java
+END
+NotSupportedRecordFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/jca/cci/connection/NotSupportedRecordFactory.java
+END

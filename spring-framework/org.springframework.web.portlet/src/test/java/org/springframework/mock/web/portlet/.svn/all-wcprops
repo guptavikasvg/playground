@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/3586/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet
+END
+MockActionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockActionRequest.java
+END
+MockMultipartActionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/3586/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockMultipartActionRequest.java
+END
+MockRenderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockRenderRequest.java
+END
+MockEventRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockEventRequest.java
+END
+MockActionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/558/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockActionResponse.java
+END
+MockBaseURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockBaseURL.java
+END
+MockPortletSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockPortletSession.java
+END
+MockPortletContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockPortletContext.java
+END
+MockRenderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockRenderResponse.java
+END
+MockEventResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/558/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockEventResponse.java
+END
+MockResourceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockResourceRequest.java
+END
+ServletWrappingPortletContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/1094/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/ServletWrappingPortletContext.java
+END
+MockPortletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/558/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockPortletRequest.java
+END
+MockCacheControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockCacheControl.java
+END
+MockPortalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockPortalContext.java
+END
+MockMimeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockMimeResponse.java
+END
+MockResourceResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockResourceResponse.java
+END
+MockPortletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockPortletResponse.java
+END
+MockPortletRequestDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockPortletRequestDispatcher.java
+END
+MockResourceURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockResourceURL.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2279/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/package-info.java
+END
+MockPortletPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/558/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockPortletPreferences.java
+END
+MockPortletURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockPortletURL.java
+END
+MockPortletConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockPortletConfig.java
+END
+MockStateAwareResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/558/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockStateAwareResponse.java
+END
+MockEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/552/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockEvent.java
+END
+MockClientDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/558/trunk/org.springframework.web.portlet/src/test/java/org/springframework/mock/web/portlet/MockClientDataRequest.java
+END

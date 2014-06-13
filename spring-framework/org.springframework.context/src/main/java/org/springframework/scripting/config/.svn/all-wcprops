@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.context/src/main/java/org/springframework/scripting/config
+END
+LangNamespaceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/scripting/config/LangNamespaceUtils.java
+END
+ScriptBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/1182/trunk/org.springframework.context/src/main/java/org/springframework/scripting/config/ScriptBeanDefinitionParser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/scripting/config/package-info.java
+END
+ScriptingDefaultsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.context/src/main/java/org/springframework/scripting/config/ScriptingDefaultsParser.java
+END
+LangNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/scripting/config/LangNamespaceHandler.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/1507/trunk/org.springframework.test/src/test/java/org/springframework/test/annotation
+END
+ProfileValueAnnotationAwareTransactionalTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/annotation/ProfileValueAnnotationAwareTransactionalTests-context.xml
+END
+ProfileValueUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1507/trunk/org.springframework.test/src/test/java/org/springframework/test/annotation/ProfileValueUtilsTests.java
+END
+ProfileValueAnnotationAwareTransactionalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/annotation/ProfileValueAnnotationAwareTransactionalTests.java
+END

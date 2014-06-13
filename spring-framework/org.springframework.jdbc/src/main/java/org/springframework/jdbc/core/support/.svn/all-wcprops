@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/support
+END
+AbstractLobStreamingResultSetExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/support/AbstractLobStreamingResultSetExtractor.java
+END
+AbstractLobCreatingPreparedStatementCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/346/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/support/AbstractLobCreatingPreparedStatementCallback.java
+END
+AbstractSqlTypeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/support/AbstractSqlTypeValue.java
+END
+JdbcDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/155/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/support/JdbcDaoSupport.java
+END
+JdbcBeanDefinitionReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/support/JdbcBeanDefinitionReader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/support/package-info.java
+END
+SqlLobValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/support/SqlLobValue.java
+END
+AbstractInterruptibleBatchPreparedStatementSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/123/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/core/support/AbstractInterruptibleBatchPreparedStatementSetter.java
+END

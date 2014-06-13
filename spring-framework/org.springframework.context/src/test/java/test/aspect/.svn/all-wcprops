@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/aspect
+END
+TwoAdviceAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/aspect/TwoAdviceAspect.java
+END
+PerTargetAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/aspect/PerTargetAspect.java
+END
+PerThisAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/aspect/PerThisAspect.java
+END

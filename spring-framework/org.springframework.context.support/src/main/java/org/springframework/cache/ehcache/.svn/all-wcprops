@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/2400/trunk/org.springframework.context.support/src/main/java/org/springframework/cache/ehcache
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context.support/src/main/java/org/springframework/cache/ehcache/package-info.java
+END
+EhCacheManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/2400/trunk/org.springframework.context.support/src/main/java/org/springframework/cache/ehcache/EhCacheManagerFactoryBean.java
+END
+EhCacheFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2400/trunk/org.springframework.context.support/src/main/java/org/springframework/cache/ehcache/EhCacheFactoryBean.java
+END

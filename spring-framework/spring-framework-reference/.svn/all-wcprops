@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spring-framework/!svn/ver/3602/trunk/spring-framework-reference
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/spring-framework/!svn/ver/1079/trunk/spring-framework-reference/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/spring-framework/!svn/ver/1037/trunk/spring-framework-reference/ivy.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/spring-framework/!svn/ver/773/trunk/spring-framework-reference/build.xml
+END

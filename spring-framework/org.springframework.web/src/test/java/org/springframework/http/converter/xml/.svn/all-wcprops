@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/spring-framework/!svn/ver/3093/trunk/org.springframework.web/src/test/java/org/springframework/http/converter/xml
+END
+SourceHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/3093/trunk/org.springframework.web/src/test/java/org/springframework/http/converter/xml/SourceHttpMessageConverterTests.java
+END
+Jaxb2RootElementHttpMessageConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/2871/trunk/org.springframework.web/src/test/java/org/springframework/http/converter/xml/Jaxb2RootElementHttpMessageConverterTest.java
+END
+MarshallingHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/2529/trunk/org.springframework.web/src/test/java/org/springframework/http/converter/xml/MarshallingHttpMessageConverterTests.java
+END

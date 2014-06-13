@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/1505/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support
+END
+RegexpMethodPointcutAdvisorIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/RegexpMethodPointcutAdvisorIntegrationTests.java
+END
+ClassFiltersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/ClassFiltersTests.java
+END
+ControlFlowPointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/ControlFlowPointcutTests.java
+END
+RegexpMethodPointcutAdvisorIntegrationTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/RegexpMethodPointcutAdvisorIntegrationTests-context.xml
+END
+AopUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/AopUtilsTests.java
+END
+DelegatingIntroductionInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/spring-framework/!svn/ver/500/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/DelegatingIntroductionInterceptorTests.java
+END
+NameMatchMethodPointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/501/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/NameMatchMethodPointcutTests.java
+END
+AbstractRegexpMethodPointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/AbstractRegexpMethodPointcutTests.java
+END
+ClassUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1505/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/ClassUtilsTests.java
+END
+MethodMatchersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/MethodMatchersTests.java
+END
+PointcutsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/PointcutsTests.java
+END
+ComposablePointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/499/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/ComposablePointcutTests.java
+END
+JdkRegexpMethodPointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/498/trunk/org.springframework.aop/src/test/java/org/springframework/aop/support/JdkRegexpMethodPointcutTests.java
+END

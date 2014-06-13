@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/interceptor
+END
+SerializableNopInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/interceptor/SerializableNopInterceptor.java
+END
+TimestampIntroductionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/interceptor/TimestampIntroductionInterceptor.java
+END
+NopInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/interceptor/NopInterceptor.java
+END

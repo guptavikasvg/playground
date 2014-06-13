@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-framework/!svn/ver/3348/trunk/org.springframework.web/src/main/java/org/springframework/http/server
+END
+ServerHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/3348/trunk/org.springframework.web/src/main/java/org/springframework/http/server/ServerHttpRequest.java
+END
+ServletServerHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3348/trunk/org.springframework.web/src/main/java/org/springframework/http/server/ServletServerHttpRequest.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.web/src/main/java/org/springframework/http/server/package-info.java
+END
+ServerHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/676/trunk/org.springframework.web/src/main/java/org/springframework/http/server/ServerHttpResponse.java
+END
+ServletServerHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3072/trunk/org.springframework.web/src/main/java/org/springframework/http/server/ServletServerHttpResponse.java
+END

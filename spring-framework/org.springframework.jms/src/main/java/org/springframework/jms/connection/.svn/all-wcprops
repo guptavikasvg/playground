@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3485/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection
+END
+JmsResourceHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3478/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/JmsResourceHolder.java
+END
+SynchedLocalTransactionFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/SynchedLocalTransactionFailedException.java
+END
+CachingConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3485/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/CachingConnectionFactory.java
+END
+UserCredentialsConnectionFactoryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/596/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/UserCredentialsConnectionFactoryAdapter.java
+END
+ConnectionFactoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/655/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/ConnectionFactoryUtils.java
+END
+DelegatingConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/DelegatingConnectionFactory.java
+END
+SingleConnectionFactory102.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/674/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/SingleConnectionFactory102.java
+END
+JmsTransactionManager102.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/674/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/JmsTransactionManager102.java
+END
+TransactionAwareConnectionFactoryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2503/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/TransactionAwareConnectionFactoryProxy.java
+END
+ChainedExceptionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/ChainedExceptionListener.java
+END
+CachedMessageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/CachedMessageProducer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/package-info.java
+END
+SessionProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/SessionProxy.java
+END
+CachedMessageConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/CachedMessageConsumer.java
+END
+SingleConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1762/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/SingleConnectionFactory.java
+END
+JmsTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/674/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/JmsTransactionManager.java
+END
+SmartConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/connection/SmartConnectionFactory.java
+END

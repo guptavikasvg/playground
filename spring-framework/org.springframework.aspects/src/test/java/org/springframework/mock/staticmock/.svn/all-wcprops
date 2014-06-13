@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/2243/trunk/org.springframework.aspects/src/test/java/org/springframework/mock/staticmock
+END
+AnnotationDrivenStaticEntityMockingControlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/2243/trunk/org.springframework.aspects/src/test/java/org/springframework/mock/staticmock/AnnotationDrivenStaticEntityMockingControlTest.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/2211/trunk/org.springframework.aspects/src/test/java/org/springframework/mock/staticmock/Person.java
+END
+Delegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/2243/trunk/org.springframework.aspects/src/test/java/org/springframework/mock/staticmock/Delegate.java
+END
+Person_Roo_Entity.aj
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/2211/trunk/org.springframework.aspects/src/test/java/org/springframework/mock/staticmock/Person_Roo_Entity.aj
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/3395/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda
+END
+JodaTimeContextHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3327/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/JodaTimeContextHolder.java
+END
+ReadablePartialPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2597/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/ReadablePartialPrinter.java
+END
+JodaTimeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2597/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/JodaTimeContext.java
+END
+ReadableInstantPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2597/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/ReadableInstantPrinter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2266/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/package-info.java
+END
+JodaTimeConverters.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/2597/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/JodaTimeConverters.java
+END
+MillisecondInstantPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2597/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/MillisecondInstantPrinter.java
+END
+DateTimeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2597/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/DateTimeParser.java
+END
+JodaDateTimeFormatAnnotationFormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-framework/!svn/ver/3395/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/JodaDateTimeFormatAnnotationFormatterFactory.java
+END
+JodaTimeFormattingConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/2596/trunk/org.springframework.context/src/main/java/org/springframework/format/datetime/joda/JodaTimeFormattingConfigurer.java
+END

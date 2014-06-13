@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/3569/trunk/org.springframework.expression/src/main/java/org/springframework/expression/common
+END
+ExpressionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/3569/trunk/org.springframework.expression/src/main/java/org/springframework/expression/common/ExpressionUtils.java
+END
+TemplateAwareExpressionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/common/TemplateAwareExpressionParser.java
+END
+CompositeStringExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/common/CompositeStringExpression.java
+END
+LiteralExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/common/LiteralExpression.java
+END
+TemplateParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3216/trunk/org.springframework.expression/src/main/java/org/springframework/expression/common/TemplateParserContext.java
+END

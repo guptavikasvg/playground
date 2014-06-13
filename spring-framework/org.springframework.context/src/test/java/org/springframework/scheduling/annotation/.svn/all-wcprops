@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/2799/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/annotation
+END
+AsyncExecutionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/613/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/annotation/AsyncExecutionTests.java
+END
+AsyncAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-framework/!svn/ver/2462/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/annotation/AsyncAnnotationBeanPostProcessorTests.java
+END
+ScheduledAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/2799/trunk/org.springframework.context/src/test/java/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessorTests.java
+END

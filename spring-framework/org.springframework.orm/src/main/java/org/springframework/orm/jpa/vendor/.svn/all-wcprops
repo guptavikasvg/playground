@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3032/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor
+END
+TopLinkJpaDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/TopLinkJpaDialect.java
+END
+HibernateJpaDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3032/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/HibernateJpaDialect.java
+END
+OpenJpaDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/OpenJpaDialect.java
+END
+EclipseLinkJpaDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/EclipseLinkJpaDialect.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/124/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/Database.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/package-info.java
+END
+TopLinkJpaVendorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/TopLinkJpaVendorAdapter.java
+END
+HibernateJpaVendorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1856/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/HibernateJpaVendorAdapter.java
+END
+OpenJpaVendorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/OpenJpaVendorAdapter.java
+END
+EclipseLinkJpaVendorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2293/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/EclipseLinkJpaVendorAdapter.java
+END
+AbstractJpaVendorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.orm/src/main/java/org/springframework/orm/jpa/vendor/AbstractJpaVendorAdapter.java
+END

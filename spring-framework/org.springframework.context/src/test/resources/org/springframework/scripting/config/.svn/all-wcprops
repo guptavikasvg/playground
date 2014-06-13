@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/2200/trunk/org.springframework.context/src/test/resources/org/springframework/scripting/config
+END
+TestBean.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/2197/trunk/org.springframework.context/src/test/resources/org/springframework/scripting/config/TestBean.groovy
+END
+scriptingDefaultsTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2200/trunk/org.springframework.context/src/test/resources/org/springframework/scripting/config/scriptingDefaultsTests.xml
+END

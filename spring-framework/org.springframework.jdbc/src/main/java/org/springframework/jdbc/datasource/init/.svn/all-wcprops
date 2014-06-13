@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-framework/!svn/ver/3560/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/init
+END
+CannotReadScriptException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/2227/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/init/CannotReadScriptException.java
+END
+ResourceDatabasePopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/3560/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/init/ResourceDatabasePopulator.java
+END
+DatabasePopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2234/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/init/DatabasePopulator.java
+END
+DataSourceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/3541/trunk/org.springframework.jdbc/src/main/java/org/springframework/jdbc/datasource/init/DataSourceInitializer.java
+END

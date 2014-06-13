@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/768/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support
+END
+DataFieldMaxValueIncrementerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/DataFieldMaxValueIncrementerTests.java
+END
+SQLErrorCodeSQLExceptionTranslatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-framework/!svn/ver/760/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslatorTests.java
+END
+SQLErrorCodesFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/SQLErrorCodesFactoryTests.java
+END
+DefaultLobHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/DefaultLobHandlerTests.java
+END
+SQLExceptionSubclassFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/SQLExceptionSubclassFactory.java
+END
+SQLExceptionCustomTranslatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/768/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/SQLExceptionCustomTranslatorTests.java
+END
+JdbcUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/JdbcUtilsTests.java
+END
+KeyHolderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/KeyHolderTests.java
+END
+custom-error-codes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/custom-error-codes.xml
+END
+SQLExceptionSubclassTranslatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/SQLExceptionSubclassTranslatorTests.java
+END
+SQLStateExceptionTranslatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/SQLStateExceptionTranslatorTests.java
+END
+test-error-codes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/test-error-codes.xml
+END
+CustomSqlExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/768/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/CustomSqlExceptionTranslator.java
+END
+NativeJdbcExtractorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/222/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/NativeJdbcExtractorTests.java
+END
+wildcard-error-codes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/wildcard-error-codes.xml
+END
+SQLStateSQLExceptionTranslatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/SQLStateSQLExceptionTranslatorTests.java
+END
+CustomErrorCodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/438/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/support/CustomErrorCodeException.java
+END

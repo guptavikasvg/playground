@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/advice
+END
+MethodCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/advice/MethodCounter.java
+END
+CountingAfterReturningAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/advice/CountingAfterReturningAdvice.java
+END
+CountingBeforeAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/advice/CountingBeforeAdvice.java
+END
+MyThrowsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/advice/MyThrowsHandler.java
+END
+TimestampIntroductionAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/test/advice/TimestampIntroductionAdvisor.java
+END

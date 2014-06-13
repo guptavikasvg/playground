@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-framework/!svn/ver/3118/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4
+END
+ConcreteTransactionalJUnit4SpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/ConcreteTransactionalJUnit4SpringContextTests-context.xml
+END
+CustomDefaultContextLoaderClassSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-framework/!svn/ver/1086/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/CustomDefaultContextLoaderClassSpringRunnerTests.java
+END
+TimedSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1077/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/TimedSpringRunnerTests.java
+END
+RollbackOverrideDefaultRollbackFalseTransactionalSpringRunnerTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/RollbackOverrideDefaultRollbackFalseTransactionalSpringRunnerTests-context.xml
+END
+FailingBeforeAndAfterMethodsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/1474/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/FailingBeforeAndAfterMethodsTests.java
+END
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context1.xml
+END
+HardCodedProfileValueSourceSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/1507/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/HardCodedProfileValueSourceSpringRunnerTests.java
+END
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context2.xml
+END
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context3.xml
+END
+ExpectedExceptionSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/1077/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/ExpectedExceptionSpringRunnerTests.java
+END
+ClassLevelTransactionalSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/ClassLevelTransactionalSpringRunnerTests.java
+END
+StandardJUnit4FeaturesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/StandardJUnit4FeaturesTests.java
+END
+ParameterizedDependencyInjectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/ParameterizedDependencyInjectionTests.java
+END
+ParameterizedDependencyInjectionTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/ParameterizedDependencyInjectionTests-context.xml
+END
+SpringJUnit4ClassRunnerAppCtxTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/3118/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/SpringJUnit4ClassRunnerAppCtxTests.java
+END
+SpringJUnit4ClassRunnerAppCtxTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/1207/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/SpringJUnit4ClassRunnerAppCtxTests-context.xml
+END
+TimedTransactionalSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/TimedTransactionalSpringRunnerTests.java
+END
+AbstractTransactionalSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/AbstractTransactionalSpringRunnerTests.java
+END
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/1088/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests.java
+END
+MethodLevelTransactionalSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/3100/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/MethodLevelTransactionalSpringRunnerTests.java
+END
+BeforeAndAfterTransactionAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/BeforeAndAfterTransactionAnnotationTests.java
+END
+PropertiesBasedSpringJUnit4ClassRunnerAppCtxTests-context.properties
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/PropertiesBasedSpringJUnit4ClassRunnerAppCtxTests-context.properties
+END
+MethodLevelTransactionalSpringRunnerTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/MethodLevelTransactionalSpringRunnerTests-context.xml
+END
+BeforeAndAfterTransactionAnnotationTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/BeforeAndAfterTransactionAnnotationTests-context.xml
+END
+DefaultRollbackFalseTransactionalSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/DefaultRollbackFalseTransactionalSpringRunnerTests.java
+END
+SpringJUnit4SuiteTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1835/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/SpringJUnit4SuiteTests.java
+END
+TrackingRunListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1077/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/TrackingRunListener.java
+END
+ConcreteTransactionalJUnit4SpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/ConcreteTransactionalJUnit4SpringContextTests.java
+END
+PropertiesBasedSpringJUnit4ClassRunnerAppCtxTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/PropertiesBasedSpringJUnit4ClassRunnerAppCtxTests.java
+END
+AbsolutePathSpringJUnit4ClassRunnerAppCtxTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/1550/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/AbsolutePathSpringJUnit4ClassRunnerAppCtxTests.java
+END
+SpringJUnit4ClassRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/SpringJUnit4ClassRunnerTests.java
+END
+InheritedConfigSpringJUnit4ClassRunnerAppCtxTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/InheritedConfigSpringJUnit4ClassRunnerAppCtxTests.java
+END
+RollbackOverrideDefaultRollbackFalseTransactionalSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/RollbackOverrideDefaultRollbackFalseTransactionalSpringRunnerTests.java
+END
+FailingBeforeAndAfterMethodsTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/FailingBeforeAndAfterMethodsTests-context.xml
+END
+ClassLevelTransactionalSpringRunnerTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/ClassLevelTransactionalSpringRunnerTests-context.xml
+END
+DefaultRollbackTrueTransactionalSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/DefaultRollbackTrueTransactionalSpringRunnerTests.java
+END
+DefaultRollbackTrueTransactionalSpringRunnerTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/DefaultRollbackTrueTransactionalSpringRunnerTests-context.xml
+END
+SpringJUnit47ClassRunnerRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/1835/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/SpringJUnit47ClassRunnerRuleTests.java
+END
+ClassLevelDisabledSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/1471/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/ClassLevelDisabledSpringRunnerTests.java
+END
+EnabledAndIgnoredSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/1507/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/EnabledAndIgnoredSpringRunnerTests.java
+END
+transactionalTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/3102/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/transactionalTests-context.xml
+END
+RepeatedSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/1786/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/RepeatedSpringRunnerTests.java
+END
+RollbackOverrideDefaultRollbackTrueTransactionalSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/RollbackOverrideDefaultRollbackTrueTransactionalSpringRunnerTests.java
+END
+RelativePathSpringJUnit4ClassRunnerAppCtxTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/RelativePathSpringJUnit4ClassRunnerAppCtxTests.java
+END
+RollbackOverrideDefaultRollbackTrueTransactionalSpringRunnerTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/RollbackOverrideDefaultRollbackTrueTransactionalSpringRunnerTests-context.xml
+END
+DefaultRollbackFalseTransactionalSpringRunnerTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/DefaultRollbackFalseTransactionalSpringRunnerTests-context.xml
+END
+StandardJUnit4FeaturesSpringRunnerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/StandardJUnit4FeaturesSpringRunnerTests.java
+END
+ClassPathResourceSpringJUnit4ClassRunnerAppCtxTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/spring-framework/!svn/ver/449/trunk/org.springframework.test/src/test/java/org/springframework/test/context/junit4/ClassPathResourceSpringJUnit4ClassRunnerAppCtxTests.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3504/trunk/org.springframework.context/src/main/java/org/springframework/validation
+END
+AbstractErrors.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/342/trunk/org.springframework.context/src/main/java/org/springframework/validation/AbstractErrors.java
+END
+AbstractPropertyBindingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3504/trunk/org.springframework.context/src/main/java/org/springframework/validation/AbstractPropertyBindingResult.java
+END
+BeanPropertyBindingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2505/trunk/org.springframework.context/src/main/java/org/springframework/validation/BeanPropertyBindingResult.java
+END
+MapBindingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/validation/MapBindingResult.java
+END
+DirectFieldBindingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/validation/DirectFieldBindingResult.java
+END
+BindingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/1750/trunk/org.springframework.context/src/main/java/org/springframework/validation/BindingResult.java
+END
+ValidationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/validation/ValidationUtils.java
+END
+Errors.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.context/src/main/java/org/springframework/validation/Errors.java
+END
+ObjectError.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/validation/ObjectError.java
+END
+MessageCodesResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/validation/MessageCodesResolver.java
+END
+BindingErrorProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/validation/BindingErrorProcessor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/1836/trunk/org.springframework.context/src/main/java/org/springframework/validation/package-info.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/2044/trunk/org.springframework.context/src/main/java/org/springframework/validation/Validator.java
+END
+DefaultMessageCodesResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/331/trunk/org.springframework.context/src/main/java/org/springframework/validation/DefaultMessageCodesResolver.java
+END
+DefaultBindingErrorProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/3496/trunk/org.springframework.context/src/main/java/org/springframework/validation/DefaultBindingErrorProcessor.java
+END
+BindingResultUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/validation/BindingResultUtils.java
+END
+BindException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/341/trunk/org.springframework.context/src/main/java/org/springframework/validation/BindException.java
+END
+FieldError.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/validation/FieldError.java
+END
+DataBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3163/trunk/org.springframework.context/src/main/java/org/springframework/validation/DataBinder.java
+END
+AbstractBindingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3134/trunk/org.springframework.context/src/main/java/org/springframework/validation/AbstractBindingResult.java
+END

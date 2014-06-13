@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/2457/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml
+END
+spring-beans-2.0.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/172/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-beans-2.0.dtd
+END
+spring-util.gif
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1252/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-util.gif
+END
+spring-beans-2.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1003/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-beans-2.0.xsd
+END
+spring-beans.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/172/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-beans.dtd
+END
+spring-beans-3.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2457/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-beans-3.0.xsd
+END
+spring-beans-2.5.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1003/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-beans-2.5.xsd
+END
+spring-tool-2.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/172/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-tool-2.0.xsd
+END
+spring-util-2.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1589/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-util-2.0.xsd
+END
+spring-tool-3.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2348/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-tool-3.0.xsd
+END
+spring-util-3.0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1589/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-util-3.0.xsd
+END
+spring-beans.gif
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/1252/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-beans.gif
+END
+spring-tool-2.5.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/172/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-tool-2.5.xsd
+END
+spring-util-2.5.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/1589/trunk/org.springframework.beans/src/main/resources/org/springframework/beans/factory/xml/spring-util-2.5.xsd
+END

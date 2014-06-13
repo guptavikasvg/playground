@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/core/enums
+END
+LabeledEnumTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/core/enums/LabeledEnumTests.java
+END
+StandAloneStaticLabeledEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/178/trunk/org.springframework.core/src/test/java/org/springframework/core/enums/StandAloneStaticLabeledEnum.java
+END

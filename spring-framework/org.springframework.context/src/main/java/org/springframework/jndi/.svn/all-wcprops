@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/spring-framework/!svn/ver/3327/trunk/org.springframework.context/src/main/java/org/springframework/jndi
+END
+JndiObjectLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/3327/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiObjectLocator.java
+END
+JndiTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/1928/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiTemplate.java
+END
+TypeMismatchNamingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jndi/TypeMismatchNamingException.java
+END
+JndiCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/464/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiCallback.java
+END
+JndiLocatorDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-framework/!svn/ver/2953/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiLocatorDelegate.java
+END
+JndiObjectTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/3327/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiObjectTargetSource.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context/src/main/java/org/springframework/jndi/package-info.java
+END
+JndiLocatorSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/2780/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiLocatorSupport.java
+END
+JndiLookupFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiLookupFailureException.java
+END
+JndiAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/118/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiAccessor.java
+END
+JndiTemplateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/153/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiTemplateEditor.java
+END
+JndiObjectFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-framework/!svn/ver/2882/trunk/org.springframework.context/src/main/java/org/springframework/jndi/JndiObjectFactoryBean.java
+END

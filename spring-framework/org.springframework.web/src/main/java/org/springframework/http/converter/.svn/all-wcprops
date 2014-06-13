@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-framework/!svn/ver/3582/trunk/org.springframework.web/src/main/java/org/springframework/http/converter
+END
+ByteArrayHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/2991/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/ByteArrayHttpMessageConverter.java
+END
+AbstractHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/3093/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/AbstractHttpMessageConverter.java
+END
+FormHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/3396/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/FormHttpMessageConverter.java
+END
+BufferedImageHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/2991/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/BufferedImageHttpMessageConverter.java
+END
+StringHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3076/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/StringHttpMessageConverter.java
+END
+HttpMessageNotReadableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/857/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/HttpMessageNotReadableException.java
+END
+ResourceHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/3582/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/ResourceHttpMessageConverter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/3081/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/package-info.java
+END
+HttpMessageConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/857/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/HttpMessageConversionException.java
+END
+HttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3582/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/HttpMessageConverter.java
+END
+HttpMessageNotWritableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/857/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/HttpMessageNotWritableException.java
+END

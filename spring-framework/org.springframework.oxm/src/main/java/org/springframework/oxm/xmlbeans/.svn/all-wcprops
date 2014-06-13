@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/3172/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/xmlbeans
+END
+XmlBeansMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/3172/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/xmlbeans/XmlBeansMarshaller.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/xmlbeans/package-info.java
+END
+XmlOptionsFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/685/trunk/org.springframework.oxm/src/main/java/org/springframework/oxm/xmlbeans/XmlOptionsFactoryBean.java
+END

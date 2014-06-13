@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/spring-framework/!svn/ver/2811/trunk/org.springframework.jms/src/main/java/org/springframework/jms/config
+END
+JmsListenerContainerParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2811/trunk/org.springframework.jms/src/main/java/org/springframework/jms/config/JmsListenerContainerParser.java
+END
+JcaListenerContainerParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2811/trunk/org.springframework.jms/src/main/java/org/springframework/jms/config/JcaListenerContainerParser.java
+END
+JmsNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/166/trunk/org.springframework.jms/src/main/java/org/springframework/jms/config/JmsNamespaceHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.jms/src/main/java/org/springframework/jms/config/package-info.java
+END
+AbstractListenerContainerParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/2811/trunk/org.springframework.jms/src/main/java/org/springframework/jms/config/AbstractListenerContainerParser.java
+END

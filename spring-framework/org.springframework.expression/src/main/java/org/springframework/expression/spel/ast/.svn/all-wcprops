@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-framework/!svn/ver/3542/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast
+END
+OpLE.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpLE.java
+END
+RealLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/RealLiteral.java
+END
+OpNE.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpNE.java
+END
+OpDivide.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpDivide.java
+END
+OpEQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpEQ.java
+END
+CompoundExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/CompoundExpression.java
+END
+VariableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/VariableReference.java
+END
+OperatorBetween.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1355/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OperatorBetween.java
+END
+OperatorInstanceof.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/2664/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OperatorInstanceof.java
+END
+IntLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3471/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/IntLiteral.java
+END
+AstUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3080/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/AstUtils.java
+END
+OperatorPower.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OperatorPower.java
+END
+PropertyOrFieldReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/3108/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/PropertyOrFieldReference.java
+END
+OperatorNot.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2684/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OperatorNot.java
+END
+OpOr.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/2684/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpOr.java
+END
+OpPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpPlus.java
+END
+Elvis.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3349/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/Elvis.java
+END
+Identifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/Identifier.java
+END
+BeanReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/3313/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/BeanReference.java
+END
+Selection.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/3461/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/Selection.java
+END
+OpModulus.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpModulus.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/Operator.java
+END
+SpelNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/2964/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/SpelNodeImpl.java
+END
+BooleanLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/3470/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/BooleanLiteral.java
+END
+Literal.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2664/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/Literal.java
+END
+MethodReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/3314/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/MethodReference.java
+END
+OperatorMatches.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1355/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OperatorMatches.java
+END
+TypeReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/TypeReference.java
+END
+OpAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/2684/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpAnd.java
+END
+ConstructorReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/3473/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/ConstructorReference.java
+END
+FunctionReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3542/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/FunctionReference.java
+END
+QualifiedIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/QualifiedIdentifier.java
+END
+OpGT.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpGT.java
+END
+InlineList.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/3473/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/InlineList.java
+END
+LongLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/LongLiteral.java
+END
+Projection.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2684/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/Projection.java
+END
+TypeCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/3473/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/TypeCode.java
+END
+OpMultiply.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpMultiply.java
+END
+OpLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpLT.java
+END
+StringLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/StringLiteral.java
+END
+Assign.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/Assign.java
+END
+Ternary.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2221/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/Ternary.java
+END
+NullLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/2684/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/NullLiteral.java
+END
+FormatHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/946/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/FormatHelper.java
+END
+OpMinus.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/2681/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpMinus.java
+END
+OpGE.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1260/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/OpGE.java
+END
+Indexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/3454/trunk/org.springframework.expression/src/main/java/org/springframework/expression/spel/ast/Indexer.java
+END

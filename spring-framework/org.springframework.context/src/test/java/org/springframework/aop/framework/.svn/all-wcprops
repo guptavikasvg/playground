@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-framework/!svn/ver/2880/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework
+END
+ProxyFactoryBeanTests-inner-bean-target.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-inner-bean-target.xml
+END
+ProxyFactoryBeanTests-frozen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-frozen.xml
+END
+JdkDynamicProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/JdkDynamicProxyTests.java
+END
+_TestTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/_TestTypes.java
+END
+ProxyFactoryBeanTests-prototype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-prototype.xml
+END
+CglibProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/CglibProxyTests.java
+END
+ProxyFactoryBeanTests-targetsource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-targetsource.xml
+END
+ProxyFactoryBeanTests-serialization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-serialization.xml
+END
+ProxyFactoryBeanTests-throws-advice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-throws-advice.xml
+END
+ProxyFactoryBeanTests-double-targetsource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-double-targetsource.xml
+END
+ProxyFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests.java
+END
+CglibProxyTests-with-dependency-checking.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/CglibProxyTests-with-dependency-checking.xml
+END
+ProxyFactoryBeanTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-context.xml
+END
+ProxyFactoryBeanTests-invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-invalid.xml
+END
+ProxyFactoryBeanTests-autowiring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-autowiring.xml
+END
+ProxyFactoryBeanTests-notlast-targetsource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests-notlast-targetsource.xml
+END
+AbstractAopProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/484/trunk/org.springframework.context/src/test/java/org/springframework/aop/framework/AbstractAopProxyTests.java
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/spring-framework/!svn/ver/3602/trunk/spring-framework-reference/src
+END
+mail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-framework/!svn/ver/3536/trunk/spring-framework-reference/src/mail.xml
+END
+spring.tld.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/2970/trunk/spring-framework-reference/src/spring.tld.xml
+END
+transaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-framework/!svn/ver/3544/trunk/spring-framework-reference/src/transaction.xml
+END
+spring-form.tld.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/spring-framework/!svn/ver/2617/trunk/spring-framework-reference/src/spring-form.tld.xml
+END
+aop-api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-framework/!svn/ver/2849/trunk/spring-framework-reference/src/aop-api.xml
+END
+beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-framework/!svn/ver/3602/trunk/spring-framework-reference/src/beans.xml
+END
+jms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/3558/trunk/spring-framework-reference/src/jms.xml
+END
+jmx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/3536/trunk/spring-framework-reference/src/jmx.xml
+END
+ejb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/3536/trunk/spring-framework-reference/src/ejb.xml
+END
+preface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-framework/!svn/ver/2617/trunk/spring-framework-reference/src/preface.xml
+END
+swf-sidebar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-framework/!svn/ver/2617/trunk/spring-framework-reference/src/swf-sidebar.xml
+END
+xml-custom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/2867/trunk/spring-framework-reference/src/xml-custom.xml
+END
+resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/spring-framework/!svn/ver/2813/trunk/spring-framework-reference/src/resources.xml
+END
+dtd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/3532/trunk/spring-framework-reference/src/dtd.xml
+END
+classic-spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/spring-framework/!svn/ver/3558/trunk/spring-framework-reference/src/classic-spring.xml
+END
+expressions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-framework/!svn/ver/3558/trunk/spring-framework-reference/src/expressions.xml
+END
+remoting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-framework/!svn/ver/3561/trunk/spring-framework-reference/src/remoting.xml
+END
+scheduling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/3536/trunk/spring-framework-reference/src/scheduling.xml
+END
+mvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/3536/trunk/spring-framework-reference/src/mvc.xml
+END
+dynamic-languages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/3536/trunk/spring-framework-reference/src/dynamic-languages.xml
+END
+spring-framework-reference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-framework/!svn/ver/3559/trunk/spring-framework-reference/src/spring-framework-reference.xml
+END
+portlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-framework/!svn/ver/2617/trunk/spring-framework-reference/src/portlet.xml
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/spring-framework/!svn/ver/3558/trunk/spring-framework-reference/src/validation.xml
+END
+new-in-2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-framework/!svn/ver/3559/trunk/spring-framework-reference/src/new-in-2.xml
+END
+orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/3538/trunk/spring-framework-reference/src/orm.xml
+END
+new-in-3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-framework/!svn/ver/3312/trunk/spring-framework-reference/src/new-in-3.xml
+END
+cci.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/2617/trunk/spring-framework-reference/src/cci.xml
+END
+classic-aop-spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-framework/!svn/ver/2617/trunk/spring-framework-reference/src/classic-aop-spring.xml
+END
+web-integration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/spring-framework/!svn/ver/3539/trunk/spring-framework-reference/src/web-integration.xml
+END
+jdbc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-framework/!svn/ver/3558/trunk/spring-framework-reference/src/jdbc.xml
+END
+oxm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/3558/trunk/spring-framework-reference/src/oxm.xml
+END
+dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/3558/trunk/spring-framework-reference/src/dao.xml
+END
+xsd-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-framework/!svn/ver/3559/trunk/spring-framework-reference/src/xsd-configuration.xml
+END
+overview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-framework/!svn/ver/3463/trunk/spring-framework-reference/src/overview.xml
+END
+view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-framework/!svn/ver/3537/trunk/spring-framework-reference/src/view.xml
+END
+testing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-framework/!svn/ver/3312/trunk/spring-framework-reference/src/testing.xml
+END
+aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/spring-framework/!svn/ver/3539/trunk/spring-framework-reference/src/aop.xml
+END

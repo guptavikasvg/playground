@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-framework/!svn/ver/753/trunk/org.springframework.core/src/test/java/org/springframework/beans/factory/annotation
+END
+Qualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/753/trunk/org.springframework.core/src/test/java/org/springframework/beans/factory/annotation/Qualifier.java
+END
+Autowired.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/753/trunk/org.springframework.core/src/test/java/org/springframework/beans/factory/annotation/Autowired.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-framework/!svn/ver/3101/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation
+END
+ExpectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1747/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/ExpectedException.java
+END
+Repeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-framework/!svn/ver/1747/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/Repeat.java
+END
+Timed.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/1747/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/Timed.java
+END
+NotTransactional.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-framework/!svn/ver/1769/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/NotTransactional.java
+END
+SystemProfileValueSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/134/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/SystemProfileValueSource.java
+END
+AbstractAnnotationAwareTransactionalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/652/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/AbstractAnnotationAwareTransactionalTests.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/package-info.java
+END
+ProfileValueSourceConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-framework/!svn/ver/1747/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/ProfileValueSourceConfiguration.java
+END
+DirtiesContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/3101/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/DirtiesContext.java
+END
+Rollback.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/1747/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/Rollback.java
+END
+IfProfileValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/1747/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/IfProfileValue.java
+END
+ProfileValueSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/134/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/ProfileValueSource.java
+END
+ProfileValueUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-framework/!svn/ver/1507/trunk/org.springframework.test/src/main/java/org/springframework/test/annotation/ProfileValueUtils.java
+END

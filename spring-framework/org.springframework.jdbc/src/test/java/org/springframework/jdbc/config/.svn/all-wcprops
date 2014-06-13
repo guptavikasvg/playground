@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-framework/!svn/ver/2808/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/config
+END
+JdbcNamespaceIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/2808/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/config/JdbcNamespaceIntegrationTest.java
+END
+InitializeDatabaseIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/2229/trunk/org.springframework.jdbc/src/test/java/org/springframework/jdbc/config/InitializeDatabaseIntegrationTest.java
+END

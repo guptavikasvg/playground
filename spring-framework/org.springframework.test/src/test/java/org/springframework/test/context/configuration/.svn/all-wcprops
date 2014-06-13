@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-framework/!svn/ver/1561/trunk/org.springframework.test/src/test/java/org/springframework/test/context/configuration
+END
+ContextConfigurationWithPropertiesExtendingPropertiesAndInheritedLoaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/spring-framework/!svn/ver/1561/trunk/org.springframework.test/src/test/java/org/springframework/test/context/configuration/ContextConfigurationWithPropertiesExtendingPropertiesAndInheritedLoaderTests.java
+END
+ContextConfigurationWithPropertiesExtendingPropertiesTests-context.properties
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/spring-framework/!svn/ver/1561/trunk/org.springframework.test/src/test/java/org/springframework/test/context/configuration/ContextConfigurationWithPropertiesExtendingPropertiesTests-context.properties
+END
+ContextConfigurationWithPropertiesExtendingPropertiesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/spring-framework/!svn/ver/1561/trunk/org.springframework.test/src/test/java/org/springframework/test/context/configuration/ContextConfigurationWithPropertiesExtendingPropertiesTests.java
+END
+ContextConfigurationWithPropertiesExtendingPropertiesAndInheritedLoaderTests-context.properties
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/spring-framework/!svn/ver/1561/trunk/org.springframework.test/src/test/java/org/springframework/test/context/configuration/ContextConfigurationWithPropertiesExtendingPropertiesAndInheritedLoaderTests-context.properties
+END

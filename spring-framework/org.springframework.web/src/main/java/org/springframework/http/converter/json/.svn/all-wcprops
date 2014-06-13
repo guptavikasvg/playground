@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-framework/!svn/ver/3563/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/json
+END
+MappingJacksonHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/3563/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/json/MappingJacksonHttpMessageConverter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-framework/!svn/ver/3081/trunk/org.springframework.web/src/main/java/org/springframework/http/converter/json/package-info.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-framework/!svn/ver/2609/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/access
+END
+BeanFactoryLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/access/BeanFactoryLocator.java
+END
+SingletonBeanFactoryLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-framework/!svn/ver/2609/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/access/SingletonBeanFactoryLocator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/access/package-info.java
+END
+BeanFactoryReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/access/BeanFactoryReference.java
+END
+BootstrapException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/111/trunk/org.springframework.beans/src/main/java/org/springframework/beans/factory/access/BootstrapException.java
+END

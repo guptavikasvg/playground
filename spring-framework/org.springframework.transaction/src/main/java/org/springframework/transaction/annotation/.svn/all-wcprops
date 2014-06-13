@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-framework/!svn/ver/3566/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/annotation
+END
+SpringTransactionAnnotationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/spring-framework/!svn/ver/1134/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/annotation/SpringTransactionAnnotationParser.java
+END
+Ejb3TransactionAnnotationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-framework/!svn/ver/1134/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/annotation/Ejb3TransactionAnnotationParser.java
+END
+Isolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/1135/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/annotation/Isolation.java
+END
+Transactional.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3165/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/annotation/Transactional.java
+END
+Propagation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-framework/!svn/ver/1135/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/annotation/Propagation.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/annotation/package-info.java
+END
+AnnotationTransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/3566/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/annotation/AnnotationTransactionAttributeSource.java
+END
+TransactionAnnotationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/121/trunk/org.springframework.transaction/src/main/java/org/springframework/transaction/annotation/TransactionAnnotationParser.java
+END

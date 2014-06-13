@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-framework/!svn/ver/3594/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail
+END
+MimeMailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/MimeMailMessage.java
+END
+SmartMimeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/SmartMimeMessage.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/spring-framework/!svn/ver/1281/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/package-info.java
+END
+InternetAddressEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/158/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/InternetAddressEditor.java
+END
+JavaMailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/JavaMailSender.java
+END
+JavaMailSenderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-framework/!svn/ver/3408/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/JavaMailSenderImpl.java
+END
+ConfigurableMimeFileTypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-framework/!svn/ver/3594/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/ConfigurableMimeFileTypeMap.java
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-framework/!svn/ver/3500/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/mime.types
+END
+MimeMessageHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-framework/!svn/ver/2803/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/MimeMessageHelper.java
+END
+MimeMessagePreparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-framework/!svn/ver/132/trunk/org.springframework.context.support/src/main/java/org/springframework/mail/javamail/MimeMessagePreparator.java
+END

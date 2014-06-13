@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-framework/!svn/ver/3598/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config
+END
+mvc-config-bean-decoration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/2542/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config-bean-decoration.xml
+END
+mvc-config-resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-framework/!svn/ver/3516/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config-resources.xml
+END
+mvc-config-custom-conversion-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-framework/!svn/ver/2474/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config-custom-conversion-service.xml
+END
+mvc-config-custom-validator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/2331/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config-custom-validator.xml
+END
+mvc-config-view-controllers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-framework/!svn/ver/3205/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config-view-controllers.xml
+END
+mvc-config-interceptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-framework/!svn/ver/2551/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config-interceptors.xml
+END
+mvc-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-framework/!svn/ver/2510/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config.xml
+END
+mvc-config-default-servlet-optional-attrs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-framework/!svn/ver/3516/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config-default-servlet-optional-attrs.xml
+END
+mvc-config-default-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-framework/!svn/ver/3516/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config-default-servlet.xml
+END
+mvc-config-resources-optional-attrs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-framework/!svn/ver/3598/trunk/org.springframework.web.servlet/src/test/resources/org/springframework/web/servlet/config/mvc-config-resources-optional-attrs.xml
+END
