@@ -1,11 +1,12 @@
+package enumsingleton2;
 /**
 * Singleton pattern example using Java Enum
 */
-enum EasySingleton{
+enum EasySingleton3 {
     INSTANCE;
     
     static int i = 0;
-    private EasySingleton() {
+    EasySingleton3() {
         System.out.println("enum singleton created");
 	}
 
@@ -15,7 +16,7 @@ enum EasySingleton{
 		
 	}
 }
-public class EnumSingletonTest {
+public class EnumSingleton3Test {
     static {
         System.out.println("static initializer in EnumSingletonTest");
     }
@@ -25,9 +26,8 @@ public class EnumSingletonTest {
 	 */
 	public static void main(String[] args) {
         System.out.println("main started");
-        EasySingleton.INSTANCE.go(); //EasySingleton created before calling go on it.
-        EasySingleton.INSTANCE.go(); //EasySingleton not constructed again.
+        EasySingleton3.INSTANCE.go(); //EasySingleton created before calling go on it.
+        EasySingleton3.INSTANCE.go(); //EasySingleton not constructed again.
 
 	}
-
 }

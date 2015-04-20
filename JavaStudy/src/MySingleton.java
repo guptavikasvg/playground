@@ -9,7 +9,7 @@ public class MySingleton {
     	if (instance != null)
     		return instance; 	
     	
-    	synchronized(MySingleton.class){
+    	synchronized(MySingleton.class){ //Should we prefer to use an internal private lock object?
     		if (instance == null)
     			instance = new MySingleton();    		
     	}

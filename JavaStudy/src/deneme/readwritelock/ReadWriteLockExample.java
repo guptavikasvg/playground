@@ -1,118 +1,83 @@
 package deneme.readwritelock;
 
-import java.util.HashMap;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 public class ReadWriteLockExample {
 
-    class Writer extends Thread{
-        private boolean runForestRun = true;
+    public static void sleep(long seconds) {
+        try {
+            Thread.sleep(1000 * seconds);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    class Writer extends Thread {
         private Dictionary dictionary = null;
 
         public Writer(Dictionary d, String threadName) {
             this.dictionary = d;
             this.setName(threadName);
         }
+
         @Override
         public void run() {
-            while (this.runForestRun) {
-                String [] keys = dictionary.getKeys();
-                for (String key : keys) {
-                    String newValue = getNewValueFromDatastore(key);
-                    //updating dictionary with WRITE LOCK
-                    dictionary.set(key, newValue);
-                }
+            while (true) {
+                //updating dictionary with WRITE LOCK
+                dictionary.set("time = " + System.currentTimeMillis());
 
                 //update every seconds
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
+                ReadWriteLockExample.sleep(2);
             }
-        }
-        public void stopWriter(){
-            this.runForestRun = false;
-            this.interrupt();
-        }
-        public String getNewValueFromDatastore(String key){
-            //This part is not implemented. Out of scope of this artile
-            return "newValue";
         }
     }
 
-
-    class Reader extends Thread{
+    class Reader extends Thread {
 
         private Dictionary dictionary = null;
+
         public Reader(Dictionary d, String threadName) {
             this.dictionary = d;
             this.setName(threadName);
         }
 
-        private boolean runForestRun = true;
         @Override
         public void run() {
-            while (runForestRun) {
-                String [] keys = dictionary.getKeys();
-                for (String key : keys) {
-                    //reading from dictionary with READ LOCK
-                    String value = dictionary.get(key);
-
-                    //make what ever you want with the value.
-                    System.out.println(key + " : " + value);
-                }
+            while (true) {
+                //reading from dictionary with READ LOCK
+                System.out.println("thread = " + getName() + ": value = " + dictionary.get());
 
                 //update every seconds
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
+                ReadWriteLockExample.sleep(1);
             }
-        }
-
-        public void stopReader(){
-            this.runForestRun = false;
-            this.interrupt();
         }
     }
 
     class Dictionary {
 
-        private final ReentrantReadWriteLock readWriteLock =
-                new ReentrantReadWriteLock();
+        private final ReentrantReadWriteLock readWriteLock = new ReentrantReadWriteLock();
 
-        private final Lock read  = readWriteLock.readLock();
+        private final Lock read = readWriteLock.readLock();
 
         private final Lock write = readWriteLock.writeLock();
 
-        private HashMap<String, String> dictionary = new HashMap<String, String>();
+        private Object dictionary = null;
 
-        public void set(String key, String value) {
+        public void set(Object value) {
             write.lock();
             try {
-                dictionary.put(key, value);
+                System.out.println("setting value = " + value);
+                dictionary = value;
             } finally {
                 write.unlock();
             }
         }
 
-        public String get(String key) {
+        public Object get() {
             read.lock();
-            try{
-                return dictionary.get(key);
-            } finally {
-                read.unlock();
-            }
-        }
-
-        public String[] getKeys(){
-            read.lock();
-            try{
-                String keys[] = new String[dictionary.size()];
-                return dictionary.keySet().toArray(keys);
+            try {
+                return dictionary;
             } finally {
                 read.unlock();
             }
@@ -121,19 +86,11 @@ public class ReadWriteLockExample {
 
     public static void main(String[] args) {
         Dictionary dictionary = new ReadWriteLockExample().new Dictionary();
-        dictionary.set("java",  "object oriented");
-        dictionary.set("linux", "rulez");
-        Writer writer  = new ReadWriteLockExample().new Writer(dictionary, "Mr. Writer");
-        Reader reader1 = new ReadWriteLockExample().new Reader(dictionary ,"Mrs Reader 1");
-        Reader reader2 = new ReadWriteLockExample().new Reader(dictionary ,"Mrs Reader 2");
-        Reader reader3 = new ReadWriteLockExample().new Reader(dictionary ,"Mrs Reader 3");
-        Reader reader4 = new ReadWriteLockExample().new Reader(dictionary ,"Mrs Reader 4");
-        Reader reader5 = new ReadWriteLockExample().new Reader(dictionary ,"Mrs Reader 5");
+        Writer writer = new ReadWriteLockExample().new Writer(dictionary, "Writer thread");
         writer.start();
-        reader1.start();
-        reader2.start();
-        reader3.start();
-        reader4.start();
-        reader5.start();
+
+        for (int i = 0; i < 5; i++) {
+            new ReadWriteLockExample().new Reader(dictionary, "Reader thread " + i).start();
+        }
     }
 }

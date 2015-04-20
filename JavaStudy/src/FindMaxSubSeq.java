@@ -2,6 +2,22 @@ import java.util.Vector;
 
 public class FindMaxSubSeq {
 
+	// http://www.careercup.com/question?id=14960045
+	// Given unsorted array (contains -ve numbers also), write a method to return max sum. Condition is two numbers should not adjacent to each other.
+    static int getMaxSubSeqNonAdjacent(int[] array) {
+        int sumTillBoundary   = array[1];
+        int sumBeforeBoundary = array[0];
+
+        for (int i = 2; i < array.length; i++){
+            int sumBeforeBoundary2 = sumBeforeBoundary;
+            
+            sumBeforeBoundary = Math.max(sumTillBoundary, sumBeforeBoundary);
+            sumTillBoundary   = Math.max(sumBeforeBoundary2 + array[i], array[i]); 
+        }
+        
+        return Math.max(sumTillBoundary, sumBeforeBoundary);
+    }
+    
     static int getMaxSubSeq2(int[] array) {
         int sumTillBoundary   = array[0];
         int sumBeforeBoundary = array[0];

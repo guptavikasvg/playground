@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../commons-collections-3.2.1-src/src/commons-collections-3.2.1-src.iml" filepath="$PROJECT_DIR$/../commons-collections-3.2.1-src/src/commons-collections-3.2.1-src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../commons-collections4-4.0-src/src/main/main.iml" filepath="$PROJECT_DIR$/../commons-collections4-4.0-src/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../commons-collections4-4.0-src/src/test/test.iml" filepath="$PROJECT_DIR$/../commons-collections4-4.0-src/src/test/test.iml" />
     </modules>
   </component>
 </project>
-
