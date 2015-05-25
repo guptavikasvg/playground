@@ -1,6 +1,6 @@
+import java.io.InputStream;
+import java.io.PrintStream;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Created by vgupta on 5/24/15.
@@ -8,25 +8,27 @@ import java.util.regex.Pattern;
 public class SalesTaxCalculator {
 
     float roundUp(float amount) {
-        return amount;
-    }
+        int amountAsInt = (int)amount;
 
-    boolean isExemptFromBasicSalesTax(String[] input) {
-        String exemptProducts[] = {
-                "chocolate bar",
-                "chocolates",
-                "book",
-                "headache pills"
-        };
+        float amountTimes100 = amount * 100;
+        int amountTimes100AsInt = (int) amountTimes100;
 
-        String inputStr = Arrays.toString(input);
+        int twoDigitFractionAsInt = amountTimes100AsInt % 100;
 
-        for (String product : exemptProducts) {
-            if (inputStr.equalsIgnoreCase(product))
-                return true;
+        int secondFranctionalDigit = twoDigitFractionAsInt % 10;
+
+        int firstFractionalDigit = ((int)(amount * 10)) % 10;
+
+        float i;
+        if (secondFranctionalDigit < 2) {
+            //drop secondFranctionalDigit
+             i = amountAsInt + (float)firstFractionalDigit / 10f;
+        } else if (secondFranctionalDigit >=2 && secondFranctionalDigit <= 7) {
+            i = amountAsInt + (float)firstFractionalDigit/10f + .05f;
+        } else {
+            i = amountAsInt + (float)firstFractionalDigit/10f + .1f;
         }
-
-        return false;
+        return i;
     }
 
     boolean isExemptFromBasicSalesTax(List<String> input, int start, int end) {
@@ -35,7 +37,8 @@ public class SalesTaxCalculator {
                 "chocolate bar",
                 "chocolates",
                 "book",
-                "headache pills"
+                "headache pills",
+                "apple"
         };
 
         StringBuilder sb = new StringBuilder();
@@ -57,37 +60,30 @@ public class SalesTaxCalculator {
         return false;
     }
 
-    void algo() {
-        Scanner scanner = new Scanner(System.in);
+    /**
+     * StringBufferInputStream
+     * ByteArrayOutputStream
+     */
+    void algo(InputStream in, PrintStream out) {
+        Scanner scanner = new Scanner(in);
         float totalTax = 0;
         float total    = 0;
         while (scanner.hasNextLine()) {
             String line = scanner.nextLine();
             Ret ret = processLine(line);
 
-            System.out.println(ret.description);
+            out.append(ret.description);
+            out.append('\n');
             totalTax += ret.tax;
             total    += ret.amount;
         }
-        System.out.println("Total tax: " + totalTax);
-        System.out.println("Total : " + total);
-    }
-
-    public void processLine0(String line) {
-        if (line != null) {
-            String pattern = "(\\s*)(\\d+)(.*?)(\\d*.\\d*)(.*)";
-
-            Pattern r = Pattern.compile(pattern);
-
-            Matcher m = r.matcher(line);
-            if (m.find()) {
-                System.out.println(m.group(0));
-                System.out.println(m.group(1));
-                System.out.println(m.group(2));
-                String amount = m.group(3);
-                System.out.println(amount);
-            }
-        }
+        out.append("Sales taxes: ");
+        out.append(String.format("%.02f", totalTax));
+//        System.out.printf("%.2f", val);
+        out.append('\n');
+        out.append("Total: ");
+        out.append(String.format("%.02f", total));
+        out.append('\n');
     }
 
     public Ret processLine(String line) {
@@ -100,30 +96,6 @@ public class SalesTaxCalculator {
             list.add(token);
         }
 
-        /*
-        StringBuilder sb = new StringBuilder(line.length() + 1);
-        while (st.hasMoreTokens()) {
-            String token = st.nextToken();
-            if (st.hasMoreTokens()) {
-                //this is not the last token.
-                sb.append(' ');
-                sb.append(token);
-            } else {
-                //this is the last one.
-
-                //convert to float
-                try {
-                    Float aFloat = Float.valueOf(token);
-
-                } catch (NumberFormatException e) {
-                    throw new IllegalArgumentException(e);
-                }
-            }
-        }*/
-
-        Float price = getPrice(list);
-
-
         //itemstart, itemend, description, IsImported
         return getDescription(list);
     }
@@ -132,21 +104,27 @@ public class SalesTaxCalculator {
         float tax;
         float amount;
         String description;
+
+        public Ret(float tax, float amount, String description) {
+            this.tax = tax;
+            this.amount = amount;
+            this.description = description;
+        }
     }
 
     private Ret getDescription(List<String> list) {
         int n = list.size();
         assert list != null && n >= 4;
 
-        // 0 - amount
+        // 0 - count
         // n-1 - price
         //
 
         int i = indexOf(list, "of");
 
-        int amount;
+        int count;
         try {
-            amount = Integer.valueOf(list.get(0));
+            count = Integer.valueOf(list.get(0));
         } catch (NumberFormatException e) {
             throw new IllegalArgumentException(e);
         }
@@ -155,7 +133,7 @@ public class SalesTaxCalculator {
         int itemEnd;
         int containerIndex;
 
-        boolean isImported = false;
+        boolean isImported;
         if (i != -1) {
             //of is present
             String s = list.get(i + 1);
@@ -207,20 +185,22 @@ public class SalesTaxCalculator {
         }
 
         if (!isExemptFromBasicSalesTax(list, itemStart, itemEnd)) {
-            tax += tax * .1;
+            tax += price * .1;
         }
 
         tax = roundUp(tax);
 
         float priceWithTax = price + tax;
 
-        String description = amount + (isImported ? "imported" : "") + ' ' + (containerIndex != -1 ? list.get(containerIndex) + " of" : "") +
-                toString(list, itemStart, itemEnd) + ": " + priceWithTax;
+        String description = count + (isImported ? " imported" : "") + ' ' + (containerIndex != -1 ? list.get(containerIndex) + " of " : "") +
+                toString(list, itemStart, itemEnd) + ": " + String.format("%.02f", priceWithTax);
+
+        return new Ret(tax, priceWithTax, description);
     }
 
-    private int indexOf(List<String> list) {
+    private int indexOf(List<String> list, String str) {
         for (int i = 1; i <= list.size() - 3; i++) {
-            if (list.get(i).equalsIgnoreCase("of")) return i;
+            if (list.get(i).equalsIgnoreCase(str)) return i;
         }
         return -1;
     }
@@ -229,9 +209,12 @@ public class SalesTaxCalculator {
         assert start >= 0 && start <= list.size();
         assert end >= 0 && end <= list.size();
 
+        StringBuilder sb = new StringBuilder();
         for (int i = start; i <= end; i++) {
-            list.get(i);
+            sb.append(list.get(i));
+            sb.append(' '); //TODO
         }
+        return sb.toString();
     }
 
     private Float getPrice(List<String> list) {
@@ -246,14 +229,4 @@ public class SalesTaxCalculator {
             throw new IllegalArgumentException(e);
         }
     }
-
-    private boolean isItemImported(List<String> list) {
-        assert list != null && list.size() >=4;
-
-        for (String str : list) {
-            if (str.equalsIgnoreCase("imported")) return true;
-        }
-        return false;
-    }
-
 }
