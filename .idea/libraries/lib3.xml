@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/lib/jetty-6.1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/lib/servlet-api-2.5-20081211.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/lib/jetty-util-6.1.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

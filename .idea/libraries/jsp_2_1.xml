@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jsp-2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/lib/jsp-2.1/jsp-2.1-glassfish-9.1.1.B51.25.p1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/lib/jsp-2.1/core-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/lib/jsp-2.1/jsp-2.1-jetty-6.1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/lib/jsp-2.1/ant-1.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/lib/jsp-2.1/jsp-api-2.1-glassfish-9.1.1.B51.25.p1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

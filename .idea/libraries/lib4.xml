@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/xml-apis-1.0.b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/slf4j-api-1.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/antlr-2.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/hibernate-core-3.3.1.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/javassist-3.8.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/h2-1.1.116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/jta-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/log4j-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/webapps/events/WEB-INF/lib/slf4j-log4j12-1.5.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

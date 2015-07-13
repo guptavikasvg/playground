@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="h2-1.1.116">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/hibernate/src/main/webapp/WEB-INF/lib/h2-1.1.116.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

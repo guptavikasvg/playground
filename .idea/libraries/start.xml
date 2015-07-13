@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="start">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/start.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

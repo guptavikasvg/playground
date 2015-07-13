@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/colorcache/webapps/colorcache/WEB-INF/lib/slf4j-jdk14-1.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/samples/colorcache/webapps/colorcache/WEB-INF/lib/slf4j-api-1.5.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
