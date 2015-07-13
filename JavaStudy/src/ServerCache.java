@@ -1,13 +1,16 @@
+import java.util.HashMap;
+
+/**
 public abstract class ServerCache {
 
-    private ServerCache _impl;
+    private static ServerCache _impl;
 
     public static ServerCache getInstance() {
         if (_impl != null) {
             return _impl;
         }
 
-        synchronized(ServerCache.getClass()) {
+        synchronized(ServerCache.class) {
             if ( _impl == null) {
                 _impl = new ServerCacheImpl();
             }            
@@ -19,10 +22,7 @@ public abstract class ServerCache {
     public Object put(Object key, Object value);
 }
 
-/**
- * eviction policy: 
- *
- */
+//eviction policy:
 class ServerCacheImpl extends ServerCache{
     
     HashMap map;
@@ -41,7 +41,7 @@ class ServerCacheImpl extends ServerCache{
         return map.put(key, value);
     }
 }
-
+*/
 
 
 

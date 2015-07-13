@@ -2,10 +2,10 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.Vector;
 
+/*
 public class FindLCA {
     class Node {
-    ...
-    
+
     void fillSet(Node node, Set node1ToRootNodes) {
        //TODO check for nulls etc.
        Node p = node;
@@ -85,11 +85,9 @@ public class FindLCA {
     
     }
 }
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
 }
+*/

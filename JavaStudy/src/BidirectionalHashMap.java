@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Set;
 
 //Assumes nulls are not inserted in the map
-public class  BidirectionalHashMap<K,V> implements Map<K,V> {
+public abstract class  BidirectionalHashMap<K,V> implements Map<K,V> {
 
     Map<K,V> k2v = new HashMap<K,V>();
     Map<V,K> v2k = new HashMap<V,K>();
@@ -59,8 +59,7 @@ public class  BidirectionalHashMap<K,V> implements Map<K,V> {
         return false;
     }
 
-    @Override
-    public V remove(K key) {
+    public V remove(Object key) {
         V value = get(key);
         k2v.remove(key);
         if (value != null) {

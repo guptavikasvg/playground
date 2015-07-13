@@ -6,16 +6,11 @@ public class ModuloTest {
 		System.out.println(-13%10);
 		System.out.println(-10%10);
 		System.out.println(0%10);
-        
-		modulo
 	}
     
 	int modulo(int n, int p) {
 		if (n > 0) return n%p;
 		
 		return p - ((-n) % p);
-		
-		System.out
-		
 	}
 }

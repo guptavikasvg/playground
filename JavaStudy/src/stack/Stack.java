@@ -21,8 +21,9 @@ public class Stack<E> {
     }
 
     void reverseInplace() {
-        if (stac)
+        //TODO
     }
+
     @Test
     public void test1() throws Exception {
         Stack<Integer> s = new Stack<>();

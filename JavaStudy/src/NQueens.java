@@ -20,6 +20,17 @@ public class NQueens {
 			updateBoard(b2, pos);
 			if (placeQueen(b2, row + 1, numQ - 1)) return true;
 		} while (next(pos) != null);
+
+		//TODO
+	}
+
+	private static Object next(Pair pos) {
+		//TODO
+		return null;
+	}
+
+	private static void updateBoard(Board b2, Pair pos) {
+		//TODO
 	}
 
 	private static Pair findPosition(Board b, int row) {
