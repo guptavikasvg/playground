@@ -13,10 +13,10 @@ public class FindMaxSubSeqInMatrix {
         
         for (int i = 1; i < rows; i++) {
             for (int j = 1; j < columns; j++) {
-            	maxSum[i][j] = 
+//            	maxSum[i][j] =
             			
                         
-            			ABORTED
+//            			ABORTED
             			
             			
             }

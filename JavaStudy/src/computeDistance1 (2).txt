@@ -1,3 +1,0 @@
-apple,S,0.5
-apple2,H,0.5
-apple2,H,1.5

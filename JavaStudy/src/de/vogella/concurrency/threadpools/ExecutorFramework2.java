@@ -9,22 +9,22 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
-class MyRunnable2 implements Runnable {
-  private final double countUntil;
-
-  MyRunnable2(double countUntil) {
-    this.countUntil = countUntil;
-  }
-
-  @Override
-  public void run() {
-    double sum = 0;
-    for (double i = 1; i < countUntil; i++) {
-      sum += i;
-    }
-    System.out.println(sum);
-  }
-} 
+//class MyRunnable2 implements Runnable {
+//  private final double countUntil;
+//
+//  MyRunnable2(double countUntil) {
+//    this.countUntil = countUntil;
+//  }
+//
+//  @Override
+//  public void run() {
+//    double sum = 0;
+//    for (double i = 1; i < countUntil; i++) {
+//      sum += i;
+//    }
+//    System.out.println(sum);
+//  }
+//}
 
 class MyCallable implements Callable<Double>{
     private final double countUntil;
