@@ -1,3 +1,0 @@
-apple,S,0.5
-apple way,H,-1.5
-apple 3,H,2
