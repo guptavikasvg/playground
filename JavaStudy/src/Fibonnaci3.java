@@ -4,8 +4,10 @@
 //		A building has n steps. A person can take 1,2 or 3 steps. In how many ways can a person reach top of building. Continue reading →
 
 import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 //1 2 ..7 8 9 10
 //
