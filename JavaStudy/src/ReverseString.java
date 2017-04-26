@@ -1,6 +1,6 @@
 
 public class ReverseString {
-
+/*
     private static final String str = "Reverse my string!";
     
     //str = null, "", "x", "xy", ....
@@ -24,4 +24,7 @@ public class ReverseString {
 
 
     }
-}}
+}
+
+*/
+}
