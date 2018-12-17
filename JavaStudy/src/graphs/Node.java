@@ -3,19 +3,37 @@ package graphs;
 import java.util.ArrayList;
 import java.util.List;
 
-class Node {
+public class Node {
+	private int data;
+	private List<Node> children;
+
 	public Node(int i) {
         data = i;
-        children = new ArrayList<Node>();
+        setChildren(new ArrayList<Node>());
 	}
 	
-	void addChild(Node n){
-		children.add(n);
+	public void addChild(Node n){
+		getChildren().add(n);
 	}
-	int data;
-	List<Node> children;
-    
-	void dump(Node root){
-		
+
+	public List<Node> getChildren() {
+		return children;
+	}
+
+	public void setChildren(List<Node> children) {
+		this.children = children;
+	}
+
+	public int getData() {
+		return data;
+	}
+
+	public void setData(int data) {
+		this.data = data;
+	}
+
+	@Override
+	public String toString() {
+		return "[" + data + ']';
 	}
 }

@@ -18,14 +18,14 @@ public class CloneGraph {
         Node root2 = (Node) partners.get(root);
         
         if (root2 == null){
-        	root2 = new Node(root.data);
+        	root2 = new Node(root.getData());
             partners.put(root, root2);
         } else {
         	return root2;
         }
         
         //now handle all children of root
-        for (Node child: root.children){
+        for (Node child: root.getChildren()){
         	root2.addChild(clone(child, partners));
         }
         
@@ -40,10 +40,6 @@ public class CloneGraph {
 		Node n1 = new Node(200);
 		root.addChild(n1);
 	
-		dump(root);
 		Node root2 = clone(root);
-		dump(root2);
-
 	}
-
 }

@@ -7,8 +7,8 @@ public class MemberInitializationTest {
         int[] j; //uninitialized
         int[] k = new int[1]; //initialized
 
-        System.out.println(i); //not ok
-        System.out.println(j); //not ok
+//        System.out.println(i); //not ok
+//        System.out.println(j); //not ok
         System.out.println(k); //ok
     }
 }

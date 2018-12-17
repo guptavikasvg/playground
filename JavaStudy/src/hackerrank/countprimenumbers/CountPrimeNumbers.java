@@ -6,10 +6,7 @@ package hackerrank.countprimenumbers;
 import java.io.IOException;
 
 import java.io.*;
-        import java.util.*;
-        import java.text.*;
-        import java.math.*;
-        import java.util.regex.*;
+import java.util.*;
 
 public class CountPrimeNumbers {
 
@@ -22,7 +19,6 @@ public class CountPrimeNumbers {
         }
         return count;
     }
-
 
     static boolean isPrime(int p) {
         if (p == 1) return false;

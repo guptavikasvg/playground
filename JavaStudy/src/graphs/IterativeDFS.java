@@ -1,19 +1,18 @@
 package graphs;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Stack;
+import java.util.*;
 
 public class IterativeDFS {
 
 	static void dumpStack(Stack<Node> s){
 	
         for (Node object : s) {
-    		System.out.print(object.data + "->");
+    		System.out.print(object.getData() + "->");
 		}
         System.out.println();
 	}
-	
+
+	// Do not use this. This is very complicated. Use doDFS2() below.
     static void doDFS(Node root) {
     	Stack s = new Stack();
     	Map handled = new HashMap();
@@ -28,7 +27,7 @@ public class IterativeDFS {
             	s.pop();
             } else {
             	//check if we have reached leaf
-            	if (n.children == null || n.children.isEmpty()){
+            	if (n.getChildren() == null || n.getChildren().isEmpty()){
             		//print path contained in stack
                     dumpStack(s);
             		
@@ -37,7 +36,7 @@ public class IterativeDFS {
             	} else {
             		//else handle remaining nodes
             		boolean flag = false;  
-                    for (Node child: n.children){
+                    for (Node child: n.getChildren()){
                     	if (!handled.containsKey(child)){
                     		s.push(child);
                     		flag = true; 
@@ -53,10 +52,30 @@ public class IterativeDFS {
             }
     	}
     }
-    
-    static void doDFSRecursive(Node root){
-    	//TODO
-    }
+
+    static List<Node> doDFS2(Node root) {
+		Stack<Node> s = new Stack();
+		s.add(root);
+
+		// tracks if a node is visited or not
+		Map<Node, Boolean> visited = new HashMap<>();
+
+		List<Node> retval = new ArrayList<>();
+		while (!s.isEmpty()) {
+			dumpStack(s);
+			Node n = s.pop();
+
+			retval.add(n);
+			visited.put(n, true);
+			for (Node child : n.getChildren()) {
+				if (visited.get(child) == null) {
+					s.push(child);
+				}
+			}
+		}
+
+		return retval;
+	}
     
     public static void main(String[] args) {
 		Node root = new Node(100);
@@ -73,7 +92,11 @@ public class IterativeDFS {
         
 		root.addChild(n1);
 		root.addChild(n2);
+
+		n5.addChild(new Node(700));
         
-		doDFS(root);
+		//doDFS(root);
+
+		System.out.println(doDFS2(root));
 	}
 }

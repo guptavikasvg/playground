@@ -11,17 +11,22 @@ public class PalindromeWithSpace {
         int i=0;
         int j= s.length()-1;
         while(i < j) {
-            while(s.charAt(i) == ' ')
+            if (s.charAt(i) == ' ') {
                 i++;
-            while(s.charAt(j) == ' ')
+                continue;
+            }
+            if (s.charAt(j) == ' ') {
                 j--;
-            if(s.charAt(i) != s.charAt(j))
+                continue;
+            }
+            if (s.charAt(i) != s.charAt(j))
                 return false;
             i++;
             j--;
         }
         return true;
     }
+
     public static void main(String[] args) throws IOException{
         //true
         System.out.println(isPalindrome("race car"));  
@@ -31,5 +36,7 @@ public class PalindromeWithSpace {
         System.out.println(isPalindrome(" ra  ce car "));
         //false
         System.out.println(isPalindrome("ra ce ar"));
+        System.out.println(isPalindrome(" "));
+        System.out.println(isPalindrome("  "));
     }
 }

@@ -1,7 +1,7 @@
 package trees;
 
 import com.tc.util.Assert;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Interval tree

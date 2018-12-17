@@ -2,7 +2,6 @@ package hackerrank.countprimenumbers;
 
 import org.junit.Test;
 
-import java.io.*;
 import java.util.Scanner;
 
 import static org.junit.Assert.assertEquals;

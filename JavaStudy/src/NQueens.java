@@ -22,6 +22,7 @@ public class NQueens {
 		} while (next(pos) != null);
 
 		//TODO
+		return false;
 	}
 
 	private static Object next(Pair pos) {

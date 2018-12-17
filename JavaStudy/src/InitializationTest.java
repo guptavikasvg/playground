@@ -11,8 +11,8 @@ public class InitializationTest {
     	int j;
     	
     	System.out.println(v + "" + i);
-    	System.out.println(w + "" ); 	//compile-time error - unitialized var on stack
-    	System.out.println( "" + j);    //-do-
+//    	System.out.println(w + "" ); 	//compile-time error - unitialized var on stack
+//    	System.out.println( "" + j);    //-do-
     }
 	/**
 	 * @param args

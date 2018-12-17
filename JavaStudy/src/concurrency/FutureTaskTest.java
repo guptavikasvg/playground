@@ -1,3 +1,4 @@
+package concurrency;
 
 import org.junit.Test;
 
@@ -84,5 +85,4 @@ public class FutureTaskTest {
 			e.printStackTrace();
 		}
 	}
-
 }

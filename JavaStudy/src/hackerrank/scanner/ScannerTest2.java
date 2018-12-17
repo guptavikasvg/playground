@@ -1,5 +1,6 @@
-package scanner;
+package hackerrank.scanner;
 
+import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -9,6 +10,7 @@ import java.util.regex.Pattern;
 public class ScannerTest2 {
     public void test1() {
         String s = "xyz: 123a-45";
+
         String patternStr = "xyz:[ \\t]*([\\S ]+)";
         Pattern p = Pattern.compile(patternStr);
         Matcher m = p.matcher(s);
@@ -19,5 +21,11 @@ public class ScannerTest2 {
                 System.out.println(m.group(i));
             }
         }
+    }
+
+    public void test2() {
+        Scanner scanner = new Scanner(System.in);
+        boolean hasNext = scanner.hasNext();
+        String next = scanner.next();
     }
 }

@@ -35,23 +35,25 @@ public class TwoWayPartition {
 			
 			if (L < R && R != 0){
 				//now swap L & R
-				int temp = array[L];
-				array[L] = array[R];
-				array[R] = temp;				
+				swap(array, L, R);
 			}
 		}
 		
 		assert L == R + 1;
 		if (R != 0){
 			//now swap R & pivot
-			int temp = array[0];
-			array[0] = array[R];
-			array[R] = temp;				
+			swap(array, 0, R);
 		}
 		
 		return R;
 	}
-	
+
+	private static void swap(int[] array, int l, int r) {
+		int temp = array[l];
+		array[l] = array[r];
+		array[r] = temp;
+	}
+
 	public static void main(String[] args) {
 		int[] array={7,4,8,7,6,5,4}; 
 		int pivotIndex = partition(array);
