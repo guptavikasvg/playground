@@ -1,6 +1,6 @@
 package trees;
 
-import com.tc.util.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 
 /**
