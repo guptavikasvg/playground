@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="pkg2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/openjdk-src/langtools/test/tools/javac/ExtDirs/ext2/pkg2.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

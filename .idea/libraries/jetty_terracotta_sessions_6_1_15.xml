@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jetty-terracotta-sessions-6.1.15">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/third-party/jetty-6.1.15/lib/terracotta/jetty-terracotta-sessions-6.1.15.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

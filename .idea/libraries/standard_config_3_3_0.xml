@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="standard-config-3.3.0">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ehcache-2.2.0/terracotta/platform/modules/org/terracotta/modules/standard-config/3.3.0/standard-config-3.3.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

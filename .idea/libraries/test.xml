@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="test">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/openjdk-src/jdk/test/java/net/URLConnection/jars/test.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
