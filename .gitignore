@@ -3,7 +3,9 @@
 
 .idea/
 JavaStudy/.idea/
+JavaStudy/classes/
 /.idea/
 /openjdk-src/.idea/
 openjdk-src/.idea/
 openjdk-src/.idea
+/output/
