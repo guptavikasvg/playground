@@ -1,0 +1,7 @@
+*.class
+*.xml
+
+.idea/
+JavaStudy/.idea/
+/.idea/
+/openjdk-src/.idea/
