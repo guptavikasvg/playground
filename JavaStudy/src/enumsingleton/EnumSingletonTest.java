@@ -1,6 +1,6 @@
 package enumsingleton;
 
-public enum EnumSingleton {
+enum EnumSingleton {
 
 	INSTANCE;
 //	INSTANCE2; //adding this line will create another
@@ -19,19 +19,19 @@ public enum EnumSingleton {
 		System.out.println("goStatic");
 	}
 
-}
-
-class Resource {
-	public Resource() {
-		System.out.println("resource created.");
+	static class Resource {
+		public Resource() {
+			System.out.println("resource created.");
+		}
 	}
 }
 
-class EnumSingletonTest {
+
+public class EnumSingletonTest {
 
 	public static void main(String[] args) {
 		EnumSingleton.goStatic();
-//        EnumSingleton.INSTANCE.go();
-//        EnumSingleton.INSTANCE.go();
+        EnumSingleton.INSTANCE.go();
+        EnumSingleton.INSTANCE.go();
 	}
 }
