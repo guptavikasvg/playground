@@ -1,4 +1,6 @@
-// 1) You are given an array of integers, say a. 
+package arrays.problems;
+
+// 1) You are given an array of integers, say a.
 // Find i, j, k in the array such that a[i] < a[j] < a[k]. 
 // Expected time complexity is O(n), and space complexity is O(1).
 public class Find3IncreasingNumbers {

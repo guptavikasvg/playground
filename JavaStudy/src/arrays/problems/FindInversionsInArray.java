@@ -1,3 +1,5 @@
+package arrays.problems;
+
 public class FindInversionsInArray {
 
     static void updateInversionCount(int left1, int left2, int[] output, int l, int L, int m, int[] inversionCount){
